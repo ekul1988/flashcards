@@ -36,7 +36,7 @@ function shuffle<T>(array: T[]): T[] {
   const shuffled = [...array]
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1))
-      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
   }
   return shuffled
 }
@@ -45,6 +45,8 @@ export default function Home() {
   const [deck, setDeck] = useState<Deck>('core')
   const [mode, setMode] = useState<'all' | 'wrong'>('all')
   const [wrongIds, setWrongIds] = useState<string[]>([])
+  const [cardCount, setCardCount] = useState(20)
+  const [sessionStarted, setSessionStarted] = useState(false)
   const [shuffledCards, setShuffledCards] = useState<Flashcard[]>([])
   const [currentIndex, setCurrentIndex] = useState(0)
   const [showAnswer, setShowAnswer] = useState(false)
@@ -64,24 +66,33 @@ export default function Home() {
     localStorage.setItem('flashcards-wrong', JSON.stringify(wrongIds))
   }, [wrongIds])
 
-  // Shuffle cards when deck or mode changes
+  const deckCards = getDeckCards(deck)
+  const availableCards = mode === 'all'
+    ? deckCards
+    : deckCards.filter(card => wrongIds.includes(card.id))
+  const maxCards = availableCards.length
+  const deckWrongCount = wrongIds.filter(id =>
+    deckCards.some(card => card.id === id)
+  ).length
+
+  // Adjust card count when deck/mode changes
   useEffect(() => {
-    const deckCards = getDeckCards(deck)
-    const cards: Flashcard[] = mode === 'all'
-      ? deckCards
-      : deckCards.filter(card => wrongIds.includes(card.id))
-    setShuffledCards(shuffle(cards))
+    if (cardCount > maxCards) {
+      setCardCount(Math.max(1, maxCards))
+    }
+  }, [maxCards, cardCount])
+
+  const currentCard = shuffledCards[currentIndex]
+
+  const startSession = () => {
+    const cards = shuffle(availableCards).slice(0, cardCount)
+    setShuffledCards(cards)
     setCurrentIndex(0)
     setShowAnswer(false)
     setSessionComplete(false)
     setSessionStats({ right: 0, wrong: 0 })
-  }, [deck, mode, wrongIds.length])
-
-  const currentCard = shuffledCards[currentIndex]
-  const deckCards = getDeckCards(deck)
-  const deckWrongCount = wrongIds.filter(id =>
-    deckCards.some(card => card.id === id)
-  ).length
+    setSessionStarted(true)
+  }
 
   const handleAnswer = (correct: boolean) => {
     if (!currentCard) return
@@ -102,16 +113,13 @@ export default function Home() {
     }
   }
 
-  const resetSession = () => {
-    const deckCards = getDeckCards(deck)
-    const cards: Flashcard[] = mode === 'all'
-      ? deckCards
-      : deckCards.filter(card => wrongIds.includes(card.id))
-    setShuffledCards(shuffle(cards))
-    setCurrentIndex(0)
-    setShowAnswer(false)
+  const endSession = () => {
+    setSessionStarted(false)
     setSessionComplete(false)
-    setSessionStats({ right: 0, wrong: 0 })
+  }
+
+  const restartSession = () => {
+    startSession()
   }
 
   const switchDeck = (newDeck: Deck) => {
@@ -124,14 +132,11 @@ export default function Home() {
   }
 
   const clearWrongAnswers = () => {
-    const deckCards = getDeckCards(deck)
     const deckCardIds = deckCards.map(c => c.id)
     setWrongIds(prev => prev.filter(id => !deckCardIds.includes(id)))
-    if (mode === 'wrong') {
-      resetSession()
-    }
   }
 
+  // Session complete screen
   if (sessionComplete) {
     return (
       <div className="container">
@@ -142,12 +147,65 @@ export default function Home() {
             <span>Correct: {sessionStats.right}</span>
             <span>Wrong: {sessionStats.wrong}</span>
           </div>
-          <button onClick={resetSession}>Start Again</button>
+          <div className="complete-buttons">
+            <button onClick={restartSession}>Start Again</button>
+            <button onClick={endSession} className="secondary">Change Settings</button>
+          </div>
         </div>
       </div>
     )
   }
 
+  // Active session - show flashcards
+  if (sessionStarted) {
+    return (
+      <div className="container">
+        <h1>Flashcards</h1>
+
+        <div className="card" onClick={() => setShowAnswer(!showAnswer)}>
+          <div className="card-label">{showAnswer ? 'Answer' : 'Question'}</div>
+          <div className="card-content">
+            {showAnswer ? currentCard.answer : currentCard.question}
+          </div>
+          {!showAnswer && <div className="card-hint">Click to reveal answer</div>}
+        </div>
+
+        {showAnswer && (
+          <div className="buttons">
+            <button className="btn-wrong" onClick={() => handleAnswer(false)}>
+              Wrong
+            </button>
+            <button className="btn-right" onClick={() => handleAnswer(true)}>
+              Right
+            </button>
+          </div>
+        )}
+
+        <div className="progress">
+          Card {currentIndex + 1} of {shuffledCards.length}
+        </div>
+
+        <div className="stats">
+          <button
+            onClick={endSession}
+            style={{
+              background: 'transparent',
+              border: '1px solid #4a4a6a',
+              padding: '0.5rem 1rem',
+              borderRadius: '4px',
+              color: '#888',
+              cursor: 'pointer',
+              fontSize: '0.75rem'
+            }}
+          >
+            End Session
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  // Setup screen - select deck, mode, card count
   return (
     <div className="container">
       <h1>Flashcards</h1>
@@ -173,35 +231,31 @@ export default function Home() {
         </button>
       </div>
 
-      {shuffledCards.length === 0 ? (
+      {maxCards === 0 ? (
         <div className="empty">
           <p>No cards to review!</p>
           <p>You've mastered all the cards in this deck.</p>
         </div>
       ) : (
         <>
-          <div className="card" onClick={() => setShowAnswer(!showAnswer)}>
-            <div className="card-label">{showAnswer ? 'Answer' : 'Question'}</div>
-            <div className="card-content">
-              {showAnswer ? currentCard.answer : currentCard.question}
+          <div className="slider-container">
+            <label>Number of cards: {cardCount}</label>
+            <input
+              type="range"
+              min="1"
+              max={maxCards}
+              value={cardCount}
+              onChange={(e) => setCardCount(Number(e.target.value))}
+            />
+            <div className="slider-labels">
+              <span>1</span>
+              <span>{maxCards}</span>
             </div>
-            {!showAnswer && <div className="card-hint">Click to reveal answer</div>}
           </div>
 
-          {showAnswer && (
-            <div className="buttons">
-              <button className="btn-wrong" onClick={() => handleAnswer(false)}>
-                Wrong
-              </button>
-              <button className="btn-right" onClick={() => handleAnswer(true)}>
-                Right
-              </button>
-            </div>
-          )}
-
-          <div className="progress">
-            # Correct Cards in a row {currentIndex + 1} of {shuffledCards.length}
-          </div>
+          <button className="start-button" onClick={startSession}>
+            Start
+          </button>
         </>
       )}
 
