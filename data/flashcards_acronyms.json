@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "question": "What does ADR stand for?",
+    "answer": "Alternative Dispute Resolution"
+  },
+  {
+    "id": 2,
+    "question": "What does CRV stand for?",
+    "answer": "Certificate of Reasonable Value (VA Loan)"
+  },
+  {
+    "id": 3,
+    "question": "What does LTV stand for?",
+    "answer": "Loan to Value Ratio"
+  },
+  {
+    "id": 4,
+    "question": "What does FNMA stand for?",
+    "answer": "Federal National Mortgage Association (Fannie Mae)"
+  },
+  {
+    "id": 5,
+    "question": "What does FHLMC stand for?",
+    "answer": "Federal Home Loan Mortgage Corporation (Freddie Mac)"
+  },
+  {
+    "id": 6,
+    "question": "What does GNMA stand for?",
+    "answer": "Government National Mortgage Association (Ginnie Mae)"
+  },
+  {
+    "id": 7,
+    "question": "What does FHA stand for?",
+    "answer": "Federal Housing Administration"
+  },
+  {
+    "id": 8,
+    "question": "What does APR stand for?",
+    "answer": "Annual Percentage Rate (points + interest rate)"
+  },
+  {
+    "id": 9,
+    "question": "What does HUD stand for?",
+    "answer": "Department of Housing and Urban Development"
+  },
+  {
+    "id": 10,
+    "question": "What does ARM stand for?",
+    "answer": "Adjustable Rate Mortgage"
+  },
+  {
+    "id": 11,
+    "question": "What does VA stand for?",
+    "answer": "Veterans Administration"
+  },
+  {
+    "id": 12,
+    "question": "What does RESPA stand for?",
+    "answer": "Real Estate Settlement Procedures Act"
+  },
+  {
+    "id": 13,
+    "question": "What does RAM stand for?",
+    "answer": "Reverse Annuity Mortgage"
+  },
+  {
+    "id": 14,
+    "question": "What does MLC stand for?",
+    "answer": "Municipal Lien Certificate"
+  },
+  {
+    "id": 15,
+    "question": "What does TILA stand for?",
+    "answer": "Truth in Lending Act"
+  },
+  {
+    "id": 16,
+    "question": "What does HELOC stand for?",
+    "answer": "Home Equity Line of Credit"
+  },
+  {
+    "id": 17,
+    "question": "What does ECOA stand for?",
+    "answer": "Equal Credit Opportunity Act"
+  },
+  {
+    "id": 18,
+    "question": "What does PITI stand for?",
+    "answer": "Principal, Interest, Taxes, and Insurance"
+  },
+  {
+    "id": 19,
+    "question": "What does PMI stand for?",
+    "answer": "Private Mortgage Insurance"
+  },
+  {
+    "id": 20,
+    "question": "What does GDP stand for?",
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "id": 21,
+    "question": "What does FSBO stand for?",
+    "answer": "For Sale by Owner"
+  },
+  {
+    "id": 22,
+    "question": "What does NAR stand for?",
+    "answer": "National Association of Realtors"
+  },
+  {
+    "id": 23,
+    "question": "What does MLS stand for?",
+    "answer": "Multiple Listing Service"
+  },
+  {
+    "id": 24,
+    "question": "What does E&O stand for?",
+    "answer": "Errors and Omissions Insurance"
+  },
+  {
+    "id": 25,
+    "question": "What does ALJ stand for?",
+    "answer": "Administrative Law Judge"
+  },
+  {
+    "id": 26,
+    "question": "What does FEMA stand for?",
+    "answer": "Federal Emergency Management Agency"
+  },
+  {
+    "id": 27,
+    "question": "What does ADA stand for?",
+    "answer": "Americans with Disabilities Act"
+  },
+  {
+    "id": 28,
+    "question": "What does CMA stand for?",
+    "answer": "Comparative Market Analysis"
+  },
+  {
+    "id": 29,
+    "question": "What does BPO stand for?",
+    "answer": "Broker Price Opinion"
+  },
+  {
+    "id": 30,
+    "question": "What does USPAP stand for?",
+    "answer": "Uniform Standards of Professional Appraisal Practice"
+  },
+  {
+    "id": 31,
+    "question": "What does URAR stand for?",
+    "answer": "Uniform Residential Appraisal Report"
+  },
+  {
+    "id": 32,
+    "question": "What does GLA stand for?",
+    "answer": "Gross Living Area"
+  },
+  {
+    "id": 33,
+    "question": "What does DUST stand for? (Elements of Value)",
+    "answer": "Demand, Utility, Scarcity, Transferability"
+  },
+  {
+    "id": 34,
+    "question": "What does GRM stand for?",
+    "answer": "Gross Rent Multiplier"
+  },
+  {
+    "id": 35,
+    "question": "What does GIM stand for?",
+    "answer": "Gross Income Multiplier"
+  },
+  {
+    "id": 36,
+    "question": "What does TAW stand for?",
+    "answer": "Tenant at Will"
+  },
+  {
+    "id": 37,
+    "question": "What does NNN stand for?",
+    "answer": "Triple Net – Taxes, Utilities, and Insurance"
+  },
+  {
+    "id": 38,
+    "question": "What does UCC stand for?",
+    "answer": "Uniform Commercial Code"
+  },
+  {
+    "id": 39,
+    "question": "What does HOA stand for?",
+    "answer": "Homeowners Association"
+  },
+  {
+    "id": 40,
+    "question": "What does CC&R stand for?",
+    "answer": "Covenants, Conditions, and Restrictions"
+  },
+  {
+    "id": 41,
+    "question": "What does REI stand for?",
+    "answer": "Real Estate Investment Trust"
+  },
+  {
+    "id": 42,
+    "question": "What does LLC stand for?",
+    "answer": "Limited Liability Corporation"
+  },
+  {
+    "id": 43,
+    "question": "What does OLDCAR stand for?",
+    "answer": "Obedience, Loyalty, Disclosure, Confidentiality, Accounting, Reasonable Care"
+  },
+  {
+    "id": 44,
+    "question": "What is USE SLIME C used for?",
+    "answer": "Mnemonic for the bundle of rights of ownership."
+  },
+  {
+    "id": 45,
+    "question": "What does PITT stand for?",
+    "answer": "Possession, Interest, Time, and Title"
+  },
+  {
+    "id": 46,
+    "question": "What is DEAD CAT P used for?",
+    "answer": "Mnemonic: how to terminate a listing agreement."
+  },
+  {
+    "id": 47,
+    "question": "What is MYLEGS used for?",
+    "answer": "Mnemonic for the Statute of Frauds."
+  },
+  {
+    "id": 48,
+    "question": "What does PILOT stand for?",
+    "answer": "Payment In Lieu Of Taxes"
+  },
+  {
+    "id": 49,
+    "question": "What does PETE stand for?",
+    "answer": "Police Power, Eminent Domain, Taxation, Escheat"
+  },
+  {
+    "id": 50,
+    "question": "What does OCEANS stand for?",
+    "answer": "Open, Continuous, Exclusive, Adverse, Notorious, Statutory"
+  },
+  {
+    "id": 51,
+    "question": "What does MUETA stand for?",
+    "answer": "Massachusetts Uniform Electronic Transaction Act"
+  },
+  {
+    "id": 52,
+    "question": "What does MCAD stand for?",
+    "answer": "Massachusetts Commission Against Discrimination"
+  },
+  {
+    "id": 53,
+    "question": "What does CERCLA stand for?",
+    "answer": "Superfund Law"
+  },
+  {
+    "id": 54,
+    "question": "What does UBC stand for?",
+    "answer": "Uniform Building Code"
+  },
+  {
+    "id": 55,
+    "question": "What does MGL 21E stand for?",
+    "answer": "Massachusetts Oil and Hazardous Material Prevention and Response Act"
+  },
+  {
+    "id": 56,
+    "question": "What does MGL 40A stand for?",
+    "answer": "Massachusetts Zoning Act"
+  },
+  {
+    "id": 57,
+    "question": "What does MGL 40B stand for?",
+    "answer": "Massachusetts Comprehensive Permit Law (Anti-Snob)"
+  },
+  {
+    "id": 58,
+    "question": "What does MGL 93A stand for?",
+    "answer": "Massachusetts Consumer Protection Act"
+  },
+  {
+    "id": 59,
+    "question": "What does MGL 111 stand for?",
+    "answer": "Massachusetts Lead Paint Law"
+  },
+  {
+    "id": 60,
+    "question": "What does MGL 151B stand for?",
+    "answer": "Massachusetts Fair Housing Law"
+  },
+  {
+    "id": 61,
+    "question": "What does MGL 183A stand for?",
+    "answer": "Massachusetts Condominium Law"
+  },
+  {
+    "id": 62,
+    "question": "What does DPH stand for?",
+    "answer": "Department of Public Health (Lead Paint Law)"
+  },
+  {
+    "id": 63,
+    "question": "What does AG stand for?",
+    "answer": "Attorney General (93A)"
+  },
+  {
+    "id": 64,
+    "question": "What does DEP stand for?",
+    "answer": "Department of Environmental Protection (Environmental)"
+  },
+  {
+    "id": 65,
+    "question": "What does MCAD stand for? (Agency)",
+    "answer": "Mass Commission Against Discrimination (Discrimination)"
+  },
+  {
+    "id": 66,
+    "question": "What does DPL stand for?",
+    "answer": "Department of Professional Licensure (Board of Registration)"
+  },
+  {
+    "id": 67,
+    "question": "What is the Sherman Anti-Trust Act?",
+    "answer": "Federal antitrust law that prohibits monopolies and restraint of trade."
+  },
+  {
+    "id": 68,
+    "question": "What is the HUD Poster?",
+    "answer": "Required fair housing poster / notice used to inform the public of fair housing rights."
+  },
+  {
+    "id": 69,
+    "question": "What is the Do Not Call list?",
+    "answer": "Telemarketing registry limiting unsolicited sales calls; rules apply to many solicitation calls."
+  },
+  {
+    "id": 70,
+    "question": "What is Redlining?",
+    "answer": "Discriminatory practice of denying loans/services to certain areas; a fair housing / lending violation."
+  },
+  {
+    "id": 71,
+    "question": "What is Steering?",
+    "answer": "Guiding buyers/renters toward or away from areas based on protected classes; a fair housing violation."
+  },
+  {
+    "id": 72,
+    "question": "What is Blockbusting?",
+    "answer": "Inducing owners to sell by exploiting fear of demographic change; illegal."
+  },
+  {
+    "id": 73,
+    "question": "What is the Civil Rights Act of 1866?",
+    "answer": "Federal law addressing equal rights, including property-related rights regardless of race."
+  },
+  {
+    "id": 74,
+    "question": "What is the Civil Rights Act of 1968 (Title VIII)?",
+    "answer": "The Federal Fair Housing Act."
+  },
+  {
+    "id": 75,
+    "question": "What is the 1988 Fair Housing Amendment?",
+    "answer": "Expanded fair housing protections (e.g., disability and familial status)."
+  },
+  {
+    "id": 76,
+    "question": "What is the Community Reinvestment Act?",
+    "answer": "Encourages banks to meet credit needs in all communities, including low/moderate-income areas."
+  },
+  {
+    "id": 77,
+    "question": "What is the 1997 Taxpayer Relief Act?",
+    "answer": "Tax law that includes the home-sale capital gains exclusion under certain conditions."
+  },
+  {
+    "id": 78,
+    "question": "What is a 1031 Tax Deferred Exchange?",
+    "answer": "Like-kind exchange allowing deferral of capital gains taxes on investment property exchanges if rules are met."
+  },
+  {
+    "id": 79,
+    "question": "What is Truth-in-Lending / Regulation Z?",
+    "answer": "Federal rules requiring clear disclosure of credit terms and costs."
+  },
+  {
+    "id": 80,
+    "question": "What is CERCLA/SARA?",
+    "answer": "Federal environmental laws addressing hazardous waste cleanup and liability."
+  },
+  {
+    "id": 81,
+    "question": "What is the Interstate Land Disclosure Act?",
+    "answer": "Federal law requiring disclosures for certain sales/leases of subdivided land."
+  },
+  {
+    "id": 82,
+    "question": "What are the federal fair housing fine tiers?",
+    "answer": "Common study numbers: $10K, $25K, $50K (often taught as escalating penalty tiers)."
+  },
+  {
+    "id": 83,
+    "question": "What is Megan’s Law?",
+    "answer": "Sex offender registry law; requires registration and public access in many cases."
+  },
+  {
+    "id": 84,
+    "question": "What is RESPA?",
+    "answer": "Real Estate Settlement Procedures Act (disclosure and anti-kickback rules for many residential closings)."
+  },
+  {
+    "id": 85,
+    "question": "How many square feet are in an acre?",
+    "answer": "43,560"
+  },
+  {
+    "id": 86,
+    "question": "How many feet are in a mile?",
+    "answer": "5,280"
+  },
+  {
+    "id": 87,
+    "question": "How many miles are in the US (as listed on the sheet)?",
+    "answer": "2,797 million"
+  },
+  {
+    "id": 88,
+    "question": "Assessment / documentary tax stamps / amortization table are calculated per what unit?",
+    "answer": "Per $1,000 (divide by 1,000 and multiply by base number)."
+  },
+  {
+    "id": 89,
+    "question": "What is the size of a Government Rectangular Survey township?",
+    "answer": "6 miles by 6 miles"
+  },
+  {
+    "id": 90,
+    "question": "How large is a land section in the Government Rectangular Survey?",
+    "answer": "1 square mile"
+  },
+  {
+    "id": 91,
+    "question": "How long is a rod (as listed on the sheet)?",
+    "answer": "5.5 yards"
+  },
+  {
+    "id": 92,
+    "question": "How many square feet are in a yard (as listed on the sheet)?",
+    "answer": "9 square feet"
+  },
+  {
+    "id": 93,
+    "question": "What is the maximum flood insurance coverage on the sheet?",
+    "answer": "$250,000 maximum or the loan amount, whichever is lower"
+  },
+  {
+    "id": 94,
+    "question": "Wetlands: how many feet from flowing water are regulated as setback (sheet)?",
+    "answer": "First 200 feet"
+  },
+  {
+    "id": 95,
+    "question": "Wetlands: how many feet from vegetation is a buffer zone (sheet)?",
+    "answer": "First 100 feet"
+  }
+]

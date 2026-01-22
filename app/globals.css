@@ -19,8 +19,35 @@ body {
 
 h1 {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   color: #fff;
+}
+
+.deck-select {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.deck-select button {
+  padding: 0.5rem 1rem;
+  border: 2px solid #2d5a7b;
+  background: transparent;
+  color: #eee;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 0.875rem;
+}
+
+.deck-select button.active {
+  background: #2d5a7b;
+  border-color: #3d7a9b;
+}
+
+.deck-select button:hover {
+  background: #1d4a6b;
 }
 
 .mode-toggle {
