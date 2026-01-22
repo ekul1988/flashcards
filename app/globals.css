@@ -187,3 +187,50 @@ h1 {
   padding: 3rem;
   color: #888;
 }
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 300px;
+  margin: 3rem auto;
+}
+
+.login-form input {
+  padding: 1rem;
+  border: 2px solid #4a4a6a;
+  border-radius: 8px;
+  background: #16213e;
+  color: #eee;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.login-form input:focus {
+  outline: none;
+  border-color: #6a6a8a;
+}
+
+.login-form button {
+  padding: 1rem;
+  background: #4a4a6a;
+  border: none;
+  border-radius: 8px;
+  color: #eee;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.login-form button:hover {
+  background: #5a5a7a;
+}
+
+.login-form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.login-form .error {
+  color: #e74c3c;
+  text-align: center;
+}
