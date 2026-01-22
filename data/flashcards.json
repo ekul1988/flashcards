@@ -1,0 +1,4047 @@
+[
+  {
+    "id": 1,
+    "question": "What is 6D Certificate?",
+    "answer": "Refers to section of M.G.L. 183A, which verifies owner's payment status of fees and assessments."
+  },
+  {
+    "id": 2,
+    "question": "What is Accession?",
+    "answer": "Additions to a property due to alluvion."
+  },
+  {
+    "id": 3,
+    "question": "What is Accretion?",
+    "answer": "Addition of real estate gradually by deposit of soil through natural causes such as water flow."
+  },
+  {
+    "id": 4,
+    "question": "What is Aeolin Soil?",
+    "answer": "Sand dunes that form at the shoreline due to the action of wind."
+  },
+  {
+    "id": 5,
+    "question": "What is Air Rights?",
+    "answer": "Ownership or lease of air space above real estate, i.e. Sheraton Hotel over Mass Turnpike. billboards atop a building."
+  },
+  {
+    "id": 6,
+    "question": "What is Allodial System?",
+    "answer": "A system of land ownership in which land is held free and clear of any rent or service due to the government; commonly contrasted to the feudal system. Land is held under the allodial system in the United States."
+  },
+  {
+    "id": 7,
+    "question": "What is Alluvium/Alluvion?",
+    "answer": "Soil that is deposited by accretion."
+  },
+  {
+    "id": 8,
+    "question": "What is Annexation?",
+    "answer": "Personal property that becomes permanently attached."
+  },
+  {
+    "id": 9,
+    "question": "What is Appurtenance?",
+    "answer": "A right that accompanies a property. An example would be a right of way through a neighbor's property."
+  },
+  {
+    "id": 10,
+    "question": "What is Avulsion?",
+    "answer": "The loss of land that occurs to a sudden act of nature such as wind or water."
+  },
+  {
+    "id": 11,
+    "question": "What is By-Laws?",
+    "answer": "Rules and regulations put in place by organizations such as a condominium associations to establish guidelines. policies and practices to be adhered to by the association members."
+  },
+  {
+    "id": 12,
+    "question": "What is Chattel?",
+    "answer": "Personal property."
+  },
+  {
+    "id": 13,
+    "question": "What is Common Elements?",
+    "answer": "The common or shared areas in a condominium building."
+  },
+  {
+    "id": 14,
+    "question": "What is Concurrent/Co-Ownership?",
+    "answer": "Ownership by two or more people. Can take form in a variety of ways."
+  },
+  {
+    "id": 15,
+    "question": "What is Condo Super Lien Bill?",
+    "answer": "Gives condo associations the authority to impose a \"priority\" lien (taking precedence over the first mortgage on the condo unit) on owners who fail to make required common-area payments. Singed into law in 1992-the most sweeping revision of the Mass. Condo Law since its enactment."
+  },
+  {
+    "id": 16,
+    "question": "What is Condominium?",
+    "answer": "Multi-unit developments consisting of individually owned units with shared ownership of common areas. The buyer receives a unit deed when they purchase."
+  },
+  {
+    "id": 17,
+    "question": "What is Condominium Budget?",
+    "answer": "A budget created by a condominium association to conduct the operations of a condominium."
+  },
+  {
+    "id": 18,
+    "question": "What is Condominium Documents?",
+    "answer": "A Master Deed, known as the enabling declaration and by-laws, rules and regulation that govern the condominium association. These documents are recorded at the local Registry of Deeds."
+  },
+  {
+    "id": 19,
+    "question": "What is Condominium Fee?",
+    "answer": "A fee paid by condominium unit owners toward the costs associated with the operations of a condominium development."
+  },
+  {
+    "id": 20,
+    "question": "What is Conversion?",
+    "answer": "When a property is changed to a different use or type of ownership; condo conversion from apartments to condominiums"
+  },
+  {
+    "id": 21,
+    "question": "What is Cooperative?",
+    "answer": "A cooperative is a corporation that acquires a building for the purpose of providing housing. When you purchase a cooperative you receive stock certificates for the cooperative and a proprietary lease."
+  },
+  {
+    "id": 22,
+    "question": "What is Corporation?",
+    "answer": "A legal entity created to allow separate interests between the individuals associated with the corporation and their private personal situations."
+  },
+  {
+    "id": 23,
+    "question": "What is Corporeal Property?",
+    "answer": "Tangible property; buildings, garages, trees. Physical in nature."
+  },
+  {
+    "id": 24,
+    "question": "What is Courtesy Rights 1?",
+    "answer": "Upon the death of a wife who owned property in her own name only, the surviving husband is entitled to one-third life interest in the deceased spouse's property."
+  },
+  {
+    "id": 25,
+    "question": "What is Datum?",
+    "answer": "A reference or measuring point such as a line. surface or point used to measure land elevation. Also known as the mean sea level from New York Harbor."
+  },
+  {
+    "id": 26,
+    "question": "What is Declaration Of Trust?",
+    "answer": "A section of a condominium document"
+  },
+  {
+    "id": 27,
+    "question": "What is Dower Rights?",
+    "answer": "The rights of the wife to share in the real estate of her husband if he died without a will and owned the property in his own name only. She is entitled to 1/3 interest."
+  },
+  {
+    "id": 28,
+    "question": "What is Emblements?",
+    "answer": "Annual or semi-annual plantings such as com crops are considered emblements and personal property."
+  },
+  {
+    "id": 29,
+    "question": "What is Erosion?",
+    "answer": "Gradual wearing away of land."
+  },
+  {
+    "id": 30,
+    "question": "What is Fee Simple?",
+    "answer": "Highest form of ownership one can have in real estate, there are no limitations. Indefeasible estate. It is also known as the least limited form of ownership."
+  },
+  {
+    "id": 31,
+    "question": "What is Fixture?",
+    "answer": "An item that is permanently attached to real estate. Light fixtures, built-in bookcases, sinks etc."
+  },
+  {
+    "id": 32,
+    "question": "What is Foreclosure 1?",
+    "answer": "A formal legal procedure by the lender to sell a property that was utilized as collateral because the borrower did not make the payments on schedule."
+  },
+  {
+    "id": 33,
+    "question": "What is Freehold Estate?",
+    "answer": "I An estate that runs for an indefinite time period. Known as Fee, Fee Simple or Fee Simple Absolute. It is the highest form of ownership one could hold. Least limited. Ownership"
+  },
+  {
+    "id": 34,
+    "question": "What is Incorporeal Property?",
+    "answer": "Intangible property. Property that does not have physical being. Easements, a right of way, trademarks, copyrights."
+  },
+  {
+    "id": 35,
+    "question": "What is Intangible Property?",
+    "answer": "Property that does have any physical being, property rights."
+  },
+  {
+    "id": 36,
+    "question": "What is Interval Ownership?",
+    "answer": "Ownership in a timeshare. Ownership for a particular period of time."
+  },
+  {
+    "id": 37,
+    "question": "What is Joint Tenancy?",
+    "answer": "Ownership of realty by two or more persons, each j of who has an undivided interest with the right of survivorship. Typically used by related persons."
+  },
+  {
+    "id": 38,
+    "question": "What is Life Estate?",
+    "answer": "An estate or interest that someone has during their j lifetime or the lifetime of another person. These are not inheritable estates and are the lowest forms of freehold estates."
+  },
+  {
+    "id": 39,
+    "question": "What is Littoral Rights?",
+    "answer": "The rights of a property owner who borders a lake, pond or seashore."
+  },
+  {
+    "id": 40,
+    "question": "What is LLC?",
+    "answer": "Limited Liability Company. A company that's liability is limited to the value of that company. The owners do not have personal liability."
+  },
+  {
+    "id": 41,
+    "question": "What is Master Deed?",
+    "answer": "A legal document that creates a condominium; it describes the individual units and the common areas. It is reviewed by the lender when providing a loan. This document is recorded at the County Registry of Deeds. Units are conveyed in fee simple."
+  },
+  {
+    "id": 42,
+    "question": "What is Master Insurance Policy?",
+    "answer": "A policy obtained by a condominium association that covers replacement or repairs of the buildings and liability. The policy generally covers the four walls outside of an individual condominium."
+  },
+  {
+    "id": 43,
+    "question": "What is Mineral Rights?",
+    "answer": "The rights one has within the enrichments offered in their soil. Gas, oil etc."
+  },
+  {
+    "id": 44,
+    "question": "What is Non-Freehold?",
+    "answer": "Possession of a property via a leasehold."
+  },
+  {
+    "id": 45,
+    "question": "What is Ownership?",
+    "answer": "Means title, conveyed property."
+  },
+  {
+    "id": 46,
+    "question": "What is Partition?",
+    "answer": "A court action designed to separate ownership interest by persons who have property as joint tenants."
+  },
+  {
+    "id": 47,
+    "question": "What is Partnership?",
+    "answer": "An agreement between two or more parties. All partners are responsible for the taxes derived from the income; all partners are responsible for the liabilities."
+  },
+  {
+    "id": 48,
+    "question": "What is Personality?",
+    "answer": "Personal property, items that are movable"
+  },
+  {
+    "id": 49,
+    "question": "What is Project Broker?",
+    "answer": "A broker designated to offer timeshares for sale. An office offering timeshares must be a separate real estate office. Residential sales and timeshare offerings can't be offered by the same office"
+  },
+  {
+    "id": 50,
+    "question": "What is Proprietary Lease?",
+    "answer": "A lease utilized in association with a Cooperative. The lease allows one to occupy space in the building and to use common areas."
+  },
+  {
+    "id": 51,
+    "question": "What is Quarter Ownership?",
+    "answer": "A form of timeshare ownership. Your ownership rights extend for three months a year."
+  },
+  {
+    "id": 52,
+    "question": "What is Real Property?",
+    "answer": "Land and anything associated with the land. Buildings, trees and property rights are part of the real property."
+  },
+  {
+    "id": 53,
+    "question": "What is Reit?",
+    "answer": "Real Estate Investment Trust. Ownership in a real estate held in a trust form for the beneficiaries by a trustee. In the event of a bankruptcy, an investor who puts money into a REIT only loses the money they invested. The organizing force is responsible for additional debts."
+  },
+  {
+    "id": 54,
+    "question": "What is Reliction?",
+    "answer": "Land acquired by receding water."
+  },
+  {
+    "id": 55,
+    "question": "What is Remainderman?",
+    "answer": "Person named to receive an interest in a property in the future."
+  },
+  {
+    "id": 56,
+    "question": "What is Reversionary Interest?",
+    "answer": "A future interest one has in a property. Could be via a life estate or the right to gain control of a leased property."
+  },
+  {
+    "id": 57,
+    "question": "What is Right Of First Ref us al?",
+    "answer": "The right one party has to purchase a property being offered for sale by another property owner. There is a timeframe to which this right can be exercised."
+  },
+  {
+    "id": 58,
+    "question": "What is Right Of Survivorship?",
+    "answer": "The right one party has to claim the interests of another property owner, if that owner died. Joint tenants have this right."
+  },
+  {
+    "id": 59,
+    "question": "What is Riparian Rights?",
+    "answer": "Rights of a property owner who has land that borders a waterway."
+  },
+  {
+    "id": 60,
+    "question": "What is Rod?",
+    "answer": "A unit of measurement. One rod is 16.5 feet. Rods may be when measuring watermarks."
+  },
+  {
+    "id": 61,
+    "question": "What is Severance?",
+    "answer": "When a piece of real property becomes personal property. A tree is real property. When it is cut down and chopped into firewood, it has been severed from the property."
+  },
+  {
+    "id": 62,
+    "question": "What is Special Assessment?",
+    "answer": "i An assessment or charge levied by a condominiwn i j association or town for improvements or j enhancements to a condominiwn or somebody's particular home. j"
+  },
+  {
+    "id": 63,
+    "question": "What is Syndication?",
+    "answer": "A group of individuals who join together to accomplish a common goal. Real Estate Investment Trusts are established to purchase property. Syndicate."
+  },
+  {
+    "id": 64,
+    "question": "What is Tangible Property?",
+    "answer": "A property that has physical existence, buildings, trees. Another term for corporeal property."
+  },
+  {
+    "id": 65,
+    "question": "What is Tenancy By The Entirety r?",
+    "answer": "A form of ownership reserved for husbands and wives."
+  },
+  {
+    "id": 66,
+    "question": "What is Tenancy In Common l?",
+    "answer": "Ownership of one property by different people with each person having equal rights. It is inheritable."
+  },
+  {
+    "id": 67,
+    "question": "What is Tenancy In Severalty?",
+    "answer": "Property owned by one person."
+  },
+  {
+    "id": 68,
+    "question": "What is Tidal Water?",
+    "answer": "Ocean front property."
+  },
+  {
+    "id": 69,
+    "question": "What is l Timeshare l?",
+    "answer": "A form of ownership known as interval ownership. An individual can own a particular week for their life or a specific period of time Utilized in vacation properties."
+  },
+  {
+    "id": 70,
+    "question": "What is Trade Fixtures?",
+    "answer": "Personal property that is used in the ordinary course of business. Although attached, are removable and considered personal property belonging to the business owner."
+  },
+  {
+    "id": 71,
+    "question": "What is Trust?",
+    "answer": "A legal arrangement to transfer property ownership to a third party to hold for the benefit for another."
+  },
+  {
+    "id": 72,
+    "question": "What is Uniform Partnership Act?",
+    "answer": "A law that allows a partner of a company to purchase property utilizing partnership funds while taking title under their own name. The law indicates that the property does not have to be placed in the name of the partnership."
+  },
+  {
+    "id": 73,
+    "question": "What is Unit Deed?",
+    "answer": "A document provided to a purchaser of a condominium. It outlines the person's interest they hold in the condominium and their proof of ownership."
+  },
+  {
+    "id": 74,
+    "question": "What is Unities?",
+    "answer": "A joint tenancy carries four unities: Possession, Interest, Time and Title (PITT)."
+  },
+  {
+    "id": 75,
+    "question": "What is Water Rights 1?",
+    "answer": "The rights of a property owner who abuts the water. They have a right to use the water for swimming, boating, fishing. They are still bound by local regulations."
+  },
+  {
+    "id": 76,
+    "question": "What is 1988 Fair Housing Amendment?",
+    "answer": "This amendment increased coverage for persons with physical and/or mental disabilities and familial status. Familial status refers to discrimination against families with minor children."
+  },
+  {
+    "id": 77,
+    "question": "What is Abandonment?",
+    "answer": "Departure of premises by lessee (tenant) without approval of lessor (property owner/Manager) before expiration of the lease; action does not cancel lease obligations. Chase is on for property owner."
+  },
+  {
+    "id": 78,
+    "question": "What is Agency?",
+    "answer": "The relationship between a broker and a client."
+  },
+  {
+    "id": 79,
+    "question": "What is Agent?",
+    "answer": "A person or corporation that by authority is acting on someone's behalf to represent their interests in a real estate transaction."
+  },
+  {
+    "id": 80,
+    "question": "What is ALJ?",
+    "answer": "An Administrative Law Judge."
+  },
+  {
+    "id": 81,
+    "question": "What is Associate Broker/Broker/Salesperson?",
+    "answer": "A broker who acts as salesperson for a Broker"
+  },
+  {
+    "id": 82,
+    "question": "What is Blockbusting?",
+    "answer": "Violation of the Law. Utilizing fear tactics in order to persuade someone to sell their property."
+  },
+  {
+    "id": 83,
+    "question": "What is Buyer's Agent?",
+    "answer": "A licensed real estate authorized to act on behalf of a buyer. The agent has fiduciary duties to the buyer."
+  },
+  {
+    "id": 84,
+    "question": "What is Care?",
+    "answer": "The agent must proceed with reasonable care when acting on behalf of a client. The agent could be liable for losses if carelessness led to such losses."
+  },
+  {
+    "id": 85,
+    "question": "What is Caveat Emptor?",
+    "answer": "Let the buyer beware'\u00b7"
+  },
+  {
+    "id": 86,
+    "question": "What is Civil Rights Act Of 1866?",
+    "answer": "This act prohibited discrimination on the basis of race."
+  },
+  {
+    "id": 87,
+    "question": "What is Civil Rig,hts Act Of 1968 Title VIII?",
+    "answer": "The Federal Fair Housing Act. Increased coverage for Fair Housing to include race, color, creed, religion, national origin."
+  },
+  {
+    "id": 88,
+    "question": "What is Client?",
+    "answer": "The person who an agent represents. Agents owe clients duties of agency. If you are working with someone but do not represent theirs interests they are a customer."
+  },
+  {
+    "id": 89,
+    "question": "What is Code Of Ethics?",
+    "answer": "An agreement of behavior guidelines that members of an organization agree to follow. Realtors subscribe to a Code of Ethics. Brokers offer compensation to a variety of people who"
+  },
+  {
+    "id": 90,
+    "question": "What is Commission?",
+    "answer": "Compensation earned for services."
+  },
+  {
+    "id": 91,
+    "question": "What is Commission Split?",
+    "answer": "could be involved in a real estate transaction. The listing broker gets a percentage, the selling broker gets a percentage and the broker of record/office would retain a percentage. lf the transaction involved another office the listing broker would receive a percentage, the broker of record would retain a percentage and the office involved would receive a percentage. The amount received by the office is published in MLS or other listing services. All compensation must come from the employing broker."
+  },
+  {
+    "id": 92,
+    "question": "What is Customer?",
+    "answer": "A person who is working with a real estate and is not represented by the real estate agent. The person is a customer of the agent."
+  },
+  {
+    "id": 93,
+    "question": "What is Designated Agent?",
+    "answer": "A real estate licensee who has been appointed by a broker or salesperson to represent them as a \"designated seller's agent\" or a \"designated buyer's agent\". When buyers and sellers consent to designate agency, they acknowledge and approve that only the agent that has been designated to represents works on the behalf and that all other agents affiliated with the broker may represent another party to the transaction. By consenting to designated agency, they permit other"
+  },
+  {
+    "id": 94,
+    "question": "What is Designated Buyer's Agent i?",
+    "answer": "An agent who has been appointed to represent a buyer's interest in a transaction. The agent has a fiduciary responsibility to the buyer. The agent's role is to look out for the buyer. They owe the buyer obedience, loyalty, disclosure, confidentiality, accounting and reasonable care."
+  },
+  {
+    "id": 95,
+    "question": "What is Designated Sellers Agent f?",
+    "answer": "agents to represent other parties. An agent who has been appointed to represent a seller's interest in a transaction. The agent has a fiduciary responsibility to the seller. The agent's role is to look out for the seller. They owe the seller obedience, loyalty, disclosure, confidentiality, accounting and reasonable care."
+  },
+  {
+    "id": 96,
+    "question": "What is Disabled Status?",
+    "answer": "This refers to individuals who have either physical or mental impairments that effect one or more major life functions. Disabled status includes impairments of mobility, speech, sight, hearing, cancer, alcoholism, AIDS and HIV."
+  },
+  {
+    "id": 97,
+    "question": "What is Disclosed Dual Agent?",
+    "answer": "An agent who represents both a buyer and seller in a transaction with expressed and infonned consent of both parties. Written consent must be obtained by the agent prior to the execution of an offer to purchase to a specific property. Dual agents are neutral. Dual agents owe confidentiality and accounting for funds."
+  },
+  {
+    "id": 98,
+    "question": "What is Disclosure Statement?",
+    "answer": "A statement provided by a lender to a borrower, which discloses all finance charges."
+  },
+  {
+    "id": 99,
+    "question": "What is Doctrine Of Respondent Supervisor?",
+    "answer": "Utilized within the law of agency. Indicates that a principal is responsible for the actions of the agent that they hired as long as the agent is acting within the scope of the authority provided."
+  },
+  {
+    "id": 100,
+    "question": "What is Exclusive Agency?",
+    "answer": "This is an agreement in which the owner hires one real estate company to sell their property; the seller also retains the right to sell the property themselves. I,."
+  },
+  {
+    "id": 101,
+    "question": "What is Exclusive Right To Buy?",
+    "answer": "An agreement for an agent to be the sole representative of a prospective buyer. If a buyer purchases a property through another agent or an owner directly during the contractual time period, the buyer would owe the agent a commission."
+  },
+  {
+    "id": 102,
+    "question": "What is Exclusive Right To Sell?",
+    "answer": "This agreement states that the real estate company is the only party that can earn a commission if the property is sold during the period the contract is in place."
+  },
+  {
+    "id": 103,
+    "question": "What is Exemptions To Fair Housing Laws?",
+    "answer": "Religious Organizations, Private Clubs, Individuals who own/occupy a two family house and owners of a single-family property who owns three or fewer rental units and do not sell more than one home in a 24 hour period."
+  },
+  {
+    "id": 104,
+    "question": "What is Facilitator/Non-Agent?",
+    "answer": "An agent who assists the seller and buyer in reaching an agreement but does not represent either party in the transaction. The facilitator and the broker with whom the facilitator is affiliated with owe both the buyer and the seller a duty to present properties honestly and accurately by disclosing known material defects and to account for all funds entrusted them. Unless agreed upon, a facilitator does not have a duty to keep information confidential."
+  },
+  {
+    "id": 105,
+    "question": "What is Fair Housing Violation Penalties?",
+    "answer": "Offense One up to $10,000 Offense Two up to $25,000; Offense Three up to $50,000"
+  },
+  {
+    "id": 106,
+    "question": "What is Fiduciary?",
+    "answer": "A person who holds a position of trust (Real Estate Agent/Property Manager)."
+  },
+  {
+    "id": 107,
+    "question": "What is Franchise?",
+    "answer": "A license granted by a parent company to operate an individually owned company affiliated with the parent company. The company pays a franchise fee and possibly royalties for the use of the name."
+  },
+  {
+    "id": 108,
+    "question": "What is General Agent?",
+    "answer": "A property manager. An agent who has a broad range of duties when acting on behalf of their client."
+  },
+  {
+    "id": 109,
+    "question": "What is HUD?",
+    "answer": "The Department of Housing and Urban Development."
+  },
+  {
+    "id": 110,
+    "question": "What is Law Of Agency?",
+    "answer": "An agreement that calls for a relationship between the principal and the agent authorized to act on behalf of the principal."
+  },
+  {
+    "id": 111,
+    "question": "What is Listing?",
+    "answer": "A property being offered for sale by a licensed real estate broker."
+  },
+  {
+    "id": 112,
+    "question": "What is Listing Agreements?",
+    "answer": "The agent who obtained a listing for sale. The agent will service the listing on behalf of the seller."
+  },
+  {
+    "id": 113,
+    "question": "What is Loyalty?",
+    "answer": "A duty an agent has to the person they represent. They should never do anything that would weaken their client's position. Sellers Agents, Buyers Agents and Designated Agents have an obligation of loyalty to their clients."
+  },
+  {
+    "id": 114,
+    "question": "What is MCAD National?",
+    "answer": "The Massachusetts Commission Against Discrimination The state agency charged with over seeing discrimination complaints."
+  },
+  {
+    "id": 115,
+    "question": "What is MLS?",
+    "answer": "A system used to advertise properties and store information about properties that have already sold. Multiple Listing Service."
+  },
+  {
+    "id": 116,
+    "question": "What is Association Of Realtors (NAR)?",
+    "answer": "A national private trade organization that has state and local organizations. Members call themselves Realtors and can utilize the NAR Trademark Realtors subscribe to a Code of Ethics."
+  },
+  {
+    "id": 117,
+    "question": "What is Net Listing Obedience?",
+    "answer": "An illegal commission charged by Real Estate Professionals. It is when the commission equals an amount of funds over a specified sales price."
+  },
+  {
+    "id": 118,
+    "question": "What is Non-Agent Open House Agent?",
+    "answer": "An agent who does not represent a seller or a buyer. Also known as a Facilitator or transaction broker. The agent does work for either the seller or the buyer."
+  },
+  {
+    "id": 119,
+    "question": "What is i?",
+    "answer": "A licensed agent conducting an open house. The agent is required to post a notice more conspicuous than other material detailing their relationship with prospective purchasers and the homeowner."
+  },
+  {
+    "id": 120,
+    "question": "What is I Open Listing?",
+    "answer": "There can be many brokers attempting to sell the property. Whoever sells the property earns a commission. Owner can sell as well. Does not have to be in writing."
+  },
+  {
+    "id": 121,
+    "question": "What is Panic-Peddling?",
+    "answer": "Causing a panic situation that causes people to sell. Could be associated with blockbusting."
+  },
+  {
+    "id": 122,
+    "question": "What is r Principal i?",
+    "answer": "An amount due on a loan. Also could be the principal person in a transaction. Could be the seller or buyer. The employing broker would be the principal of the office."
+  },
+  {
+    "id": 123,
+    "question": "What is Principal Broker?",
+    "answer": "The broker responsible for the action of a real estate fum."
+  },
+  {
+    "id": 124,
+    "question": "What is Procuring Cause i 1 I?",
+    "answer": "In order to earn a commission. one must be deemed the procuring cause for the sale. The agent conducted an uninterrupted series of actions that resulted in the sale of a property."
+  },
+  {
+    "id": 125,
+    "question": "What is Puffing I?",
+    "answer": "An exaggeration while advertising a property."
+  },
+  {
+    "id": 126,
+    "question": "What is Realtor l?",
+    "answer": "A member of the National Association of Realtors (NAR) a trade organization whose members subscribe to a code of ethics."
+  },
+  {
+    "id": 127,
+    "question": "What is 1 Redlining?",
+    "answer": "A process that targeted certain communities. Lenders refused to loan money in the targeted communities. This process is a Fair Housing violation."
+  },
+  {
+    "id": 128,
+    "question": "What is Salesperson?",
+    "answer": "An agent of the broker; must be licensed."
+  },
+  {
+    "id": 129,
+    "question": "What is Seller's Agent?",
+    "answer": "An agent who represents the interest of the seller. The agent has fiduciary duties to the seller. An information sheet that details zoning, utility"
+  },
+  {
+    "id": 130,
+    "question": "What is Selling Agent I l?",
+    "answer": "The agent who procured the buyer. Could be a seller's agent, buyer's agent or facilitator."
+  },
+  {
+    "id": 131,
+    "question": "What is Seller's Statement Of Property Condition?",
+    "answer": "and structural information about a property being offered for sale. This statement should be completed by the seller of the property. The sel1er provides the broker or agent with authorization to provide the statement to prospective buyers. Although many agents solicit this information, the seller does not have to provide the statement. The form is not mandatory in Massachusetts."
+  },
+  {
+    "id": 132,
+    "question": "What is Service Animals?",
+    "answer": "Refers to animals that assist disabled people by improving the quality of their life."
+  },
+  {
+    "id": 133,
+    "question": "What is j Sherman Anti-Trust Act?",
+    "answer": "Federal and state laws that protect trade and commerce from monopolies."
+  },
+  {
+    "id": 134,
+    "question": "What is i Single Agency?",
+    "answer": "An agent represents only party to the transaction."
+  },
+  {
+    "id": 135,
+    "question": "What is Soldiers And Sailors Civil Relief Act i?",
+    "answer": "An act that prohibits foreclosing on property owned by active military personnel known as the Service Members Civil Relief Act."
+  },
+  {
+    "id": 136,
+    "question": "What is Special Agent?",
+    "answer": "An agent who is authorized to perform a specific task A real estate agent or property manager could be a Special Agent."
+  },
+  {
+    "id": 137,
+    "question": "What is Steering?",
+    "answer": "This is when an agent corals or maneuvers people looking to rent or buy into a particular neighborhood or component of a neighborhood. It is a fair housing violation."
+  },
+  {
+    "id": 138,
+    "question": "What is Subagent?",
+    "answer": "This is a sales agent who is acting as a cooperating agent for another office. They are showing a property and their fiduciary duties are to the seller of the property, despite never meeting the seller. In order to offer subagency in Massachusetts the seller needs to give written permission and acknowledge that they are responsible for the vicarious liability of the subagents."
+  },
+  {
+    "id": 139,
+    "question": "What is Tester?",
+    "answer": "An individual who poses as a consumer for the purpose of identifying questionable or illegal practices. A secret shopper."
+  },
+  {
+    "id": 140,
+    "question": "What is Title Tran sf er?",
+    "answer": "The transfer of real estate from one party to another. A conveyance of ownership."
+  },
+  {
+    "id": 141,
+    "question": "What is Transaction Agent/Broker?",
+    "answer": "An agent known as a Facilitator or Non-Agent. The role of the agent is to assist the buyer or seller to come to an agreement and complete a transaction."
+  },
+  {
+    "id": 142,
+    "question": "What is Universal Agent?",
+    "answer": "Another term for General Agent. A property manager is a general or universal agent."
+  },
+  {
+    "id": 143,
+    "question": "What is Walk-Through?",
+    "answer": "A tour of a property being purchased before the closing takes place. The purpose is to ensure the property being conveyed is in a condition agreed to between the parties."
+  },
+  {
+    "id": 144,
+    "question": "What is Abandonment r?",
+    "answer": "Departure of premises by lessee (tenant) without approval of lessor (property owner/Manager) before expiration of the lease; action does not cancel lease obligations. Chase is on for property owner. I"
+  },
+  {
+    "id": 145,
+    "question": "What is ADA?",
+    "answer": "The Americans with Disability Act."
+  },
+  {
+    "id": 146,
+    "question": "What is Addendum?",
+    "answer": "Changes or additions to a contract. When a buyer has an assignment clause it allows"
+  },
+  {
+    "id": 147,
+    "question": "What is Agreement Of Sale?",
+    "answer": "A bilateral contract (two-way agreement) between a buyer and seller to conduct a real estate transaction. Also known as a Purchase and Sale Agreement or Sales Contract. When a tenant transfers their rights to use leased"
+  },
+  {
+    "id": 148,
+    "question": "What is j Assignment Of A Contract?",
+    "answer": "them to assign their right to purchase a property to someone else. They are not relieved of their obligation to purchase. An agreement between two parties."
+  },
+  {
+    "id": 149,
+    "question": "What is Assignment Of Lease?",
+    "answer": "property, unless the landlord releases them, the tenant remains liable. This could be good faith money paid by the buyer when making an offer on a property. This consideration binds the offer to purchase."
+  },
+  {
+    "id": 150,
+    "question": "What is Bilateral Contract?",
+    "answer": "I.e. Purchase and Sale Contract/Listing Contract. i l"
+  },
+  {
+    "id": 151,
+    "question": "What is Binder?",
+    "answer": "Insurance Companies issue binders when payment is made to insure a property."
+  },
+  {
+    "id": 152,
+    "question": "What is Bona Fide?",
+    "answer": "Means in good faith."
+  },
+  {
+    "id": 153,
+    "question": "What is Breach?",
+    "answer": "A default in an agreement."
+  },
+  {
+    "id": 154,
+    "question": "What is Buyer Agreement?",
+    "answer": "When a buyer hires a real estate agent to represent their interest when purchasing a property"
+  },
+  {
+    "id": 155,
+    "question": "What is CapttalExpendttures?",
+    "answer": "Improvements that were added to a property, such as an addition to the property, new roof, new kitchen. Expenditures contain a useful life and are depreciated over a period of time."
+  },
+  {
+    "id": 156,
+    "question": "What is Capital_Improvement?",
+    "answer": "Improvements that contribute to the economic life of the property. See capital exper,ditures."
+  },
+  {
+    "id": 157,
+    "question": "What is Cash Flow?",
+    "answer": "The final amount after deducting all expenses and the debt service (Principal Interest) from the amount of income collected (Net Operating Income)"
+  },
+  {
+    "id": 158,
+    "question": "What is Consideration?",
+    "answer": "Something of value exchanged between a buyer and seller. It could be money, goods or services."
+  },
+  {
+    "id": 159,
+    "question": "What is Constructive Eviction?",
+    "answer": "This is an action that a tenant can take to vacate an apartment that is not fit for occupancy. If the owner does not comply with certain terms of the tenancy such as supplying a heating system or water, the tenant can vacate by Constructive Eviction."
+  },
+  {
+    "id": 160,
+    "question": "What is Contract?",
+    "answer": "A legal document between parties calling on them to perform an obligation. To be enforceable it must be legal and be in writing."
+  },
+  {
+    "id": 161,
+    "question": "What is Contract Essentials?",
+    "answer": "r n order for a contract to be valid and enforceable it must contain certain essentials-Offer and Acceptance, Consideration, Legal Capacity, Legality of Agreement and Realty of Consent."
+  },
+  {
+    "id": 162,
+    "question": "What is Counter Off er?",
+    "answer": "A rebuttal to an offer made on a property. The counter voids out the original offer."
+  },
+  {
+    "id": 163,
+    "question": "What is Covenant Of Quiet Enjoyment?",
+    "answer": "A right that allows a tenant to enjoy the rented premises in peace."
+  },
+  {
+    "id": 164,
+    "question": "What is Damages?",
+    "answer": "Money paid in the event of a breach of contract."
+  },
+  {
+    "id": 165,
+    "question": "What is Debt Service?",
+    "answer": "Periodic payments made on a loan, usually principal and interest"
+  },
+  {
+    "id": 166,
+    "question": "What is Default?",
+    "answer": "A failure to comply with the terms of a contact."
+  },
+  {
+    "id": 167,
+    "question": "What is Disclosure?",
+    "answer": "Agents must disclose all defects associated with a property they are showcasing."
+  },
+  {
+    "id": 168,
+    "question": "What is Due Diligence?",
+    "answer": "Actions conducted by those bound by contractual agreements calling for them to perform specific actions within designated time periods."
+  },
+  {
+    "id": 169,
+    "question": "What is Duress?",
+    "answer": "Forcing someone to do something or not to do something against their will."
+  },
+  {
+    "id": 170,
+    "question": "What is Earnest Money?",
+    "answer": "The binder money paid by the buyer when making an offer on a piece of property. It is consideration to bind the offer."
+  },
+  {
+    "id": 171,
+    "question": "What is Effective Gross Income?",
+    "answer": "The amount of money actua11y collected from the operations of a property"
+  },
+  {
+    "id": 172,
+    "question": "What is Equitable Title?",
+    "answer": "The interest acquired by the buyer when the buyer and seller enter;nto a Purchase and Sale Contract."
+  },
+  {
+    "id": 173,
+    "question": "What is Escalator Clause?",
+    "answer": "A clause that calls for increases in the rent."
+  },
+  {
+    "id": 174,
+    "question": "What is Escrow Account?",
+    "answer": "An account administered by a broker or property owner designed to hold money that belongs to another."
+  },
+  {
+    "id": 175,
+    "question": "What is Estate For Years?",
+    "answer": "The grantee holds the estate for a specified and limited time."
+  },
+  {
+    "id": 176,
+    "question": "What is Executed Contract?",
+    "answer": "When the actions of the two parties who entered into an executory contract have been fully completed."
+  },
+  {
+    "id": 177,
+    "question": "What is Executory Contract?",
+    "answer": "When two parties agree to enter into an action that calls for them each to perform."
+  },
+  {
+    "id": 178,
+    "question": "What is I Express Contract i l?",
+    "answer": "An agreement that is in writing and the particulars are outlined in the contract."
+  },
+  {
+    "id": 179,
+    "question": "What is Forfeiture?",
+    "answer": "Loss of money due to failure to execute an agreement."
+  },
+  {
+    "id": 180,
+    "question": "What is Fraud?",
+    "answer": "Intentionally deceiving someone, hiding a fact that j may have an impact on there decision making process. Your actions could cause hann."
+  },
+  {
+    "id": 181,
+    "question": "What is General Agent \u20221?",
+    "answer": "A property manager. An agent who has a broad range of duties when acting on behalf of their client."
+  },
+  {
+    "id": 182,
+    "question": "What is Good Consideration l?",
+    "answer": "Means love and affection. Something of value given as consideration to secure a property transfer. Someone purchases a property for $1.00."
+  },
+  {
+    "id": 183,
+    "question": "What is Graduated Lease?",
+    "answer": "A lease arrangement that call for periodic increases in rent over time."
+  },
+  {
+    "id": 184,
+    "question": "What is Gross Lease?",
+    "answer": "Owner receives rent and pays expenses such as taxes, maintenance. Most residential leases are gross leases."
+  },
+  {
+    "id": 185,
+    "question": "What is Ground Lease?",
+    "answer": "Also known as a land lease. A property owner leases land to someone who desires the location or wants to build to specifications. The building becomes part of the security for the lease."
+  },
+  {
+    "id": 186,
+    "question": "What is Holdover Tenant?",
+    "answer": "A tenant who remains in possession of an apartment after the expiration of the rental agreement without the owner's possession. They hold the premises from being rented to someone new."
+  },
+  {
+    "id": 187,
+    "question": "What is Implied Contracts?",
+    "answer": "An agreement that may be determined by the actions and conduct of the parties involved. It is not in writing."
+  },
+  {
+    "id": 188,
+    "question": "What is Index Lease?",
+    "answer": "A lease that call for adjustments to the rent in relation to identified indexes such as the consumer price index (CPI)."
+  },
+  {
+    "id": 189,
+    "question": "What is Lease?",
+    "answer": "A contractual agreement between a landlord and a tenant for possession and use of a designated apartment for a particular period of time and price. Owner retains a reversionary interest-reclaim at the end of the lease."
+  },
+  {
+    "id": 190,
+    "question": "What is Leaseback?",
+    "answer": "Someone sells a property then leases it back from the new owner. Seller receives capital and gets to deduct the cost of rental expenses."
+  },
+  {
+    "id": 191,
+    "question": "What is Legal Capacity?",
+    "answer": "An essential element for a valid contract. Calls for the parties to be competent when entering into contracts. Signing while intoxicated, insane or a minor will lack capacity."
+  },
+  {
+    "id": 192,
+    "question": "What is Legal Title r?",
+    "answer": "A buyer receives legal title to a property when they receive and accept the deed conveying the property to them. 1"
+  },
+  {
+    "id": 193,
+    "question": "What is Liquidated Damages?",
+    "answer": "A predetermined amount one party would pay to another party if they defaulted on the terms of a contract."
+  },
+  {
+    "id": 194,
+    "question": "What is Listing Agreements?",
+    "answer": "Contracts that allow a real estate broker to sell a property. Three main types: Exclusive Right to Sell, Exclusive Agency, Open Listing"
+  },
+  {
+    "id": 195,
+    "question": "What is Meeting Of Minds?",
+    "answer": "An offer was made and accepted. The parties have agreed."
+  },
+  {
+    "id": 196,
+    "question": "What is Misrepresentation?",
+    "answer": "A misstatement about the condition of a property or the rights that run with a property. In order for a contract to be valid it must be free from misrepresentation"
+  },
+  {
+    "id": 197,
+    "question": "What is Net Lease (NNN) i?",
+    "answer": "Owner charges base rent plus a portion of expenses such as taxes, utilities, and insurance. Seen in commercial leases."
+  },
+  {
+    "id": 198,
+    "question": "What is I Net Operating Income (NOi)?",
+    "answer": "The amount of money on hand after you subtract the operating expenses from the effective gross income. Effective Gross lncome Operating Expenses= NOI"
+  },
+  {
+    "id": 199,
+    "question": "What is Novation?",
+    "answer": "Substitution"
+  },
+  {
+    "id": 200,
+    "question": "What is Offer?",
+    "answer": "A bid by the buyer to purchase a parcel of property."
+  },
+  {
+    "id": 201,
+    "question": "What is Offer And Acceptance?",
+    "answer": "A meeting of the minds. Mutual Assent. r"
+  },
+  {
+    "id": 202,
+    "question": "What is Offer To Purchase?",
+    "answer": "The buyer's proposal to purchase a property. If agreed to by the seller within a stated timeframe the Offer becomes a legal binding document."
+  },
+  {
+    "id": 203,
+    "question": "What is Operating Expenses?",
+    "answer": "The costs of operating a property such as property, taxes, maintenance, repairs, property management fees, etc."
+  },
+  {
+    "id": 204,
+    "question": "What is Option?",
+    "answer": "A contract between two parties to either sell or buy a property at a future date. The owner is the option or and gives a right to a buyer optionee) to purchase a property by a future specified date and price. The buyer does not have to purchase if they decide not to. Unilateral Contract."
+  },
+  {
+    "id": 205,
+    "question": "What is Option Contract?",
+    "answer": "A contract that allows a buyer to purchase a property at a future date, at an already determined price. The buyer pays consideration for the option. The seller retains the consideration if the buyer does not purchase and the seller is prohibited from selling the property to anyone else."
+  },
+  {
+    "id": 206,
+    "question": "What is Percentage Lease?",
+    "answer": "A lease arrangement, which has a fixed rent plus a percentage of gross sales from the business. Used with Shopping Centers."
+  },
+  {
+    "id": 207,
+    "question": "What is Projected Gross Income?",
+    "answer": "The most money a property will return ifthere are no vacancies."
+  },
+  {
+    "id": 208,
+    "question": "What is Property Manager?",
+    "answer": "A fiduciary of the property owner. Their role is to secure the highest possible net income or the property owner. A general agent; does not need to be licensed in Massachusetts."
+  },
+  {
+    "id": 209,
+    "question": "What is Protection Period?",
+    "answer": "A clause that provides a level of protection for a broker once a contract has expired. Limits the seller's ability to sell the property to a buyer who was introduced to the property by the broker within a certain timeframe."
+  },
+  {
+    "id": 210,
+    "question": "What is Quiet Enjoyment?",
+    "answer": "The rights of the occupant or owner to enjoy the premises without interference."
+  },
+  {
+    "id": 211,
+    "question": "What is Reality Of Consent?",
+    "answer": "A contract must be free from fraud, misrepresentation, duress, undue influence, and error."
+  },
+  {
+    "id": 212,
+    "question": "What is Rescission?",
+    "answer": "The parties who signed a contract are returned to their original position before they entered into the agreement."
+  },
+  {
+    "id": 213,
+    "question": "What is Rescission Of Contract?",
+    "answer": "Cancellation of a contract. Everyone is returned to the position they held before signing the agreement. Can be voluntary or court ordered."
+  },
+  {
+    "id": 214,
+    "question": "What is Reversionary Interest?",
+    "answer": "The right to recover an interest in a property, a property owner taking re-control of an apartment after the termination of a rental agreement or an individual who granted a life estate and took re- control of the property as the remainder man of a property."
+  },
+  {
+    "id": 215,
+    "question": "What is Revocation?",
+    "answer": "Cancellation. l"
+  },
+  {
+    "id": 216,
+    "question": "What is Right Of First Refusal?",
+    "answer": "The right one party has to purchase a property being offered for sale by another property owner. There is a timeframe to which this right can be exercised."
+  },
+  {
+    "id": 217,
+    "question": "What is Sale/Leaseback?",
+    "answer": "This is when a property owner sells their property to another and then leases the property back. They go from being the owner of the property to being a tenant."
+  },
+  {
+    "id": 218,
+    "question": "What is Sales Contracts?",
+    "answer": "Known as Purchase Sale Agreement. It is a final contract between a seller and a buyer."
+  },
+  {
+    "id": 219,
+    "question": "What is Sandwich Lease?",
+    "answer": "This is a lease between a tenant and a sub-let tenant."
+  },
+  {
+    "id": 220,
+    "question": "What is Security Deposit?",
+    "answer": "A deposit made by a tenant aimed at preventing damage to the apartment. Landlords may keep deposits if damages are severe."
+  },
+  {
+    "id": 221,
+    "question": "What is Specific Performance?",
+    "answer": "A court decision that orders one party to comply with terms and fulfill the obligations of the contract."
+  },
+  {
+    "id": 222,
+    "question": "What is Statute of Frauds?",
+    "answer": "A law that requires real estate contracts to be in writing in order to be valid and enforceable in court of law."
+  },
+  {
+    "id": 223,
+    "question": "What is Statute Of Limitations?",
+    "answer": "A time period, to which one can attempt to void, alter or cancel a contract through legal action. The statute of limitations in MA regarding contracts is 6 years."
+  },
+  {
+    "id": 224,
+    "question": "What is Step-Up Lease?",
+    "answer": "With this type of lease, a property owner would increase the rent over a period of time."
+  },
+  {
+    "id": 225,
+    "question": "What is Subrogation I?",
+    "answer": "An attempt by one party to collect losses from the party responsible for the losses."
+  },
+  {
+    "id": 226,
+    "question": "What is Sub-Let?",
+    "answer": "This is when a tenant sub-leases an apartment to another. The original tenant is still responsible for the rent if the sub-let tenant defaults."
+  },
+  {
+    "id": 227,
+    "question": "What is Tenancy At Will (TAW)?",
+    "answer": "A month-to-month agreement to rent a between a property owner and a tenant. Either can cancel the arrangement by providing the other with thirty days written notice to cancel the agreement."
+  },
+  {
+    "id": 228,
+    "question": "What is Tenancy At Sufferance?",
+    "answer": "The tenant is a holdover tenant. They were supposed to leave but remain in the premises without the owner's consent."
+  },
+  {
+    "id": 229,
+    "question": "What is Tenancy For Period To Period?",
+    "answer": "A rental agreement that runs for a specific duration and is automatically extended if neither party cancels the agreement with a specified time frame."
+  },
+  {
+    "id": 230,
+    "question": "What is r\u2022- Time Is Of Essence?",
+    "answer": "An agreement to abide by the dates in the contract. ASAP."
+  },
+  {
+    "id": 231,
+    "question": "What is Unenforceable Contract?",
+    "answer": "A contract that contains essential elements but cannot be enforced, i.e. an unsigned contract."
+  },
+  {
+    "id": 232,
+    "question": "What is Unilateral Contract?",
+    "answer": "It is an agreement that calls for one party to act if another party completed a task. An option contract or a listing are examples of unilateral contracts."
+  },
+  {
+    "id": 233,
+    "question": "What is Universal Agent?",
+    "answer": "Another term for General Agent. A property manager is a general or universal agent."
+  },
+  {
+    "id": 234,
+    "question": "What is Unlawful Detainer?",
+    "answer": "Illegal possession of property that belongs to another."
+  },
+  {
+    "id": 235,
+    "question": "What is Vacancy Rate?",
+    "answer": "The amount of vacant apartments divided by the total number of apartments"
+  },
+  {
+    "id": 236,
+    "question": "What is Valid Contract?",
+    "answer": "An agreement that legally binds the parties who have entered into an agreement. The agreement contains all the essential elements of a contract. The essential elements are offer and acceptance, consideration, legal capacity and realty of consent."
+  },
+  {
+    "id": 237,
+    "question": "What is Valuable Consideration?",
+    "answer": "This is money exchanged for the purchase of a property or other item"
+  },
+  {
+    "id": 238,
+    "question": "What is Void Contract?",
+    "answer": "An agreement that has the appearance of being binding but is not binding because the actions were not legal. There is no binding authority."
+  },
+  {
+    "id": 239,
+    "question": "What is Voidable Contract?",
+    "answer": "A contract that is binding upon the parties; however, it can be voided if an action is taken to cancel it out. The contract is valid on face value and is binding until court action is taken."
+  },
+  {
+    "id": 240,
+    "question": "What is Ad Valorem?",
+    "answer": "Property tax assessment system utilized by cities and towns to determine assessed value for property tax purposes."
+  },
+  {
+    "id": 241,
+    "question": "What is Appurtenance?",
+    "answer": "A right that accompanies a property. An example would be a right of way through a neighbor's property."
+  },
+  {
+    "id": 242,
+    "question": "What is Assessed Valuation?",
+    "answer": "j A right that accompanies a property. An example i would be a right of way through a neighbor's property."
+  },
+  {
+    "id": 243,
+    "question": "What is Attachment?",
+    "answer": "l When a property is legally seized to enforce the payment of a debt."
+  },
+  {
+    "id": 244,
+    "question": "What is Betterment Assessments?",
+    "answer": "I Improvements conducted by the town such as sewer lines. Sometimes private owners must pay for these betterments in addition to their property taxes. Payments can be spread over time with the owners paying interest as well as betterment charge."
+  },
+  {
+    "id": 245,
+    "question": "What is Building Codes?",
+    "answer": "r Regulations established by cities and towns that enforce structural requirements and procedures. This referred to as police power."
+  },
+  {
+    "id": 246,
+    "question": "What is CC&R?",
+    "answer": "Conditions, covenants and restrictions"
+  },
+  {
+    "id": 247,
+    "question": "What is Condemnation?",
+    "answer": "The process of taking property by law of eminent domain."
+  },
+  {
+    "id": 248,
+    "question": "What is Conditional Use?",
+    "answer": "When the town allows you to use a property inconsistent with the zoning."
+  },
+  {
+    "id": 249,
+    "question": "What is Covenant?",
+    "answer": "A condition that exists in a deed. May be a restriction in a deed."
+  },
+  {
+    "id": 250,
+    "question": "What is Defensible Estate?",
+    "answer": "If a seller placed a restriction on the buyer's ownership and the buyer violated this restriction the grantor or their heirs could reclaim the property. This restriction runs with the land."
+  },
+  {
+    "id": 251,
+    "question": "What is Deed Of Trust (Trust Deed)?",
+    "answer": "Utilized in California, it replaces a mortgage used instead of a mortgage deed."
+  },
+  {
+    "id": 252,
+    "question": "What is Dominant Tenement 1?",
+    "answer": "This is the owner of a property who has the right to cross the lot of the other owner when there is an easement."
+  },
+  {
+    "id": 253,
+    "question": "What is Easement?",
+    "answer": "The right that someone bas in the land of another. Runs with the land."
+  },
+  {
+    "id": 254,
+    "question": "What is Easement Appurtenant?",
+    "answer": "Two adjoining lots that give one owner the right to cross over the adjoining lot."
+  },
+  {
+    "id": 255,
+    "question": "What is Easement By Prescription i?",
+    "answer": "An easement that can be created when one party property that belongs to another. The property must be used openly, continuously and notoriously for 20 years."
+  },
+  {
+    "id": 256,
+    "question": "What is Easement In Gross?",
+    "answer": "The owner of a parcel of property gives someone else the right to use his or her property for a specified period oftime. This right is not transferable, it is exclusive permission."
+  },
+  {
+    "id": 257,
+    "question": "What is Egress?",
+    "answer": "Access out."
+  },
+  {
+    "id": 258,
+    "question": "What is Eminent Domain?",
+    "answer": "This is the right that the government has to take private property for public use. This is the law, condemnation is the process. Government must pay fair price for the property."
+  },
+  {
+    "id": 259,
+    "question": "What is Encroachment?",
+    "answer": "This is when a neighboring property is intruding on the subject property. Could be trees, driveways, fences or a building that protrudes over the property line."
+  },
+  {
+    "id": 260,
+    "question": "What is l Encumbrance?",
+    "answer": "A lien against the title outstanding loan balance)."
+  },
+  {
+    "id": 261,
+    "question": "What is Environmental Requirement?",
+    "answer": "Ordinances enacted to protect land, lakes, rivers. marshland and wetlands. These are laws to prevent illegal dumping of hazardous waste on our natural resources."
+  },
+  {
+    "id": 262,
+    "question": "What is Equitable Title?",
+    "answer": "The interest acquired by the buyer when the buyer and seller enter into a Purchase and Sale Contract."
+  },
+  {
+    "id": 263,
+    "question": "What is Escheat?",
+    "answer": "The right that the state has to take property if or when someone died without a will and did not have any heirs."
+  },
+  {
+    "id": 264,
+    "question": "What is Installment Sales Contract?",
+    "answer": "Known also as a Land Contract, Contract for Deed or Conditional Sales Contract. This when a seller a property to another but holds the title until buyer satisfies the payment schedule."
+  },
+  {
+    "id": 265,
+    "question": "What is Involuntary Lien?",
+    "answer": "A lien issued against a property not of the Property owners undertaking, i.e. property taxes."
+  },
+  {
+    "id": 266,
+    "question": "What is Ingress?",
+    "answer": "An entrance inward."
+  },
+  {
+    "id": 267,
+    "question": "What is Legal Title?",
+    "answer": "A buyer receives legal title to a property when they receive and accept the deed conveying the property to them."
+  },
+  {
+    "id": 268,
+    "question": "What is License?",
+    "answer": "Permission to use the property of another. It can be revoked at any time. It does not involve a lease."
+  },
+  {
+    "id": 269,
+    "question": "What is Lis Pendens?",
+    "answer": "A notice recorded at the Registry of Deeds indicating that there is impending action regarding the title to the property."
+  },
+  {
+    "id": 270,
+    "question": "What is Mechanic's Lien?",
+    "answer": "A lien placed against a property by a contactor, subcontractor or materials person due to failure to pay for services."
+  },
+  {
+    "id": 271,
+    "question": "What is Money Encumbrance?",
+    "answer": "A lien against a property~ mortgages, installment contracts."
+  },
+  {
+    "id": 272,
+    "question": "What is Mortgage?",
+    "answer": "I The borrower gives a mortgage to the lender when they pledge their property as collateral to secure a loan."
+  },
+  {
+    "id": 273,
+    "question": "What is Municipal Taxes?",
+    "answer": "First and paramount to the priority of liens. Property taxes issued by a city or town."
+  },
+  {
+    "id": 274,
+    "question": "What is Non-Conforming Use?",
+    "answer": "A property that does not comply with current zoning requirements but did comply before a zoning change. The property is considered Grand fathered."
+  },
+  {
+    "id": 275,
+    "question": "What is Non-Money Encumbrance?",
+    "answer": "Physical restrictions against a property such as an encroachment or easement."
+  },
+  {
+    "id": 276,
+    "question": "What is Party Wall?",
+    "answer": "A wall/boundary located between two properties that is intended to be used by both properties. Example: connected townhouses."
+  },
+  {
+    "id": 277,
+    "question": "What is Police Power?",
+    "answer": "Building codes, zoning and licensing laws enacted to protect the public interest. Enforced by local government."
+  },
+  {
+    "id": 278,
+    "question": "What is Priority Of Liens?",
+    "answer": "The order which liens are recorded at the Registry of Deeds. Taxes are always first. Liens are paid in the order they are recorded. A first loan will usually have a clause that indicates other liens are subordinate to them."
+  },
+  {
+    "id": 279,
+    "question": "What is Private Restrictions?",
+    "answer": "Covenants recorded in a subdivision. Restrictions that run with the land. Recorded by developer."
+  },
+  {
+    "id": 280,
+    "question": "What is Public Restrictions?",
+    "answer": "Restrictions placed by the government to promote health, welfare and public safety of a community. Known as a police power."
+  },
+  {
+    "id": 281,
+    "question": "What is Recording?",
+    "answer": "Constructive notice. A filing of a document such as a mortgage or a deed at the local Registry of Deeds."
+  },
+  {
+    "id": 282,
+    "question": "What is Servient Tenement?",
+    "answer": "r: This is the owner of a property whose land has a burden. The burden is known as an encumbrance."
+  },
+  {
+    "id": 283,
+    "question": "What is Setback?",
+    "answer": "A distance that must be maintained from neighboring in order to build."
+  },
+  {
+    "id": 284,
+    "question": "What is Special Assessn,ent?",
+    "answer": "An assessment or charge levied by a condominium j association or town for improvements or enhancements to a condominium or somebody's particular home."
+  },
+  {
+    "id": 285,
+    "question": "What is Specific Lien?",
+    "answer": "A lien placed against a specific parcel of real estate."
+  },
+  {
+    "id": 286,
+    "question": "What is Statutory Lien?",
+    "answer": "A lien that is created by law or statute; i.e. unpaid taxes."
+  },
+  {
+    "id": 287,
+    "question": "What is Tax Rate?",
+    "answer": "The tax rate charged by a city or town."
+  },
+  {
+    "id": 288,
+    "question": "What is Variance?",
+    "answer": "Permission from the town or city to utilize a property in exception to the current zoning regulations. Usually there is a hearing process to grant exception."
+  },
+  {
+    "id": 289,
+    "question": "What is Voluntary Lien?",
+    "answer": "A lien against a property created by the voluntary actions of the borrower such as a loan to purchase property."
+  },
+  {
+    "id": 290,
+    "question": "What is Zoning Ordinances i?",
+    "answer": "An ordinance or guideline implemented by a city or town to regulate the use of specific properties regarding land use, building size, lot size, height requirements and distance from property lines"
+  },
+  {
+    "id": 291,
+    "question": "What is Abstract Of Title 1?",
+    "answer": "Each purchase and refinance must have a title search. This search provides a report that contains a condensed history of legal title, that summarizes all instruments in the chain of ownership; (Mortgages, Liens) conducted by the closing attorney, paid for by buyer-part of closing cost."
+  },
+  {
+    "id": 292,
+    "question": "What is Acknowledgement?",
+    "answer": "Act of signing a legal instrument. Could be a deed, mortgage or other documents. You must appear before a lawyer or other officer of state such as a notary public; this act declares signing to be free and voluntary; this is necessary before recording certain documents at the Registry of"
+  },
+  {
+    "id": 293,
+    "question": "What is Action To Quiet Title?",
+    "answer": "Court action to settle a dispute about title."
+  },
+  {
+    "id": 294,
+    "question": "What is Actual Notice?",
+    "answer": "Actual knowledge of legal matter-served papers."
+  },
+  {
+    "id": 295,
+    "question": "What is Adverse Possession 1 1?",
+    "answer": "Occupant's right to make claim to a property owned by another if the person making the claim can prove they used the land openly, notoriously, continuously and adversely and without permission for 20 years; squatter's rights."
+  },
+  {
+    "id": 296,
+    "question": "What is Bargain And Sale Deed r?",
+    "answer": "A deed that coveys title but does not carry any warranties."
+  },
+  {
+    "id": 297,
+    "question": "What is Baseline?",
+    "answer": "An indicator line located on a Government Rectangular Survey Plan. Baselines run east and west on the plan."
+  },
+  {
+    "id": 298,
+    "question": "What is Benchmark?",
+    "answer": "A permanent mark on a cement stone that is used as a measuring point by surveyors."
+  },
+  {
+    "id": 299,
+    "question": "What is Bequeath?",
+    "answer": "The giving of personal property by means of a will. Also known as a bequest or legacy."
+  },
+  {
+    "id": 300,
+    "question": "What is B~ok/Page?",
+    "answer": "The reference for recorded documents at the Registry of Deeds."
+  },
+  {
+    "id": 301,
+    "question": "What is Certificate Of Title?",
+    "answer": "This is a written declaration by the attorney or title company that researched the title certifying that the title is clean. There is clear and marketable title."
+  },
+  {
+    "id": 302,
+    "question": "What is Chain Of Title?",
+    "answer": "The history of sales and liens that have been placed on a particular property. Found during title search."
+  },
+  {
+    "id": 303,
+    "question": "What is Clear Record?",
+    "answer": "According to the records at the Registry of Deeds the property stands in the name of the owner and there are no claims made against the property."
+  },
+  {
+    "id": 304,
+    "question": "What is Cloud On Title?",
+    "answer": "This is an outstanding claim being made against a property, if correct it has an impact on the marketability of the property because the seller would not be able to deliver clear title."
+  },
+  {
+    "id": 305,
+    "question": "What is Codicil?",
+    "answer": "This is an amendment or addition to a will."
+  },
+  {
+    "id": 306,
+    "question": "What is Color Of Title?",
+    "answer": "The seller appears to have good title but does not."
+  },
+  {
+    "id": 307,
+    "question": "What is Condemnation?",
+    "answer": "I The process of taking property by law of eminent domain."
+  },
+  {
+    "id": 308,
+    "question": "What is Conformity Deed?",
+    "answer": "A deed enacted without consideration for the purpose of confirming a prior recording. Its purpose is to confirm ownership of property that might be unclear in a past conveyance due to a spelling error or mistake in the prior deed."
+  },
+  {
+    "id": 309,
+    "question": "What is Constructive Notice?",
+    "answer": "A recording at the Registry of Deeds. A notice filed that records a lien, mortgage, or conveyance. Public record of an act."
+  },
+  {
+    "id": 310,
+    "question": "What is Covenant Of Seizin L?",
+    "answer": "A guarantee from the grantor that they are the true owner of a property and possess the right to sell it."
+  },
+  {
+    "id": 311,
+    "question": "What is Dedication I?",
+    "answer": "To give private property to a public entity for a designated purpose."
+  },
+  {
+    "id": 312,
+    "question": "What is Deed?",
+    "answer": "A written instrument that transfers ownership of a parcel of property. It serves as evidence of ownership. Names the new owner, is signed by the granter only, most likely recorded at the Registry of Deeds."
+  },
+  {
+    "id": 313,
+    "question": "What is Deed Of Trust (Trust Deed)?",
+    "answer": "Utilized in California, it replaces a mortgage used instead of a mortgage deed."
+  },
+  {
+    "id": 314,
+    "question": "What is Deed Restriction?",
+    "answer": "Restrictions recorded within a deed that will place limitations on the use of the property. Defeasible estate."
+  },
+  {
+    "id": 315,
+    "question": "What is Defective Title?",
+    "answer": "A title that is void due to an improper transfer such as error, fraud, signature flaw or failure of delivery of consideration."
+  },
+  {
+    "id": 316,
+    "question": "What is Devise?",
+    "answer": "This is to give real property by means of a will. The deceased party is known as the deviser."
+  },
+  {
+    "id": 317,
+    "question": "What is Eminent Domain?",
+    "answer": "This is the right that the government has to take private property for public use. This is the law, condemnation is the process. Government must pay fair price for the property."
+  },
+  {
+    "id": 318,
+    "question": "What is Escheat?",
+    "answer": "The right that the state has to take property if or when someone died without a will and did not have any heirs."
+  },
+  {
+    "id": 319,
+    "question": "What is Et Al?",
+    "answer": "And others"
+  },
+  {
+    "id": 320,
+    "question": "What is Et Con?",
+    "answer": "And Husband"
+  },
+  {
+    "id": 321,
+    "question": "What is EtUx?",
+    "answer": "And Wife"
+  },
+  {
+    "id": 322,
+    "question": "What is i Executor/Executrix i?",
+    "answer": "The person designated to probate a will."
+  },
+  {
+    "id": 323,
+    "question": "What is Full Legal Description i?",
+    "answer": "A method utilized to describe land in Massachusetts. There is a three-step process: 1) Property address 2) Metes and bounds 3) Reference description."
+  },
+  {
+    "id": 324,
+    "question": "What is General Warranty Deed?",
+    "answer": "A deed in which the grantor is responsible for any claims made to the title. The deed is the greatest risk to the grantor."
+  },
+  {
+    "id": 325,
+    "question": "What is Good Consideration?",
+    "answer": "Means love and affection. Something of value given as consideration to secure a property transfer. For instance, someone purchases a property for 1. 00."
+  },
+  {
+    "id": 326,
+    "question": "What is Government Rectangular Survey?",
+    "answer": "A method of describing land that utilizes a grid map. That map includes base lines that run east and west. These lines are crossed by meridians l that run north and south. Townships run six square miles broken into 36 sections one mile."
+  },
+  {
+    "id": 327,
+    "question": "What is Grantee?",
+    "answer": "The person(s), entity receiving an interest in a property."
+  },
+  {
+    "id": 328,
+    "question": "What is Granting Clause?",
+    "answer": "A clause in a deed that conveys interest from one party to another."
+  },
+  {
+    "id": 329,
+    "question": "What is Grantor?",
+    "answer": "The seller is known as the grantor, the person who conveys their interest in real estate. Grantor is only one who signs the deed."
+  },
+  {
+    "id": 330,
+    "question": "What is Habendum Clause?",
+    "answer": "1t is a clause in a deed that defines the type of estate conveyed. (To have and to Hold)."
+  },
+  {
+    "id": 331,
+    "question": "What is Heirs?",
+    "answer": "The individuals who are scheduled to inherit property."
+  },
+  {
+    "id": 332,
+    "question": "What is Holographic?",
+    "answer": "A will that is in the handwriting of the testator."
+  },
+  {
+    "id": 333,
+    "question": "What is Homestead Act?",
+    "answer": "A law that protects the homeowner from forced sale of their owner occupied home due to lawsuits against them outside the property loan. Massachusetts's residents can file for$ 500,000 of protection. If over 62 a couple can apply for$ 500,000 each."
+  },
+  {
+    "id": 334,
+    "question": "What is Intestate?",
+    "answer": "If someone died without a will or the will was defective; they are deemed intestate."
+  },
+  {
+    "id": 335,
+    "question": "What is Inquiry Notice?",
+    "answer": "The notice that the law presumes a person would obtain when inquiring into a property."
+  },
+  {
+    "id": 336,
+    "question": "What is Involuntary Alienation?",
+    "answer": "The involuntary loss of a property due to a failure to comply with certain terms and conditions. The owner lost the property through defaulting on payments, violating a covenant, bankruptcy, court judgment or failure to pay taxes."
+  },
+  {
+    "id": 337,
+    "question": "What is Judgment?",
+    "answer": "A court action detailing a debt one must pay to another."
+  },
+  {
+    "id": 338,
+    "question": "What is Land Court?",
+    "answer": "A court that a landowner would use to register their ownership in a property. A person who holds registered land has an indefeasible title to the I property because the land court certified the title. One would go to land court to establish the true owner of a property."
+  },
+  {
+    "id": 339,
+    "question": "What is Legal Description?",
+    "answer": "Method of describing property so that a survey can determine boundaries."
+  },
+  {
+    "id": 340,
+    "question": "What is Lien?",
+    "answer": "A money claim against a property. Liens are recorded at the Registry of Deeds. Outstanding loans, unpaid truces are liens. They are paid off from the proceeds of the sale."
+  },
+  {
+    "id": 341,
+    "question": "What is Lis Pendens?",
+    "answer": "A notice recorded at the Registry of Deeds indicating that there is impending action regarding the title to the property."
+  },
+  {
+    "id": 342,
+    "question": "What is Lot/Block System?",
+    "answer": "A method of describing a particular lot of land in relation to other lots of land within a plan or plat map. System used to record a subdivision."
+  },
+  {
+    "id": 343,
+    "question": "What is Marketable Title?",
+    "answer": "A title, which stands in the name of the owner conveying interest. There are not any unknown charges against the property that would affect the title to the property."
+  },
+  {
+    "id": 344,
+    "question": "What is Meridian?",
+    "answer": "Land descriptions that call for north and south description lines called meridians used in a government rectangular survey."
+  },
+  {
+    "id": 345,
+    "question": "What is Metes And Bounds?",
+    "answer": "Metes is the distance from one point to another. Bounds is compass direction."
+  },
+  {
+    "id": 346,
+    "question": "What is Monument?",
+    "answer": "A marker that's purposes are to display land boundaries."
+  },
+  {
+    "id": 347,
+    "question": "What is Plat Book/Map?",
+    "answer": "A public record that has recorded plans or maps at the Registry of Deeds."
+  },
+  {
+    "id": 348,
+    "question": "What is Plot Plan?",
+    "answer": "A plan that details existing boundaries to a specific and the buildings, trees garages, etc within the boundaries."
+  },
+  {
+    "id": 349,
+    "question": "What is Point Of Beginning (POB)?",
+    "answer": "A plan that details existing boundaries to a specific property and the buildings, trees garages, etc within the boundaries."
+  },
+  {
+    "id": 350,
+    "question": "What is Principal Meridian?",
+    "answer": "The intersecting point between a meridian and a base line on a plan of land in a government rectangular survey. A reference point."
+  },
+  {
+    "id": 351,
+    "question": "What is Probate?",
+    "answer": "The legal process determined by a court that validates the assets of an estate and determines who will inherit the assets."
+  },
+  {
+    "id": 352,
+    "question": "What is Quitclaim Deed?",
+    "answer": "A deed that conveys the interest of the grantor. No warranties are made by the grantor."
+  },
+  {
+    "id": 353,
+    "question": "What is Reconveyance Deed?",
+    "answer": "A deed used in connection with a deed of trust to return the title a property to the trustor."
+  },
+  {
+    "id": 354,
+    "question": "What is Registry Of Deeds i?",
+    "answer": "County offices that record transfers of title to real estate liens, encumbrances, mortgages, notes, discharges of liens, and a host of additional records."
+  },
+  {
+    "id": 355,
+    "question": "What is Restrictive Covenant?",
+    "answer": "A clause in deed that puts limits on the use of real estate."
+  },
+  {
+    "id": 356,
+    "question": "What is Satisfaction Piece?",
+    "answer": "A mortgage discharge. It is a written notification, recorded at the Registry of Deeds, which indicates a loan was paid off thus releasing the obligation to repay."
+  },
+  {
+    "id": 357,
+    "question": "What is Section?",
+    "answer": "A land section used in a government rectangular survey. A section is one mile square. A township is 36 sections, six miles by six miles."
+  },
+  {
+    "id": 358,
+    "question": "What is Sir Robert Torrens?",
+    "answer": "Developed the method of registering land in Australia in 1857."
+  },
+  {
+    "id": 359,
+    "question": "What is Special Warranty?",
+    "answer": "With this type of deed the grantor is liable for claims made by third parties only during their term of ownership."
+  },
+  {
+    "id": 360,
+    "question": "What is Subject To?",
+    "answer": "A takeover mortgage. The original mortgagor remains responsible for any deficiency if a foreclosure occurs on the property."
+  },
+  {
+    "id": 361,
+    "question": "What is Surveyor?",
+    "answer": "The individual who determines land boundaries, reference points."
+  },
+  {
+    "id": 362,
+    "question": "What is Testate?",
+    "answer": "This is when somebody dies and left a will."
+  },
+  {
+    "id": 363,
+    "question": "What is Testator?",
+    "answer": "The person who left behind a will."
+  },
+  {
+    "id": 364,
+    "question": "What is Title?",
+    "answer": "Another word for deed or ownership."
+  },
+  {
+    "id": 365,
+    "question": "What is Title Insurance?",
+    "answer": "Insurance required by the lender against loss resulting from title defects that were not discovered during the title search. Lender requires coverage. Owner has option to purchase insurance to protect equity. Part of the buyer's closing costs."
+  },
+  {
+    "id": 366,
+    "question": "What is Title Search?",
+    "answer": "A thorough search of the records recorded at the Registry of Deeds to verify the owner of property, any liens on the property and to find any defects in the title. Required by the lender. Paid for as part of the Buyer's closing costs."
+  },
+  {
+    "id": 367,
+    "question": "What is Title Transfer?",
+    "answer": "The transfer of real estate from one party to another. A conveyance."
+  },
+  {
+    "id": 368,
+    "question": "What is Township?",
+    "answer": "Utilized with the government rectangular survey. It's a method of describing land. Townships are six square miles consisting of 36 sections one square mile."
+  },
+  {
+    "id": 369,
+    "question": "What is Valuable Consideration 1?",
+    "answer": "This is money exchanged for the purchase of a property or other item. r r- I"
+  },
+  {
+    "id": 370,
+    "question": "What is Voluntary Alienation?",
+    "answer": "Voluntary transfer of a property such as by means of a sale or gift. The opposite of a foreclosure or bankruptcy, which is involuntary alienation."
+  },
+  {
+    "id": 371,
+    "question": "What is Warranty Deed?",
+    "answer": "A deed, which mandates the grantor pay, any loss if a claim is made against the title by third parties. This type of deed is the greatest risk to the grantor. This type of deed includes a claim that is made before the grantor took ownership to the property."
+  },
+  {
+    "id": 372,
+    "question": "What is l Will?",
+    "answer": "An instrument or instructions about disposing of property accumulated by a person upon their death."
+  },
+  {
+    "id": 373,
+    "question": "What is I. 1031Tax Deferred Exchange?",
+    "answer": "A seller has 45 days from the sale of their investment property to identify their intentions to replace the property with another investment property and 180 days to close on the property. Called like kind exchanges."
+  },
+  {
+    "id": 374,
+    "question": "What is 1997 Taxpayer Relief Act?",
+    "answer": "Provides an exemption on Capital Gains Taxes if an owner of a property sells the property in which they have resided for two years of the prior five years. The time period does not have to be consecutive."
+  },
+  {
+    "id": 375,
+    "question": "What is Acceleration Clause?",
+    "answer": "A clause in Note that protects the lender if the buyer defaults on the terms of loan agreement, balance becomes due immediately instead of date; first step toward foreclosure."
+  },
+  {
+    "id": 376,
+    "question": "What is Adjustable Rate Mortgage (ARM)?",
+    "answer": "A mortgage loan where the interest rate is changed (adjusted) at specific intervals over the life of the loan. The adjusted interest rate is tied to an established index."
+  },
+  {
+    "id": 377,
+    "question": "What is Adjustments?",
+    "answer": "Pro-rations that occur at the closing between the buyer and the seller. Includes taxes, leftover oil, rents etc. These adjustments are made at the closing table."
+  },
+  {
+    "id": 378,
+    "question": "What is Amortization?",
+    "answer": "The process of paying a debt by making equal and periodic payments monthly; this method means the payment is same each month but the ratio of principal and interest changes each month with more of the payment being credited to the principal and less toward the interest. Home loans."
+  },
+  {
+    "id": 379,
+    "question": "What is Annual Mortgage?",
+    "answer": "The annual debt service compared to the principal. Dividing the annual debt service by the mortgage principal gives the annual mortgage amount."
+  },
+  {
+    "id": 380,
+    "question": "What is i I I APR i?",
+    "answer": "Annual percentage rate includes the interest rate, points paid by the borrower, loan fees and finders' fees."
+  },
+  {
+    "id": 381,
+    "question": "What is Assumption/Alienation Clause?",
+    "answer": "When a buyer purchases a mortgaged property and takes over (assumes) the mortgage payments for the remainder of the mortgage term, the seller remains liable for the Mortgage."
+  },
+  {
+    "id": 382,
+    "question": "What is Assumption Of Mortgage?",
+    "answer": "An individual purchases a property and takes over an existing loan on that property. The original mortgagor (seller) is not released from their obligation to repay the loan."
+  },
+  {
+    "id": 383,
+    "question": "What is Balloon Mortgage?",
+    "answer": "A type of loan payment, which allows the borrower to pay off the principal in one large payment at the end of the repayment period."
+  },
+  {
+    "id": 384,
+    "question": "What is Bi-Weekly Mortgage?",
+    "answer": "Principal and interest payments are made every two weeks, which totals 26 payments a year equal to 13 monthly payments). Loan is repaid in a shorter period of time."
+  },
+  {
+    "id": 385,
+    "question": "What is Blanket Mortgage?",
+    "answer": "A mortgage that includes more than one piece of property as security for the loan. -r-"
+  },
+  {
+    "id": 386,
+    "question": "What is Board Of Governors?",
+    "answer": "The body of individuals who oversee the Federal Reserve Board. Appointed by the President."
+  },
+  {
+    "id": 387,
+    "question": "What is Boot?",
+    "answer": "Any consideration a property owner receives in addition to the replacement property when conducting a 1031 exchange. Example: sell property for $500,000 exchange for a property for $450,000. The property receives $50,000, which is taxable or subject to boot."
+  },
+  {
+    "id": 388,
+    "question": "What is Bridge Loan?",
+    "answer": "This is a short-term loan between other loans. An example would be a loan between a construction loan and permanent financing. Interest rates are usually higher."
+  },
+  {
+    "id": 389,
+    "question": "What is Buy Down?",
+    "answer": "Upfront fees such as points or discount points paid by the buyer to reduce the interest rate. The seller could contribute to the costs on behalf of the buyer."
+  },
+  {
+    "id": 390,
+    "question": "What is Cash On Cash l?",
+    "answer": "The rate ofreturn compared to the cash layout."
+  },
+  {
+    "id": 391,
+    "question": "What is Certificate Of No Defense?",
+    "answer": "When a borrower certifies that the mortgage debt is a lien for the amount stated."
+  },
+  {
+    "id": 392,
+    "question": "What is Certificate Of Reasonable Value (CRV)?",
+    "answer": "A document issued in a V.A. Loan transaction that outlines the value of the property being purchased by the veteran. Computerized loan originations. This is a"
+  },
+  {
+    "id": 393,
+    "question": "What is Chattel Mortgage?",
+    "answer": "A mortgage that is secured by personal property."
+  },
+  {
+    "id": 394,
+    "question": "What is CLO?",
+    "answer": "regulation that allows real estate companies to provide additional services to customers/clients such as financing assistance. A disclosure notice must be given to the consumer. Known as a settlement statement (HUD 1). It"
+  },
+  {
+    "id": 395,
+    "question": "What is Closing Costs?",
+    "answer": "The costs associated with the sale of the property. Both the buyer and seller have costs that need to be paid to complete the transaction."
+  },
+  {
+    "id": 396,
+    "question": "What is Closing Statement?",
+    "answer": "outlines the numbers associated with the transaction. A notification from a lender indicating a loan has"
+  },
+  {
+    "id": 397,
+    "question": "What is Collateral?",
+    "answer": "Something of value pledged to secure a loan. A Federal Law that requires lenders to"
+  },
+  {
+    "id": 398,
+    "question": "What is Commitment Letter?",
+    "answer": "been approved. The commitment letter will have an expiration date. I J"
+  },
+  {
+    "id": 399,
+    "question": "What is Community Reinvestment Act (CRA)?",
+    "answer": "aggressively loan funds in urban areas."
+  },
+  {
+    "id": 400,
+    "question": "What is Conditional Title?",
+    "answer": "A lender can hold conditional title to a property when the property is pledged for collateral."
+  },
+  {
+    "id": 401,
+    "question": "What is Conforming Loan?",
+    "answer": "A loan that conforms to the standards set by the secondary mortgage market (Fannie Mae/Freddie Mac)."
+  },
+  {
+    "id": 402,
+    "question": "What is Construction Loan?",
+    "answer": "Loan to someone for building a home. Payments are released in stages as the work is completed."
+  },
+  {
+    "id": 403,
+    "question": "What is Contingencies?",
+    "answer": "Provision(s) in a contract that call for certain actions to occur to complete a contract, i.e. a contingency that if the buyer does not obtain financing they will be able to reclaim their deposit."
+  },
+  {
+    "id": 404,
+    "question": "What is Controlled Business Arrangement?",
+    "answer": "Real Estate companies can offer a variety of services to their customers. These services encourage one-stop shopping and can include financing, insurance and brokerage services."
+  },
+  {
+    "id": 405,
+    "question": "What is Conventional Loan?",
+    "answer": "These loans are made without any government guarantee or insurance. The lender assumes all of the risk if the loan goes into default. There is a lower Loan-to-Value ratio since the lender usually requires a larger down payment from the borrower."
+  },
+  {
+    "id": 406,
+    "question": "What is Covenant?",
+    "answer": "A condition that exists in a deed. A deed restriction."
+  },
+  {
+    "id": 407,
+    "question": "What is Credit?",
+    "answer": "An amount of money a lender extends to a borrower with the expectation of receiving the money back; an amount of money forwarded to someone as a return for a prepaid charge."
+  },
+  {
+    "id": 408,
+    "question": "What is Credit Bureaus?",
+    "answer": "Agencies that rate the credit worthiness of potential borrowers."
+  },
+  {
+    "id": 409,
+    "question": "What is Debit?",
+    "answer": "An accounting term that makes an adjustment of an asset or liability. If a seller did not pay their outstanding property tax by the date of the sales of their property, the liability is paid from the proceeds thus creating a debit or reduction from the seller's proceeds."
+  },
+  {
+    "id": 410,
+    "question": "What is Debit Service?",
+    "answer": "Periodic payments made on a loan, principal and interest"
+  },
+  {
+    "id": 411,
+    "question": "What is Deed In Lieu Of Foreclosure?",
+    "answer": "A deed that conveys a property to a lender/investor in an effort to avoid foreclosure."
+  },
+  {
+    "id": 412,
+    "question": "What is Deed Of Trust (Trust Deed)?",
+    "answer": "Utilized in California, it replaces a mortgage used instead of a mortgage deed."
+  },
+  {
+    "id": 413,
+    "question": "What is Default?",
+    "answer": "A failure to comply with the tenns of a contact."
+  },
+  {
+    "id": 414,
+    "question": "What is l f Def easance Clause?",
+    "answer": "This is a clause in a mortgage, which defeats the interest of the lender if the loan is paid according to terms of the agreement. Important to borrower."
+  },
+  {
+    "id": 415,
+    "question": "What is Direct Reduction Mortgage?",
+    "answer": "Repaid by making installment payments; each payment is credited to the interest first then to principal; the payment remains the same throughout the life of the loan."
+  },
+  {
+    "id": 416,
+    "question": "What is Discount Points?",
+    "answer": "Sometimes loans that are sold to investors might be lower than the investor mandates. Thus the lender charges a discount point to the borrower to make the loan more attractive and profitable to the investor. Tax Deductible."
+  },
+  {
+    "id": 417,
+    "question": "What is Discount Rate?",
+    "answer": "Interest rate charged to banks by the Federal Reserve Board to borrow money."
+  },
+  {
+    "id": 418,
+    "question": "What is Due On Sale?",
+    "answer": "This clause prevents take over financing without the lender's consent. It forces the owner of a property to pay off the loan during the conveyancing to someone new."
+  },
+  {
+    "id": 419,
+    "question": "What is Effective Gross Income?",
+    "answer": "The actual income that a property returned."
+  },
+  {
+    "id": 420,
+    "question": "What is Equal Credit Opportunity Act (ECOA)?",
+    "answer": "Prohibits discrimination against a loan applicant on the basis of race, religion, material status, sex, and public assistance."
+  },
+  {
+    "id": 421,
+    "question": "What is Equity?",
+    "answer": "The difference between the value of a property and the total amount of money owed on that property."
+  },
+  {
+    "id": 422,
+    "question": "What is Equity Participation?",
+    "answer": "The lender wishes to become part owner of the property plus receive interest on the loan and repayment of principal."
+  },
+  {
+    "id": 423,
+    "question": "What is Equity Of Redemption?",
+    "answer": "The right of the mortgagor to redeem the property between the default and foreclosure period."
+  },
+  {
+    "id": 424,
+    "question": "What is Fannie Mae?",
+    "answer": "A private corporation that sells corporate shares and participation certificates to raise money. Participation certificates are securities backed by a pool of mortgages."
+  },
+  {
+    "id": 425,
+    "question": "What is Farmer Mac?",
+    "answer": "A secondary mortgage market organization geared toward purchasing agricultural and rural loans."
+  },
+  {
+    "id": 426,
+    "question": "What is FDIC?",
+    "answer": "Federal Deposit Insurance Corporation"
+  },
+  {
+    "id": 427,
+    "question": "What is Federal Discount Rate?",
+    "answer": "The rate of interest member banks pay to borrow money."
+  },
+  {
+    "id": 428,
+    "question": "What is Federal Housing Administration (FHA)?",
+    "answer": "U.S. Dept. of Housing and Urban Development (HUD) Insures loans written by qualified lenders. Protects the lender if the buyer defaults. Buyer pays a premium for the right to obtain FHA loan."
+  },
+  {
+    "id": 429,
+    "question": "What is Federal Open Market Committee (F.O.M.C.)?",
+    "answer": "The policy making body of the Federal Reserve Board that meets to discuss to the outlook of the economy."
+  },
+  {
+    "id": 430,
+    "question": "What is Federal Reserve System?",
+    "answer": "The central bank of the United States."
+  },
+  {
+    "id": 431,
+    "question": "What is Foreclosure?",
+    "answer": "A formal legal procedure by the lender to sell a property that was utilized as collateral because the borrower did not make the payments on schedule."
+  },
+  {
+    "id": 432,
+    "question": "What is Freddie Mac?",
+    "answer": "A stockholder-owned corporation chartered by Congress to keep money flowing to mortgage lenders in support of homeownership and rental housing; provides secondary mortgage market for federal savings associations."
+  },
+  {
+    "id": 433,
+    "question": "What is Full Recourse Loan?",
+    "answer": "A loan which indicates the borrower is fully responsible for the repayment of the debt"
+  },
+  {
+    "id": 434,
+    "question": "What is Freddie Mac Home Loan Mortgage Corp?",
+    "answer": "Secondary Mortgage Market force that buys i l conventional mortgages from lenders to keep mortgage money available. Major force in affecting homeownership."
+  },
+  {
+    "id": 435,
+    "question": "What is Ginnie Mae Government National Mortgage Assoc. (GNMA)?",
+    "answer": "Secondary mortgage market corporation that buys mortgages. Main focus is FHA low-income housing."
+  },
+  {
+    "id": 436,
+    "question": "What is Good Faith Estimate?",
+    "answer": "Part of RESP A that calls for an estimate of the costs of the loan be provided to the borrower within three business days of applying for the loan."
+  },
+  {
+    "id": 437,
+    "question": "What is Government Back Loans?",
+    "answer": "I. FHA and VA loans. Loans that protect the lender if the borrower defaults."
+  },
+  {
+    "id": 438,
+    "question": "What is Graduated Payment Mortgage?",
+    "answer": "A loan that allows for lower payment in the early years. The payments increase at different time periods. The mortgagor agreed to the graduated payment schedule."
+  },
+  {
+    "id": 439,
+    "question": "What is Growing Equity Mortgage?",
+    "answer": "Additional payments made to a loan are credited directly to the principal thus reducing the interest paid over time and results in the loan being satisfied before the maturity date."
+  },
+  {
+    "id": 440,
+    "question": "What is Holdback?",
+    "answer": "An amount of money held back by a lender until an identified item is replaced or repaired."
+  },
+  {
+    "id": 441,
+    "question": "What is Home Equity Loans?",
+    "answer": "A loan in which the property owner utilizes the equity in their home as collateral for borrowing funds."
+  },
+  {
+    "id": 442,
+    "question": "What is HUDl HUD Statement?",
+    "answer": "The settlement sheet or closing document that details the particular credits and debits to the seller and buyer. It is signed by the seller, buyer settlement agent."
+  },
+  {
+    "id": 443,
+    "question": "What is Hypothecate?",
+    "answer": "To mortgage a property. To pledge as security and retain possession."
+  },
+  {
+    "id": 444,
+    "question": "What is Immediate Theory?",
+    "answer": "A theory of ownership that calls for the title to a property to transfer to a lender when a mortgagor goes into default."
+  },
+  {
+    "id": 445,
+    "question": "What is Impounds?",
+    "answer": "Another term a lender may use for an escrow account to collect property taxes and insurance."
+  },
+  {
+    "id": 446,
+    "question": "What is Interest?",
+    "answer": "An amount of money charged in relation to a loan calculated by a rate, period of repayment and loan."
+  },
+  {
+    "id": 447,
+    "question": "What is Jumbo Loan?",
+    "answer": "A loan that exceeds certain loan ceilings."
+  },
+  {
+    "id": 448,
+    "question": "What is Junior Mortgage?",
+    "answer": "Mortgages that take place after an original mortgage. Mortgages are recorded and paid off after a sale in the order they are recorded."
+  },
+  {
+    "id": 449,
+    "question": "What is Kickbacks?",
+    "answer": "A rebate to serve as an incentive to refer customers. Prohibits mortgage lenders from giving kickbacks to real estate agents for referrals. r"
+  },
+  {
+    "id": 450,
+    "question": "What is Land Contract 1?",
+    "answer": "The buyer makes a down payment and monthly payments until the property is paid for. The buyer does not receive the deed until the payment schedule has been fulfilled."
+  },
+  {
+    "id": 451,
+    "question": "What is Leverage Lien?",
+    "answer": "Using someone else's money and not your own."
+  },
+  {
+    "id": 452,
+    "question": "What is Lien?",
+    "answer": "A money claim against a property. Liens are recorded at the Registry of Deeds. Outstanding loans, unpaid taxes are liens. They are paid off from the proceeds of the sale."
+  },
+  {
+    "id": 453,
+    "question": "What is Lien Theory?",
+    "answer": "A real estate theory in which the lender places a lien against a property when they loan money and the property is secured as collateral for the loan."
+  },
+  {
+    "id": 454,
+    "question": "What is Lienee?",
+    "answer": "The person who has received a lien."
+  },
+  {
+    "id": 455,
+    "question": "What is Lienor?",
+    "answer": "The person who has given a lien."
+  },
+  {
+    "id": 456,
+    "question": "What is Loan Caps j j r?",
+    "answer": "A measurement to determine how high or low an adjustable rate mortgage will go over a one-year period or the life of the loan. Loans can not increase or decrease before their adjustment period, can not increase or decrease more than two points in a particular year or six points over the life of the loan."
+  },
+  {
+    "id": 457,
+    "question": "What is LTV?",
+    "answer": "Loan-to-value ratio"
+  },
+  {
+    "id": 458,
+    "question": "What is Margin?",
+    "answer": "An amount added to an index to determine an interest rate."
+  },
+  {
+    "id": 459,
+    "question": "What is MGIC?",
+    "answer": "A private company that provides private mortgage insurance. Known as the Mortgage Guarantee Insurance Company."
+  },
+  {
+    "id": 460,
+    "question": "What is Mortgage Commitment j?",
+    "answer": "_t A written document from the lender indicating their intention to provide money to purchase a property providing you continue to meet certain requirements."
+  },
+  {
+    "id": 461,
+    "question": "What is Mortgagee?",
+    "answer": "The company providing the loan funds."
+  },
+  {
+    "id": 462,
+    "question": "What is Mortgagor?",
+    "answer": "The person( s) borrowing the money."
+  },
+  {
+    "id": 463,
+    "question": "What is Municipal Lien Certificate (MLC)?",
+    "answer": "A document obtained by the closing attorney from the city or town in which the property is located that details outstanding taxes, betterments and outstanding water sewer charges. (Water Sewer sometimes separate)"
+  },
+  {
+    "id": 464,
+    "question": "What is Negative Authorization?",
+    "answer": "A loan which the payment does not cover the principal and interest due, thus increasing the amount of the loan vs. decreasing it."
+  },
+  {
+    "id": 465,
+    "question": "What is Negotiable Instrument?",
+    "answer": "A promissory agreement that details the amount of money owed. The document can be transferred to additional parties to collect the debt."
+  },
+  {
+    "id": 466,
+    "question": "What is Net Operating Income (NOi)?",
+    "answer": "The amount of money on hand after you subtract the operating expenses from the effective gross income. Effective Gross Income Operating Expenses= NOI"
+  },
+  {
+    "id": 467,
+    "question": "What is Nonconforming Loan?",
+    "answer": "A loan that does not conform to standards set by the secondary mortgage money."
+  },
+  {
+    "id": 468,
+    "question": "What is Non-Recourse Loan?",
+    "answer": "The borrower is not personally responsible for a deficiency on the loan payment. The property is the only security for the loan."
+  },
+  {
+    "id": 469,
+    "question": "What is Note?",
+    "answer": "The IOU given to the bank by the borrower."
+  },
+  {
+    "id": 470,
+    "question": "What is Novation?",
+    "answer": "Substitution"
+  },
+  {
+    "id": 471,
+    "question": "What is Office Of Thrift 1 Supervision (OTS)?",
+    "answer": "An agency of the government that monitors the operations of fiduciary lenders. Was created via the Financial Institution Reform, Recovery and Enforcement Act (FIRREA)."
+  },
+  {
+    "id": 472,
+    "question": "What is Open End Mortgage?",
+    "answer": "A loan that allows the borrower to borrow up to the original loan amount."
+  },
+  {
+    "id": 473,
+    "question": "What is I Origination Fees 1?",
+    "answer": "Fees charged by a lender in connection with applying for a loan."
+  },
+  {
+    "id": 474,
+    "question": "What is Package Mortgage?",
+    "answer": "A loan that is secured by real property and personal property."
+  },
+  {
+    "id": 475,
+    "question": "What is Partial Release?",
+    "answer": "A loan that will allow for a portion of the lenders interest to be released. Might be associated with a i blanket mortgage or a loan for a condo conversion. i"
+  },
+  {
+    "id": 476,
+    "question": "What is Piggyback Loan?",
+    "answer": "A loan utilized for a purchase. It is a second loan secured to be combined with a first loan. The purpose is to eliminate Private Mortgage Insurance."
+  },
+  {
+    "id": 477,
+    "question": "What is PITI?",
+    "answer": "This is the Principal, Interest, Ta,ces and Insurance i owed on a particular loan."
+  },
+  {
+    "id": 478,
+    "question": "What is Points i I?",
+    "answer": "A charge by the lending institution to borrow money. Based on the loan amount, paid along with closing costs. Buyer charge (can be negotiated) one point equals 1 of loan amount."
+  },
+  {
+    "id": 479,
+    "question": "What is Power Of Sale Clause?",
+    "answer": "A clause in a mortgage that gives the lender the right to sell the property if the borrower does not comply with the terms of the agreement."
+  },
+  {
+    "id": 480,
+    "question": "What is PreapprovalLetter r?",
+    "answer": "Notification from a lender that a buyer has been approved for a loan if certain conditions are met."
+  },
+  {
+    "id": 481,
+    "question": "What is Prepaid Interest 1?",
+    "answer": "Part of the buyers closing costs. A buyer may pay interest to cover an due between the date of the closing and the first payment due."
+  },
+  {
+    "id": 482,
+    "question": "What is Prepaids?",
+    "answer": "Money paid in advance of a due date. Money prepaid is credited to the person who made the payments. Prepaid taxes are returned to the seller upon the sale."
+  },
+  {
+    "id": 483,
+    "question": "What is Prepayment Penalty?",
+    "answer": "A penalty that comes into play if you pay off a loan before a specified date. The lender can charge several months interest for early payoff. Not allowed in VA or FHA loans."
+  },
+  {
+    "id": 484,
+    "question": "What is Prequalification Notice/Letter?",
+    "answer": "A notice from a lender that a buyer has been pre- qualified but not approved for a loan. The lender might be verifying information such as employment verification, credit, etc."
+  },
+  {
+    "id": 485,
+    "question": "What is Primary Mortgage Market i?",
+    "answer": "The market where borrowers go directly to borrower money such as a bank or mortgage company."
+  },
+  {
+    "id": 486,
+    "question": "What is r Prime Rate?",
+    "answer": "The interest rate charged by lenders to their favorite or creditworthy customers."
+  },
+  {
+    "id": 487,
+    "question": "What is Principal?",
+    "answer": "An amount due on a loan. Also could be the principal person in a transaction. Could be the seller or buyer. The employing broker would be the principal of the office."
+  },
+  {
+    "id": 488,
+    "question": "What is Private Mortgage Insurance J (PMI) i?",
+    "answer": "A premium charged to the buyer, included in the monthly payment to cover a deficiency in the down payment. Usually charged if the buyer put less than 20% as a down payment."
+  },
+  {
+    "id": 489,
+    "question": "What is Projected Gross Income?",
+    "answer": "The most money a property will return if there are no vacancies."
+  },
+  {
+    "id": 490,
+    "question": "What is Prorate?",
+    "answer": "Term used to describe adjustment of funds between seller and buyer at closing. Could be rents, taxes oil, etc."
+  },
+  {
+    "id": 491,
+    "question": "What is Purchase Money Mortgage (PMM)?",
+    "answer": "This refers to Seller Financing. The buyer gives a down payment, a note and mortgage deed to seller at the closing."
+  },
+  {
+    "id": 492,
+    "question": "What is Regulation Z?",
+    "answer": "Law that mandates the lender provide to the borrower a disclosure statement indicating the total cost of credit and percentage as well as total finance dollars. The law is in force by the federal trade commission."
+  },
+  {
+    "id": 493,
+    "question": "What is Release Clause?",
+    "answer": "Clause utilized in blanket mortgages possibly for condo conversion properties. Clause for individual properties to be released from a blanket mortgage."
+  },
+  {
+    "id": 494,
+    "question": "What is RESPA?",
+    "answer": "Real Estate Settlement Procedures Act. This law j requires the lender to disclose the cost of the loan separate from financing costs. The law covers one to four unit residential dwellings. RESP A requires a good faith estimate be provided to the borrower within three business days of applying for a loan and a special information booklet from HUD entitled \"Settlement Costs\"."
+  },
+  {
+    "id": 495,
+    "question": "What is Reverse Annuity Mortgage (RAM)?",
+    "answer": "This type of loan utilizes the equity in a property to make payments directly to the owner of the property. The loan does not need to be repaid until the property is sold or the owner of the property passes away."
+  },
+  {
+    "id": 496,
+    "question": "What is Satisfaction Piece?",
+    "answer": "A mortgage discharge. It is a written notification, recorded at the Registry of Deeds, which indicates a loan was paid off thus releasing the obligation to repay."
+  },
+  {
+    "id": 497,
+    "question": "What is Second Mortgage?",
+    "answer": "A mortgage that is recorded after a first mortgage. It is paid after the first mortgage has been satisfied."
+  },
+  {
+    "id": 498,
+    "question": "What is Secondary Mortgage Market?",
+    "answer": "This refers to the selling and buying of existing mortgages. Loans are sold to other investors. Organizations involved are Fannie Mae, Freddie Mac and Ginnie Mae."
+  },
+  {
+    "id": 499,
+    "question": "What is Settlement Agent I?",
+    "answer": "The party who is responsible for conducting the closing of a real estate transaction."
+  },
+  {
+    "id": 500,
+    "question": "What is Straight Loan i 1 i?",
+    "answer": "With this type of loan, the borrower pays interest payments only. The principal amount is due on the final payment. May be known as an Interest Only Loan."
+  },
+  {
+    "id": 501,
+    "question": "What is Subject To?",
+    "answer": "A takeover mortgage. The original mortgagor remains responsible for any deficiency if a foreclosure occurs on the property."
+  },
+  {
+    "id": 502,
+    "question": "What is Subordination f Clause f t?",
+    "answer": "A clause that allows a mortgage recorded at a later date to take priority over a current mortgage."
+  },
+  {
+    "id": 503,
+    "question": "What is Take Out Loan i i?",
+    "answer": "The relinquishing of a construction loan and replacing it with permanent financing."
+  },
+  {
+    "id": 504,
+    "question": "What is Take Over Mortgage?",
+    "answer": "A new buyer takes over the original loan of a seller. The new buyer would pay a down payment to the seller and take over their existing loan payments."
+  },
+  {
+    "id": 505,
+    "question": "What is Tax Credit t?",
+    "answer": "A dollar for dollar reduction in tax liability."
+  },
+  {
+    "id": 506,
+    "question": "What is Three Day Right Of Recession?",
+    "answer": "A three-day right a consumer has to reverse an agreement. Home purchases do not possess this right. An owner-occupied refinance has this right."
+  },
+  {
+    "id": 507,
+    "question": "What is Title Insurance?",
+    "answer": "Insurance required by the lender against loss resulting from title defects that were not discovered during the title search. Lender Requires coverage. Owner has option to purchase insurance i to protect equity. Part of the buyer's closing costs."
+  },
+  {
+    "id": 508,
+    "question": "What is Title Theory?",
+    "answer": "A property ownership theory that provides for the lender to takes conditional title to a property when a purchase occurs. The owner has possession and use."
+  },
+  {
+    "id": 509,
+    "question": "What is Trigger Terms?",
+    "answer": "Words that set into motion the need to disclose all of the items pertaining to the annual percentage rate."
+  },
+  {
+    "id": 510,
+    "question": "What is Truth-In-Lending (ACT)?",
+    "answer": "A federal law known as Regulation Z. It mandates the lender provide the borrower with a disclosure statement indicating the total cost of credit. Truth-in-lending laws apply where credit is extended with a finance charge. Covers consumer loans."
+  },
+  {
+    "id": 511,
+    "question": "What is Uniform Settlement Statement?",
+    "answer": "Known as a HUD 1. It's the closing document utilized by the settlement agent outlining the cost to the seller and the buyer during a real estate closing."
+  },
+  {
+    "id": 512,
+    "question": "What is Usury?",
+    "answer": "Using an interest rate higher than the law allows."
+  },
+  {
+    "id": 513,
+    "question": "What is Variable Loan?",
+    "answer": "Another term for an adjustable rate loan. The loan allows the interest rate to fluctuate."
+  },
+  {
+    "id": 514,
+    "question": "What is Veteran's Loan?",
+    "answer": "A mortgage product available to particular veterans that is guaranteed by the VA Administration. 100% financing is allowed under this product. Loans are provided by banks, although guaranteed by the VA Administration."
+  },
+  {
+    "id": 515,
+    "question": "What is Wraparound Loan?",
+    "answer": "A loan provided by a lender that includes a new loan amount and a prior loan from a different lender. The two loans are wrapped together. The borrower makes one payment to the new lender. The new lender makes the payment on the prior loan and makes money off the difference."
+  },
+  {
+    "id": 516,
+    "question": "What is Yield?",
+    "answer": "A return on an investment."
+  },
+  {
+    "id": 517,
+    "question": "What is Accrued Depreciation?",
+    "answer": "Difference between the cost of replacing a property new and present value of that property; used in appraising."
+  },
+  {
+    "id": 518,
+    "question": "What is Age Lift Table?",
+    "answer": "Table charts utilized by an appraiser to assist with determining the value of a property. The effective age of the property divided by the economic life."
+  },
+  {
+    "id": 519,
+    "question": "What is Anticipation?",
+    "answer": "When someone buys a property they expect certain benefits from that property and they expect the property will increase in value. Therefore they anticipate increased benefits and value."
+  },
+  {
+    "id": 520,
+    "question": "What is Appraisal?",
+    "answer": "An independent opinion of value. Lender requires for a loan. Paid for by the buyer."
+  },
+  {
+    "id": 521,
+    "question": "What is Appreciation?",
+    "answer": "An increase in value that results from market forces such as demand stronger than supply."
+  },
+  {
+    "id": 522,
+    "question": "What is Approaches To Value l?",
+    "answer": "Appraisers use different methods to arrive at their opinions of value. These approaches vary depending on the type of sale. The approaches are cost, market and income approaches."
+  },
+  {
+    "id": 523,
+    "question": "What is Assemblage?",
+    "answer": "When two adjoining lots are combined to form one larger parcel."
+  },
+  {
+    "id": 524,
+    "question": "What is j Assessed Valuation?",
+    "answer": "It is the value given to real estate by the town assessor's office. Ad Valorem -Assessment for property tax purposes. Not known as the actual value."
+  },
+  {
+    "id": 525,
+    "question": "What is Board Of Registration Of Real Estate Appraisers i?",
+    "answer": "A board under the general oversight of the Division of Professional Licensure. The board is associated with the practice of Real Estate Appraising."
+  },
+  {
+    "id": 526,
+    "question": "What is r Book Value?",
+    "answer": "The purchase price of a property plus improvements made to the property minus depreciation."
+  },
+  {
+    "id": 527,
+    "question": "What is 1 Capitalization Rate?",
+    "answer": "The rate expected in return for investing in a particular property. Obviously investors seek a profit or return on the money they invest."
+  },
+  {
+    "id": 528,
+    "question": "What is Certificate Of Reasonable Value (CRV)?",
+    "answer": "A document issued in a V.A. Loan transaction that outlines the value of the property being purchased by the veteran. In the absence of a formal appraisal, a real estate"
+  },
+  {
+    "id": 529,
+    "question": "What is Comparable Property?",
+    "answer": "A prior property sale utilized by an appraiser to estimate the value of a property. Known as \"comps\"."
+  },
+  {
+    "id": 530,
+    "question": "What is Comparative/Competitive Market Analysis?",
+    "answer": "agent conducts a Comparative Market Analysis or Broker Price opinion to guesstimate the value of a property being offered for sale. The agent will l: compare the size, condition, location and the purchase price of properties that have sold within the past six months to one year. Most common method used by a residential appraiser."
+  },
+  {
+    "id": 531,
+    "question": "What is Comparative Unit Method?",
+    "answer": "This is when the appraiser takes the total value of recent new construction properties and divides the value by the square footage of the property to arrive at a dollar figure per square foot for building costs."
+  },
+  {
+    "id": 532,
+    "question": "What is Competition?",
+    "answer": "A principal utilized by an appraiser that indicates that increased competition decreases profits."
+  },
+  {
+    "id": 533,
+    "question": "What is Conformity?",
+    "answer": "Continuity can have an impact on the value of property. When the homes in a neighborhood are similar in nature that particular area usually maintains value equally. Many of these neighborhood values remain constant due to stability that is present within the community."
+  },
+  {
+    "id": 534,
+    "question": "What is l. Contribution?",
+    "answer": "This principle of valuation states that each feature of a property adds to the value of the property based on what it \"contributes\" to the usefulness of the property. The money invested on improvements may not increase the property value by the same amount as the investment."
+  },
+  {
+    "id": 535,
+    "question": "What is Correlation?",
+    "answer": "i Also known as reconciliation. The process used by an appraiser to determine the value of a property by utilizing more than one approach to value. They utilize a combination of approaches to estimate the value. L."
+  },
+  {
+    "id": 536,
+    "question": "What is Cost Approach?",
+    "answer": "One of the three approaches to value used by appraisers. When conducting an appraisal using the cost approach the appraiser will determine the cost of reproduction or replacement; subtract the depreciation and add the value of the land to arrive at the property value."
+  },
+  {
+    "id": 537,
+    "question": "What is Cost Of Reproduction?",
+    "answer": "The cost to duplicate a property today using similar materials."
+  },
+  {
+    "id": 538,
+    "question": "What is CRV?",
+    "answer": "See Certificate of Reasonable Value"
+  },
+  {
+    "id": 539,
+    "question": "What is Deferred Maintenance?",
+    "answer": "Needed repairs that have not been conducted or have been delayed."
+  },
+  {
+    "id": 540,
+    "question": "What is Demand?",
+    "answer": "The desires of the buyers. Does the marketplace possess the demand for housing. An element of value when appraising a property."
+  },
+  {
+    "id": 541,
+    "question": "What is Depreciation?",
+    "answer": "A decrease in the value of a property or improvement) due to age or wear and tear. Building values depreciate, never land."
+  },
+  {
+    "id": 542,
+    "question": "What is Deterioration?",
+    "answer": "The accumulated effect of wear and tear on a building."
+  },
+  {
+    "id": 543,
+    "question": "What is Diminishing Returns C?",
+    "answer": "An investment to a property that does not bring a positive return based on the investment. The investment brings a decreasing return."
+  },
+  {
+    "id": 544,
+    "question": "What is Economic Life?",
+    "answer": "A time period, which a property is considered to be profitably used. Each loan begins a new economic life."
+  },
+  {
+    "id": 545,
+    "question": "What is Effective Age?",
+    "answer": "The age that a property appears to be. Not actual age."
+  },
+  {
+    "id": 546,
+    "question": "What is Elements Of Value?",
+    "answer": "Elements utilized to determine the value of a property. Demand, Utility, Scarcity, Transferability. (DUST)"
+  },
+  {
+    "id": 547,
+    "question": "What is External Obsolescence?",
+    "answer": "A property can be affected by its surroundings; if these have a severe negative impact on the property the effect can reduce the value of the property."
+  },
+  {
+    "id": 548,
+    "question": "What is Final Estimate Of Value?",
+    "answer": "The final estimate determined by an appraiser when conducting an appraisal."
+  },
+  {
+    "id": 549,
+    "question": "What is FIRREA?",
+    "answer": "Federal Institution Reform Recovery Enforcement Act."
+  },
+  {
+    "id": 550,
+    "question": "What is Front Foot l?",
+    "answer": "When measuring a property, the appraiser will indicate a point of beginning. The front foot will be the street, waterfront or sidewalk."
+  },
+  {
+    "id": 551,
+    "question": "What is Functional l Obsolescence?",
+    "answer": "i A property that contains obsolete features. The property is property is functional but contains old fixtures, baths, and inadequate closets. The situation is curable."
+  },
+  {
+    "id": 552,
+    "question": "What is Gross Domestic Product (GDP)?",
+    "answer": "The market value of goods produced in the country during a particular period of time. Formerly known as Gross National Product."
+  },
+  {
+    "id": 553,
+    "question": "What is Gross Income Multiplier (GIM)?",
+    "answer": "A figure utilized by an appraiser to determine the value of an investment property. The figure is a multiplier of the annual gross rent of the property."
+  },
+  {
+    "id": 554,
+    "question": "What is Gross Rent Multiplier (GRM)?",
+    "answer": "When determining the value of a property, an appraiser may estimate value by measuring a multiplier of gross monthly rents. Formula: sale price divided by monthly rent gross rent multiplier."
+  },
+  {
+    "id": 555,
+    "question": "What is Hi_ghest Best Use?",
+    "answer": "A principle in appraising that calls for a property to be utilized in a manner that brings in its greatest potential while recognizing current zoning. Maximum potential."
+  },
+  {
+    "id": 556,
+    "question": "What is Income Approach?",
+    "answer": "An approach an appraiser would use to determine the value of an income producing property such as an office building or apartment complex. The value of the property is determined by the future stream of income it will produce. The value of a property is based on its return."
+  },
+  {
+    "id": 557,
+    "question": "What is Increasing/Decreasing Returns?",
+    "answer": "A principle variable to value. It is principle that measures the amount of money invested into a property vs. the return received for the investment. If every dollar invested register an increase you have in increasing return vs. a decreasing return in the investment does not bring in more money than"
+  },
+  {
+    "id": 558,
+    "question": "What is Inflation?",
+    "answer": "The purchasing power of money. An increase in inflation decreases the value of the dollar. The consumer price index is used to gauge inflation."
+  },
+  {
+    "id": 559,
+    "question": "What is Market Data Approach?",
+    "answer": "the investment. An approach to value utilized by an appraiser that utilizes comparable property sales as a benchmark when determining the value of a property."
+  },
+  {
+    "id": 560,
+    "question": "What is Market Price t?",
+    "answer": "The price the buyer paid for the property."
+  },
+  {
+    "id": 561,
+    "question": "What is Market Value?",
+    "answer": "The highest price an informed buyer is willing to spend and the lowest price a willing informed seller would except with neither party being under any pressure to act."
+  },
+  {
+    "id": 562,
+    "question": "What is Net Operating Income?",
+    "answer": "The amount of money on hand after you subtract the operating expenses from the effective gross income. Effective Gross Income Operating Expenses= NOI"
+  },
+  {
+    "id": 563,
+    "question": "What is Observed Condition Method?",
+    "answer": "A method utilized by an appraiser that takes into account natural observations. What you see."
+  },
+  {
+    "id": 564,
+    "question": "What is t Office Of Thrift Supervision (OTS)?",
+    "answer": "An agency of the government that monitors the operations of fiduciary lenders. Was created the Financial Institution Reform, Recovery and Enforcement Act (FIRREA)."
+  },
+  {
+    "id": 565,
+    "question": "What is Physical Deterioration?",
+    "answer": "A decrease in property value due to the condition of the property. Wear and tear."
+  },
+  {
+    "id": 566,
+    "question": "What is Plottage?",
+    "answer": "See plottage value/assemblage"
+  },
+  {
+    "id": 567,
+    "question": "What is I Progression?",
+    "answer": "A component of the Principle of Conformity. It can be understood that the least desirable property in a community will increase in value if the properties around it are increasing in value."
+  },
+  {
+    "id": 568,
+    "question": "What is Quantity Service Method?",
+    "answer": "A method used to determine the cost to produce a property. The method includes cost of material/labor"
+  },
+  {
+    "id": 569,
+    "question": "What is Reconciliation?",
+    "answer": "An appraiser adjusts the difference between properties being used as comparables for an appraisal and weighs the difference."
+  },
+  {
+    "id": 570,
+    "question": "What is Regression r?",
+    "answer": "A component of a principle of conformity that indicates that a house of one extreme might be worth less when compared to neighboring properties of a lesser extreme. An example is a three bedroom property within a of two bedrooms. The house might hold lower value because the neighboring properties are smaller. The value may regress."
+  },
+  {
+    "id": 571,
+    "question": "What is Replacement Cost 1?",
+    "answer": "Term utilized in appraising. Replacement creates a property with the same utility, the same usefulness."
+  },
+  {
+    "id": 572,
+    "question": "What is I i Reproduction Cost j I?",
+    "answer": "Reproduction creates a replica of a property."
+  },
+  {
+    "id": 573,
+    "question": "What is Sales Comparison i Approach j?",
+    "answer": "One of three approaches used to appraise a property. It is the most widely used method in residential and land sales. It compares other properties that have sold with similar with the property, which is being appraised."
+  },
+  {
+    "id": 574,
+    "question": "What is Scarcity?",
+    "answer": "A principal and appraising that measures the availability or supply of available properties in a given area. The fewer properties available, the higher value those properties will receive."
+  },
+  {
+    "id": 575,
+    "question": "What is Social Forces _I?",
+    "answer": "An influence that could affect the value of a property in a particular city, town or neighborhood. Attitudes toward issues could have an impact on the value of a property."
+  },
+  {
+    "id": 576,
+    "question": "What is Square Footage i Method?",
+    "answer": "When an appraiser takes value of recent construction and divides it by the number of square feet of the property."
+  },
+  {
+    "id": 577,
+    "question": "What is Straight Line Method Of Depreciation?",
+    "answer": "Utilized for tax purposes. You take the adjusted cost basis of a property and divide it by the estimated numbers of remaining years of useful life of the property."
+  },
+  {
+    "id": 578,
+    "question": "What is Subject Property i?",
+    "answer": "The property that is being appraised."
+  },
+  {
+    "id": 579,
+    "question": "What is Substitution?",
+    "answer": "A principal utilized in appraising. A buyer would substitute a lower priced property for a higher priced property."
+  },
+  {
+    "id": 580,
+    "question": "What is Supply And Demand?",
+    "answer": "A principle variable to measure the value of a property in a given area. Too many properties in a neighborhood may have an effect on a value of a I property. I"
+  },
+  {
+    "id": 581,
+    "question": "What is Transferability?",
+    "answer": "The ability a property owner has to convey their interests to another without any restrictions."
+  },
+  {
+    "id": 582,
+    "question": "What is Unit-In-Place Method?",
+    "answer": "A method utilized by an appraiser that recognizes the total value of new construction properties in relation to the square footage of those properties. Its purpose is to determine the dollar figure per square foot to build."
+  },
+  {
+    "id": 583,
+    "question": "What is URAR?",
+    "answer": "Uniform Residential Appraisal Report. This report is the most common format utilized when conducting residential appraisals."
+  },
+  {
+    "id": 584,
+    "question": "What is USPAP?",
+    "answer": "Uniform Standards of Professional Appraisal Practice. A code of conduct utilized by appraisers that has brought consistency and conformity to the appraisal practice."
+  },
+  {
+    "id": 585,
+    "question": "What is Utility?",
+    "answer": "The usefulness of a property"
+  },
+  {
+    "id": 586,
+    "question": "What is Value?",
+    "answer": "The financial worth of a property"
+  },
+  {
+    "id": 587,
+    "question": "What is ABR?",
+    "answer": "Accredited Buyer Representative"
+  },
+  {
+    "id": 588,
+    "question": "What is A/C?",
+    "answer": "Air conditioning"
+  },
+  {
+    "id": 589,
+    "question": "What is AQB?",
+    "answer": "Appraiser Qualification Board"
+  },
+  {
+    "id": 590,
+    "question": "What is ARELLO?",
+    "answer": "Association of Real Estate License Law Officials"
+  },
+  {
+    "id": 591,
+    "question": "What is ARM?",
+    "answer": "Adjustable Rate Mortgage"
+  },
+  {
+    "id": 592,
+    "question": "What is ASB?",
+    "answer": "Adjustable Rate Mortgage"
+  },
+  {
+    "id": 593,
+    "question": "What is ASHI?",
+    "answer": "American Society of Home Inspectors"
+  },
+  {
+    "id": 594,
+    "question": "What is BOMA?",
+    "answer": "Building Owners and Manager Association"
+  },
+  {
+    "id": 595,
+    "question": "What is BLM?",
+    "answer": "Bureau of Land Management"
+  },
+  {
+    "id": 596,
+    "question": "What is BPO?",
+    "answer": "Broker price opinion"
+  },
+  {
+    "id": 597,
+    "question": "What is CAM?",
+    "answer": "Common area maintenance"
+  },
+  {
+    "id": 598,
+    "question": "What is CBA?",
+    "answer": "Controlled business arrangement"
+  },
+  {
+    "id": 599,
+    "question": "What is CBR?",
+    "answer": "Certified Buyer Representative"
+  },
+  {
+    "id": 600,
+    "question": "What is CERCLA?",
+    "answer": "Comprehensive Environmental Response Compensation and Liability Act"
+  },
+  {
+    "id": 601,
+    "question": "What is CFO?",
+    "answer": "Chief Financial Officer"
+  },
+  {
+    "id": 602,
+    "question": "What is CLIPP?",
+    "answer": "Childhood Lead Poisoning Prevention Program"
+  },
+  {
+    "id": 603,
+    "question": "What is CMA?",
+    "answer": "Comparative market analysis Competitive market analysis"
+  },
+  {
+    "id": 604,
+    "question": "What is co?",
+    "answer": "Certificate Of Occupancy"
+  },
+  {
+    "id": 605,
+    "question": "What is COB?",
+    "answer": "Close of business"
+  },
+  {
+    "id": 606,
+    "question": "What is COLA?",
+    "answer": "Cost of living adjustments"
+  },
+  {
+    "id": 607,
+    "question": "What is COMPS?",
+    "answer": "Comparables"
+  },
+  {
+    "id": 608,
+    "question": "What is CPA?",
+    "answer": "Certified Public Accountant"
+  },
+  {
+    "id": 609,
+    "question": "What is CPI?",
+    "answer": "Consumer Price Index"
+  },
+  {
+    "id": 610,
+    "question": "What is CPM?",
+    "answer": "Certified Property Manager"
+  },
+  {
+    "id": 611,
+    "question": "What is CRA?",
+    "answer": "Community Reinvestment Act"
+  },
+  {
+    "id": 612,
+    "question": "What is CRB?",
+    "answer": "Certified Real Estate Brokerage Manager"
+  },
+  {
+    "id": 613,
+    "question": "What is CRE?",
+    "answer": "Counselor of Real Estate"
+  },
+  {
+    "id": 614,
+    "question": "What is CRS?",
+    "answer": "Certified Residential Specialist f"
+  },
+  {
+    "id": 615,
+    "question": "What is CRV?",
+    "answer": "Certificate of Reasonable Value"
+  },
+  {
+    "id": 616,
+    "question": "What is DBA?",
+    "answer": "Doing business as"
+  },
+  {
+    "id": 617,
+    "question": "What is DREI?",
+    "answer": "Distinguished Real Estate Instructor"
+  },
+  {
+    "id": 618,
+    "question": "What is DUST?",
+    "answer": "Demand, utility, scarcity, transferability"
+  },
+  {
+    "id": 619,
+    "question": "What is EBITDA?",
+    "answer": "Earnings before interest, truces, depreciation, amortization"
+  },
+  {
+    "id": 620,
+    "question": "What is ECOA?",
+    "answer": "Equal Credit Opportunity Act"
+  },
+  {
+    "id": 621,
+    "question": "What is E&O?",
+    "answer": "Errors and omissions"
+  },
+  {
+    "id": 622,
+    "question": "What is FAR?",
+    "answer": "Floor area ratio"
+  },
+  {
+    "id": 623,
+    "question": "What is FEMA?",
+    "answer": "Federal Emergency Management Agency"
+  },
+  {
+    "id": 624,
+    "question": "What is FHA?",
+    "answer": "Federal Housing Administration"
+  },
+  {
+    "id": 625,
+    "question": "What is FHLMC?",
+    "answer": "Federal Home Loan Mortgage Corporation (Freddie Mac)"
+  },
+  {
+    "id": 626,
+    "question": "What is FICO?",
+    "answer": "Fair Isaac Corporation"
+  },
+  {
+    "id": 627,
+    "question": "What is FMV?",
+    "answer": "Fair market value"
+  },
+  {
+    "id": 628,
+    "question": "What is FNMA?",
+    "answer": "Federal National Mortgage Association (Fannie Mae)"
+  },
+  {
+    "id": 629,
+    "question": "What is FOMC?",
+    "answer": "Federal Open Market Committee"
+  },
+  {
+    "id": 630,
+    "question": "What is FRS?",
+    "answer": "Federal Reserve System"
+  },
+  {
+    "id": 631,
+    "question": "What is FSBO?",
+    "answer": "For sale by owner"
+  },
+  {
+    "id": 632,
+    "question": "What is FY?",
+    "answer": "Fiscal Year"
+  },
+  {
+    "id": 633,
+    "question": "What is GEM?",
+    "answer": "Growing Equity Mortgage"
+  },
+  {
+    "id": 634,
+    "question": "What is GIM?",
+    "answer": "Gross Income Multiplier i"
+  },
+  {
+    "id": 635,
+    "question": "What is GLA?",
+    "answer": "Gross living area"
+  },
+  {
+    "id": 636,
+    "question": "What is GNMA?",
+    "answer": "Government National Mortgage Association (Ginnie Mae)"
+  },
+  {
+    "id": 637,
+    "question": "What is GNP?",
+    "answer": "Gross National Product"
+  },
+  {
+    "id": 638,
+    "question": "What is GP?",
+    "answer": "General Partner"
+  },
+  {
+    "id": 639,
+    "question": "What is GPM?",
+    "answer": "Graduated Payment Mortgage"
+  },
+  {
+    "id": 640,
+    "question": "What is GRI?",
+    "answer": "Graduated Realtors Institute"
+  },
+  {
+    "id": 641,
+    "question": "What is GRM?",
+    "answer": "Gross Rent Multiplier"
+  },
+  {
+    "id": 642,
+    "question": "What is HOW?",
+    "answer": "Homeowners' Warranty"
+  },
+  {
+    "id": 643,
+    "question": "What is HVAC?",
+    "answer": "Heating, Ventilation Air Conditioning"
+  },
+  {
+    "id": 644,
+    "question": "What is IRA?",
+    "answer": "Individual Retirement Account"
+  },
+  {
+    "id": 645,
+    "question": "What is LIBOR?",
+    "answer": "London Interbank Offered Rate"
+  },
+  {
+    "id": 646,
+    "question": "What is LP?",
+    "answer": "Limited Partner"
+  },
+  {
+    "id": 647,
+    "question": "What is MBA?",
+    "answer": "Mortgage Bankers Association of America"
+  },
+  {
+    "id": 648,
+    "question": "What is MBS?",
+    "answer": "Mortgage Backed Security"
+  },
+  {
+    "id": 649,
+    "question": "What is MI?",
+    "answer": "Mortgage Insurance"
+  },
+  {
+    "id": 650,
+    "question": "What is MIP?",
+    "answer": "Mortgage Insurance Premium"
+  },
+  {
+    "id": 651,
+    "question": "What is NAR?",
+    "answer": "National Association of Realtors"
+  },
+  {
+    "id": 652,
+    "question": "What is NAV?",
+    "answer": "Net Asset Value"
+  },
+  {
+    "id": 653,
+    "question": "What is NLA?",
+    "answer": "Net Leasable Area"
+  },
+  {
+    "id": 654,
+    "question": "What is NNN?",
+    "answer": "Triple Net Lease"
+  },
+  {
+    "id": 655,
+    "question": "What is NOi?",
+    "answer": "Net Operating Income"
+  },
+  {
+    "id": 656,
+    "question": "What is OTS?",
+    "answer": "Office Of Thrift Supervision"
+  },
+  {
+    "id": 657,
+    "question": "What is PCBS?",
+    "answer": "Polychlorinated Biphenyls"
+  },
+  {
+    "id": 658,
+    "question": "What is P&S?",
+    "answer": "Purchase And Sale"
+  },
+  {
+    "id": 659,
+    "question": "What is P&I?",
+    "answer": "Principal and Interest"
+  },
+  {
+    "id": 660,
+    "question": "What is PIG?",
+    "answer": "Passive Income Generator"
+  },
+  {
+    "id": 661,
+    "question": "What is PITT?",
+    "answer": "Possession, Interest, Time. Title"
+  },
+  {
+    "id": 662,
+    "question": "What is PMI?",
+    "answer": "Private Mortgage Insurance"
+  },
+  {
+    "id": 663,
+    "question": "What is POA?",
+    "answer": "Power Of Attorney"
+  },
+  {
+    "id": 664,
+    "question": "What is POB?",
+    "answer": "Point Of Beginning"
+  },
+  {
+    "id": 665,
+    "question": "What is PUD?",
+    "answer": "Planned Unit Development"
+  },
+  {
+    "id": 666,
+    "question": "What is RAM?",
+    "answer": "Reverse Annuity Mortgage"
+  },
+  {
+    "id": 667,
+    "question": "What is REO?",
+    "answer": "Real Estate Owned"
+  },
+  {
+    "id": 668,
+    "question": "What is ROE?",
+    "answer": "Return on equity"
+  },
+  {
+    "id": 669,
+    "question": "What is ROI?",
+    "answer": "Return On Investment"
+  },
+  {
+    "id": 670,
+    "question": "What is SAM?",
+    "answer": "Shared Appreciation Mortgage"
+  },
+  {
+    "id": 671,
+    "question": "What is TAW?",
+    "answer": "Tenant At Will"
+  },
+  {
+    "id": 672,
+    "question": "What is TIL?",
+    "answer": "Truth-ln-Lending"
+  },
+  {
+    "id": 673,
+    "question": "What is ucc?",
+    "answer": "Uniform Commercial Code"
+  },
+  {
+    "id": 674,
+    "question": "What is UST?",
+    "answer": "Underground storage tank"
+  },
+  {
+    "id": 675,
+    "question": "What is VA?",
+    "answer": "Veteran Administration"
+  },
+  {
+    "id": 676,
+    "question": "What is VOD?",
+    "answer": "Verification of Deposit"
+  },
+  {
+    "id": 677,
+    "question": "What is M.G.L?",
+    "answer": "Massachusetts General Law"
+  },
+  {
+    "id": 678,
+    "question": "What is DPL?",
+    "answer": "Division of Professional Licensure"
+  },
+  {
+    "id": 679,
+    "question": "What is Licensing Law?",
+    "answer": "An expression of Police Power"
+  },
+  {
+    "id": 680,
+    "question": "What is Police Power?",
+    "answer": "Governmental Control"
+  },
+  {
+    "id": 681,
+    "question": "What is Misrepresentation?",
+    "answer": "An accidental inaccuracy about a property"
+  },
+  {
+    "id": 682,
+    "question": "What is Fraud?",
+    "answer": "A deliberate misstatement about a property"
+  },
+  {
+    "id": 683,
+    "question": "What is Commingling?",
+    "answer": "A mixing of client deposits with operating or personal funds."
+  },
+  {
+    "id": 684,
+    "question": "What is M.G.L.151B?",
+    "answer": "The Massachusetts Fair Housing Laws"
+  },
+  {
+    "id": 685,
+    "question": "What is M.G.L. 111?",
+    "answer": "Massachusetts Lead Paint Law"
+  },
+  {
+    "id": 686,
+    "question": "What is M.G.L. 40A?",
+    "answer": "Zoning Act"
+  },
+  {
+    "id": 687,
+    "question": "What is M.G.L. 40B?",
+    "answer": "Comprehensive Permit Law 40B Sect 20 Encourage affordable housing by implementing avenues to reduce unnecessary barriers to build."
+  },
+  {
+    "id": 688,
+    "question": "What is M.G.L.183A?",
+    "answer": "The Massachusetts Condominium Law"
+  },
+  {
+    "id": 689,
+    "question": "What is MCAD?",
+    "answer": "l The Massachusetts Commission Against Discrimination The State Agency that oversees discrimination complaints in Massachusetts."
+  },
+  {
+    "id": 690,
+    "question": "What is Indemnify?",
+    "answer": "I"
+  },
+  {
+    "id": 691,
+    "question": "What is DBA?",
+    "answer": "A certificate filed with a time authorizing a company to conduct business from a specific location."
+  },
+  {
+    "id": 692,
+    "question": "What is 1 Attorney In Fact?",
+    "answer": "A person who holds a Power of Attorney Instrument to make decisions on behalf of another is known as an Attorney in Fact."
+  },
+  {
+    "id": 693,
+    "question": "What is Independent Contractor?",
+    "answer": "A person affiliated with a person to conduct certain activities. A Real Estate Agent may be an Independent Contractor. The broker will provide the Agent a 1099 for money earned during the affiliation."
+  },
+  {
+    "id": 694,
+    "question": "What is Employee?",
+    "answer": "An individual who has been hired to perform certain activities. The employer is responsible for tax withholdings, fair labor standings, hours of work and government regulations. The employee receives a W-2."
+  },
+  {
+    "id": 695,
+    "question": "What is Puffing?",
+    "answer": "A term utilized when an agent exaggerates the condition of a property. An agent could be guilty of puffing an advertisement."
+  },
+  {
+    "id": 696,
+    "question": "What is Blind Advertising?",
+    "answer": "When an advertisement does not indicate the party who placed the advertisement. An ad from a broker must include the name and telephone number of the broker."
+  },
+  {
+    "id": 697,
+    "question": "What is Trust Account i?",
+    "answer": "A bank account set up by a broker holding deposits. The funds do not belong to the broker and cannot be used by the broker to offset payroll, office or advertising expenses."
+  },
+  {
+    "id": 698,
+    "question": "What is Massachusetts Mandatory Licensee Consumer Relationship Disclosure i I?",
+    "answer": "A form utilized that requires the real estate agent to disclosure their relationship to the consumer at the first personal meeting to discuss specific a parcel of real estate."
+  },
+  {
+    "id": 699,
+    "question": "What is OLDCAR?",
+    "answer": "Fiduciary duties held by a sellers agent, buyers agent and designated agents. Obedience, Loyalty, Disclosure, Confidentiality, Accounting, Reasonable Care and Skill"
+  },
+  {
+    "id": 700,
+    "question": "What is CA?",
+    "answer": "Confidentiality and Accounting The fiduciary duties held by a Dual Agent"
+  },
+  {
+    "id": 701,
+    "question": "What is Accounting?",
+    "answer": "Fiduciary duties held by a Facilitator, Non-Agent or Transaction Broker"
+  },
+  {
+    "id": 702,
+    "question": "What is Non-Agent?",
+    "answer": "A term to describe a facilitator or transaction broker."
+  },
+  {
+    "id": 703,
+    "question": "What is Disclosed Dual Agent i?",
+    "answer": "An agent who has fiduciary duties with both a buyer and a seller in the same transaction. It is said they represent both parties. In order to do this the agent needs permission from both parties before they show the property. The agent has confidentiality and accounting to both parties."
+  },
+  {
+    "id": 704,
+    "question": "What is Undisclosed Dual Agent?",
+    "answer": "An agent who is representing both a buyer and a seller in the same transaction without seeking permission from both parties. It is illegal to represent both parties without knowledge and consent of both parties."
+  },
+  {
+    "id": 705,
+    "question": "What is Designated Agent?",
+    "answer": "An agent who has appointed or designated to represent a seller or a buyer in a transaction. The seller or buyer does not have a relationship with the other agents that work at the office and allow the other agents to represent another party in connection with the sale of their home. The agent has OLDCAR"
+  },
+  {
+    "id": 706,
+    "question": "What is Title X i?",
+    "answer": "The Federal Lead Paint Law"
+  },
+  {
+    "id": 707,
+    "question": "What is CLPPP i?",
+    "answer": "The Childhood Lead Paint Poison Prevention Program Massachusetts requires sellers to disclose whatever knowledge they have regarding paint in regard to the property they are selling or renting."
+  },
+  {
+    "id": 708,
+    "question": "What is i Encapsulation?",
+    "answer": "A material utilized to seal lead paint. It is used a temporary measure to control or contain lead."
+  },
+  {
+    "id": 709,
+    "question": "What is Massachusetts Housing Finance?",
+    "answer": "A state agency designed to assist Massachusetts' residents with home ownership and home improvement"
+  },
+  {
+    "id": 710,
+    "question": "What is Short Term Vacation And Rooming i House Form?",
+    "answer": "A form that is used when a tenant will occupy a premises for less than 31 days. These properties are exempt from Lead Paint removal but must not have peeling, flaking or chipping paint."
+  },
+  {
+    "id": 711,
+    "question": "What is M.G.L. 93A?",
+    "answer": "The Massachusetts Consumer Protection Act A law that requires businesses to be fair when dealing with consumers. It prohibits deceptive practices. Failure to abide by certain guidelines could result in the business be fined treble damages"
+  },
+  {
+    "id": 712,
+    "question": "What is M.G.L. 21E?",
+    "answer": "The Massachusetts Superfund Law. Known as the site assessment law. It prohibits contamination of our natural resources by pollution or illegal disposal of hazardous waste."
+  },
+  {
+    "id": 713,
+    "question": "What is Late Fee i?",
+    "answer": "A fee charged to a tenant when they did not pay the rent in accordance with the lease. Massachusetts Law indicates a property owner cannot charge a late fee until the tenant is 30 days m arrears."
+  },
+  {
+    "id": 714,
+    "question": "What is 14 Day Notice i To Quit?",
+    "answer": "A noticed provided to a tenant that is delinquent with the rent. A property owner can file this notice once a tenant is one day late with the rent. The notice indicates that the tenant has 14 days to pay the money in arrears or they must vacate the premises. If the tenant received one of these notices in the past 12 months they waive their 14 day time period to pay."
+  },
+  {
+    "id": 715,
+    "question": "What is Habitable Condition?",
+    "answer": "A requirement that a property owner keep a property in livable condition."
+  },
+  {
+    "id": 716,
+    "question": "What is Covenant Of Quiet Enjoyment?",
+    "answer": "A right that allows the tenant to live in peace without harassment and interference from a property owner. The owner gives proper notice to enter a tenant's apartment."
+  },
+  {
+    "id": 717,
+    "question": "What is 93A Demand Letter?",
+    "answer": "A letter sent to a business seeking remedy to a complaint before the consumer seeks court action. This business has 30 days to reply to the letter."
+  },
+  {
+    "id": 718,
+    "question": "What is Caveat Emptor?",
+    "answer": "Let The Buyer Beware"
+  },
+  {
+    "id": 719,
+    "question": "What is Massachusetts Consumer Protection Act?",
+    "answer": "A law that requires businesses to be fair when dealing with consumers. It prohibits deceptive practices. Failure to abide by certain guidelines could result in the business be fined treble damages"
+  },
+  {
+    "id": 720,
+    "question": "What is UST?",
+    "answer": "An Underground Storage Tank that contains oil. It is a requirement of law that it be disclosed to a potential buyer that a property contains an underground oil tank."
+  },
+  {
+    "id": 721,
+    "question": "What is CERCLA?",
+    "answer": "Comprehensive Environmental Response Compensation and Liability Act Also known as the Superfund Law. A federal law that prevents illegal disposal of hazardous waste. The law imposed a tax on the oil and chemical industry. These funds were used to clean contaminated properties."
+  },
+  {
+    "id": 722,
+    "question": "What is Asbestos?",
+    "answer": "A material used as an insulation. While it is not an illegal substance, when being removed proper care must be taken and appropriate permits and disposal techniques are applied. An agent must disclose if a property has asbestos."
+  },
+  {
+    "id": 723,
+    "question": "What is Radon?",
+    "answer": "A natural gas that comes from the ground. These gasses enter a property through the foundation and can be dangerous if the level is too high. Massachusetts indicates that a level of 4 or more piocuries per liter could be dangerous. An agent must disclose if a property or surrounding properties contain high levels of Radon."
+  },
+  {
+    "id": 724,
+    "question": "What is Title V?",
+    "answer": "Private Sewage Disposal Systems. In Massachusetts a seller would need to provide a Title report when transferring ownership to property. The purpose is to ensure the system is up to code and is not contaminating the soil."
+  },
+  {
+    "id": 725,
+    "question": "What is M.G.L. 41?",
+    "answer": "The Subdivision Control Law. A subdivision is two or more lots that do not have frontage on an existing roadway. The law supports the use of solar energy."
+  },
+  {
+    "id": 726,
+    "question": "What is UBC?",
+    "answer": "Uniform Building Code. A statewide code to determine residential, commercial and industrial building within the Commonwealth of Massachusetts."
+  },
+  {
+    "id": 727,
+    "question": "What is Scenic Roads Act?",
+    "answer": "A Massachusetts law that recognized the value of the historic landscape in Massachusetts and prohibits the destruction of these properties. Anyone looking to alter these roadways would need to appear before a planning board or conversation commission."
+  },
+  {
+    "id": 728,
+    "question": "What is Abatement?",
+    "answer": "A request for a reduction in property taxes from a city of town."
+  },
+  {
+    "id": 729,
+    "question": "What is State Appellate Tax Board?",
+    "answer": "A statewide board that a consumer would appeal a Massachusetts tax issue. If a city or town rejected a property tax abatement one could appeal to this board. Taxes are required to be paid before the appeal can be filed."
+  },
+  {
+    "id": 730,
+    "question": "What is Interstate Land Full Disclosure Act?",
+    "answer": "A law overseen by the Office of Interstate land Sales Registration. A HUD Office. Its purpose is to protect against fraudulent promotional programs such as sight unseen land offerings."
+  },
+  {
+    "id": 731,
+    "question": "What is Seller Statement Of Property Condition r?",
+    "answer": "A form provided by the seller that discloses the condition of the property they are offering for sale. This form is not a mandatory form in Massachusetts."
+  },
+  {
+    "id": 732,
+    "question": "What is i Facts For Consumers?",
+    "answer": "A mandatory form that must be provided by a real estate agent to a potential purchaser that advises about that availability of home inspections and where to seek a licensed home inspectors."
+  },
+  {
+    "id": 733,
+    "question": "What is Tena_nt Fee Disclosure Notice?",
+    "answer": "If a real estate agent charges any amount of money for their services to a prospective tenant they are required to disclose the fee via this form at the first personal meeting to discuss a specific apartments. This is a mandatory form if a fee is charged to the tenant."
+  },
+  {
+    "id": 734,
+    "question": "What is Home Inspector?",
+    "answer": "A person who would inspect the overall condition a property being offered for sale. Home Inspectors are required to be licensed in Massachusetts."
+  },
+  {
+    "id": 735,
+    "question": "What is Psychologically Stigmatized Properties?",
+    "answer": "Properties in which a homicide or suicide occurred. Also a property that contains the presence of ghosts or spirits"
+  },
+  {
+    "id": 736,
+    "question": "What is Efficient And i Procuring Cause?",
+    "answer": "The cause of an action. Such as an agent that has caused and managed a series of events that led to a buyer purchasing a property. In order to earn a commission you must be deemed the efficient and procuring cause of the sale."
+  },
+  {
+    "id": 737,
+    "question": "What is Tristram's Rule J?",
+    "answer": "The court action that determined the actions required to earn a commission. 1. Broker must produce a ready, willing and able buyer willing to purchase on terms identified by the seller. 2. The buyer enters into an agreement with the seller to purchase the property. 3. The buyer completes the transaction in accordance with the contract. It is possible that an agent could earn a commission if other terms applied"
+  },
+  {
+    "id": 738,
+    "question": "What is Action To Quiet Title?",
+    "answer": "A Court action sought in Land Court to determine the true owner of a property or to remove a cloud on the title."
+  },
+  {
+    "id": 739,
+    "question": "What is Land Court f?",
+    "answer": "The court that determines real property ownership disputes."
+  },
+  {
+    "id": 740,
+    "question": "What is Smoke Detector Certificate?",
+    "answer": "A certificate signed by the local fire chief indicating the property contains smoke detectors, in appropriate locations in working order. The seller must provide certificate when closing on a residential property."
+  },
+  {
+    "id": 741,
+    "question": "What is Carbon Monoxide i i Certificate 1?",
+    "answer": "A Certificate signed by the local fire department indicating the property contains carbon monoxide detectors in appropriate locations. Many property are required to posses these detectors. The seller will provide at the closing."
+  },
+  {
+    "id": 742,
+    "question": "What is Homestead i Declaration i I?",
+    "answer": "A protection a homeowner will seek to ensure that their principle place of residence is protected from being sold to pay a judgment from an outside creditor. The purpose is to protect the equity of the home. The must occupy the property."
+  },
+  {
+    "id": 743,
+    "question": "What is i Documentary i Tax Stamps i I?",
+    "answer": "A tax paid by the grantor (seller) or property owner when a deed is recorded at the local Registry of Deeds"
+  },
+  {
+    "id": 744,
+    "question": "What is Acknowledged?",
+    "answer": "When a document is sworn before a court officer. public official or notary public."
+  },
+  {
+    "id": 745,
+    "question": "What is Planning Board?",
+    "answer": "A board that determines the appropriateness of proposed development projects. The board would take into account building, drainage, utilities and a host of items."
+  },
+  {
+    "id": 746,
+    "question": "What is Conversation Commission -t?",
+    "answer": "A board that is geared toward conserving land use, parks and open space."
+  },
+  {
+    "id": 747,
+    "question": "What is MLC r?",
+    "answer": "Municipal Lien Certificate A document ordered by a closing attorney or settlement agent that indicates the amount any amount of funds due to a city or town. Examples: Unpaid taxes, betterment charges or water."
+  },
+  {
+    "id": 748,
+    "question": "What is Treble Damages?",
+    "answer": "Three times a sought after amount due for damages"
+  },
+  {
+    "id": 749,
+    "question": "What is Security Deposits?",
+    "answer": "A deposit paid by a tenant to ensure that the tenant will return the apartment in the same the condition received taking into account normal wear and tear. Massachusetts only allows a deposit to equal up to one month of the rent."
+  },
+  {
+    "id": 750,
+    "question": "What is Biennally?",
+    "answer": "Every two years. A real estate licensee will renew their license every two years in Massachusetts."
+  },
+  {
+    "id": 751,
+    "question": "What is Inactive Status?",
+    "answer": "A status held by a real estate licensee that does not permit them to practice real estate. They must pay the prescribed fee to obtain this status They did not complete their continuing education requirements."
+  },
+  {
+    "id": 752,
+    "question": "What is Active Status?",
+    "answer": "This is when a licensee completed the requirements to renew their license such as pay the state the fee, complete their continuing education requirements, are paid up to date on their state income taxes and certify that they have not been convicted of a crime within the past 24 months."
+  },
+  {
+    "id": 753,
+    "question": "What is Continuing Education?",
+    "answer": "Educational Programs designed to reinforce and enhance the skills of licensees. Massachusetts requires that licensees complete 12 hours of Continuing Education during the prior 24 months from the renewal date."
+  },
+  {
+    "id": 754,
+    "question": "What does ADR stand for?",
+    "answer": "Alternative Dispute Resolution"
+  },
+  {
+    "id": 755,
+    "question": "What does CRV stand for?",
+    "answer": "Certificate of Reasonable Value (VA Loan)"
+  },
+  {
+    "id": 756,
+    "question": "What does LTV stand for?",
+    "answer": "Loan to Value Ratio"
+  },
+  {
+    "id": 757,
+    "question": "What does FNMA stand for?",
+    "answer": "Federal National Mortgage Association (Fannie Mae)"
+  },
+  {
+    "id": 758,
+    "question": "What does FHLMC stand for?",
+    "answer": "Federal Home Loan Mortgage Corporation (Freddie Mac)"
+  },
+  {
+    "id": 759,
+    "question": "What does GNMA stand for?",
+    "answer": "Government National Mortgage Association (Ginnie Mae)"
+  },
+  {
+    "id": 760,
+    "question": "What does FHA stand for?",
+    "answer": "Federal Housing Administration"
+  },
+  {
+    "id": 761,
+    "question": "What does APR stand for?",
+    "answer": "Annual Percentage Rate (points plus interest rate)"
+  },
+  {
+    "id": 762,
+    "question": "What does HUD stand for?",
+    "answer": "Department of Housing and Urban Development"
+  },
+  {
+    "id": 763,
+    "question": "What does ARM stand for?",
+    "answer": "Adjustable Rate Mortgage"
+  },
+  {
+    "id": 764,
+    "question": "What does VA stand for?",
+    "answer": "Veterans Administration"
+  },
+  {
+    "id": 765,
+    "question": "What does RESPA stand for?",
+    "answer": "Real Estate Settlement Procedures Act"
+  },
+  {
+    "id": 766,
+    "question": "What does RAM stand for?",
+    "answer": "Reverse Annuity Mortgage"
+  },
+  {
+    "id": 767,
+    "question": "What does MLC stand for?",
+    "answer": "Municipal Lien Certificate"
+  },
+  {
+    "id": 768,
+    "question": "What does TILA stand for?",
+    "answer": "Truth in Lending Act"
+  },
+  {
+    "id": 769,
+    "question": "What does HELOC stand for?",
+    "answer": "Home Equity Line of Credit"
+  },
+  {
+    "id": 770,
+    "question": "What does ECOA stand for?",
+    "answer": "Equal Credit Opportunity Act"
+  },
+  {
+    "id": 771,
+    "question": "What does PITI stand for?",
+    "answer": "Principal, Interest, Taxes, and Insurance"
+  },
+  {
+    "id": 772,
+    "question": "What does PMI stand for?",
+    "answer": "Private Mortgage Insurance"
+  },
+  {
+    "id": 773,
+    "question": "What does GDP stand for?",
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "id": 774,
+    "question": "What does FSBO stand for?",
+    "answer": "For Sale by Owner"
+  },
+  {
+    "id": 775,
+    "question": "What does NAR stand for?",
+    "answer": "National Association of Realtors"
+  },
+  {
+    "id": 776,
+    "question": "What does MLS stand for?",
+    "answer": "Multiple Listing Service"
+  },
+  {
+    "id": 777,
+    "question": "What does E&O stand for?",
+    "answer": "Errors and Omissions Insurance"
+  },
+  {
+    "id": 778,
+    "question": "What does ALJ stand for?",
+    "answer": "Administrative Law Judge"
+  },
+  {
+    "id": 779,
+    "question": "What does FEMA stand for?",
+    "answer": "Federal Emergency Management Agency"
+  },
+  {
+    "id": 780,
+    "question": "What does ADA stand for?",
+    "answer": "Americans with Disabilities Act"
+  },
+  {
+    "id": 781,
+    "question": "What does CMA stand for?",
+    "answer": "Comparative Market Analysis"
+  },
+  {
+    "id": 782,
+    "question": "What does BPO stand for?",
+    "answer": "Broker Price Opinion"
+  },
+  {
+    "id": 783,
+    "question": "What does USPAP stand for?",
+    "answer": "Uniform Standards of Professional Appraisal Practice"
+  },
+  {
+    "id": 784,
+    "question": "What does URAR stand for?",
+    "answer": "Uniform Residential Appraisal Report"
+  },
+  {
+    "id": 785,
+    "question": "What does GLA stand for?",
+    "answer": "Gross Living Area"
+  },
+  {
+    "id": 786,
+    "question": "What does DUST stand for?",
+    "answer": "Demand, Utility, Scarcity, Transferability"
+  },
+  {
+    "id": 787,
+    "question": "What does GRM stand for?",
+    "answer": "Gross Rent Multiplier"
+  },
+  {
+    "id": 788,
+    "question": "What does GIM stand for?",
+    "answer": "Gross Income Multiplier"
+  },
+  {
+    "id": 789,
+    "question": "What does TAW stand for?",
+    "answer": "Tenant at Will"
+  },
+  {
+    "id": 790,
+    "question": "What does NNN stand for?",
+    "answer": "Triple Net \u2013 Taxes, Utilities, and Insurance"
+  },
+  {
+    "id": 791,
+    "question": "What does UCC stand for?",
+    "answer": "Uniform Commercial Code"
+  },
+  {
+    "id": 792,
+    "question": "What does HOA stand for?",
+    "answer": "Homeowners Association"
+  },
+  {
+    "id": 793,
+    "question": "What does CC&R stand for?",
+    "answer": "Covenants, Conditions, and Restrictions"
+  },
+  {
+    "id": 794,
+    "question": "What does REIT stand for?",
+    "answer": "Real Estate Investment Trust"
+  },
+  {
+    "id": 795,
+    "question": "What does LLC stand for?",
+    "answer": "Limited Liability Company"
+  },
+  {
+    "id": 796,
+    "question": "What does PITT stand for?",
+    "answer": "Possession, Interest, Time, and Title"
+  },
+  {
+    "id": 797,
+    "question": "What does PILOT stand for?",
+    "answer": "Payment In Lieu Of Taxes"
+  },
+  {
+    "id": 798,
+    "question": "What does PETE stand for?",
+    "answer": "Police Power, Eminent Domain, Taxation, Escheat"
+  },
+  {
+    "id": 799,
+    "question": "What does OCEANS stand for?",
+    "answer": "Open, Continuous, Exclusive, Adverse, Notorious, Statutory"
+  },
+  {
+    "id": 800,
+    "question": "What does MUETA stand for?",
+    "answer": "Massachusetts Uniform Electronic Transaction Act"
+  },
+  {
+    "id": 801,
+    "question": "What does MCAD stand for?",
+    "answer": "Massachusetts Commission Against Discrimination"
+  },
+  {
+    "id": 802,
+    "question": "What does CERCLA stand for?",
+    "answer": "Comprehensive Environmental Response, Compensation, and Liability Act (Superfund)"
+  },
+  {
+    "id": 803,
+    "question": "What does UBC stand for?",
+    "answer": "Uniform Building Code"
+  },
+  {
+    "id": 804,
+    "question": "What does MGL 40A stand for?",
+    "answer": "Massachusetts Zoning Act"
+  },
+  {
+    "id": 805,
+    "question": "What does MGL 40B stand for?",
+    "answer": "Comprehensive Permit Law (Anti-Snob Zoning)"
+  },
+  {
+    "id": 806,
+    "question": "What does MGL 93A stand for?",
+    "answer": "Massachusetts Consumer Protection Act"
+  },
+  {
+    "id": 807,
+    "question": "What does MGL 111 stand for?",
+    "answer": "Massachusetts Lead Paint Law"
+  },
+  {
+    "id": 808,
+    "question": "What does MGL 151B stand for?",
+    "answer": "Massachusetts Fair Housing Law"
+  },
+  {
+    "id": 809,
+    "question": "What does MGL 183A stand for?",
+    "answer": "Massachusetts Condominium Law"
+  }
+]
