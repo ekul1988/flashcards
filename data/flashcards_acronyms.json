@@ -473,5 +473,10 @@
     "id": 95,
     "question": "Wetlands: how many feet from vegetation is a buffer zone (sheet)?",
     "answer": "First 100 feet"
+  },
+  {
+    "id": 96,
+    "question": "What does USLIMEC stand for?",
+    "answer": "Use Sell Lease Inherit Mortgage Exclude Control"
   }
 ]
