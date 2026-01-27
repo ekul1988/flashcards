@@ -3,7 +3,7 @@ import type { NextRequest } from 'next/server'
 
 export function middleware(request: NextRequest) {
   const authCookie = request.cookies.get('flashcards-auth')
-  const isAuthenticated = authCookie?.value === process.env.SITE_PASSWORD
+  const isAuthenticated = authCookie?.value === 'valid-session'
 
   // Allow access to the login API route
   if (request.nextUrl.pathname === '/api/login') {

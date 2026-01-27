@@ -5,7 +5,7 @@ export async function POST(request: Request) {
 
   if (password === process.env.SITE_PASSWORD) {
     const response = NextResponse.json({ success: true })
-    response.cookies.set('flashcards-auth', password, {
+    response.cookies.set('flashcards-auth', 'valid-session', {
       httpOnly: true,
       secure: process.env.NODE_ENV === 'production',
       sameSite: 'strict',
