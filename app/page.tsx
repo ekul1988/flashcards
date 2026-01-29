@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import coreData from '../data/flashcards_core.json'
 import acronymsData from '../data/flashcards_acronyms.json'
 
@@ -89,6 +89,22 @@ export default function Home() {
   const [testComplete, setTestComplete] = useState(false)
   const [testLoading, setTestLoading] = useState(false)
 
+  // Refs for focus management
+  const mainRef = useRef<HTMLElement>(null)
+  const announcerRef = useRef<HTMLDivElement>(null)
+
+  // Screen reader announcement helper
+  const announce = useCallback((message: string) => {
+    if (announcerRef.current) {
+      announcerRef.current.textContent = message
+    }
+  }, [])
+
+  // Focus main content on screen changes
+  useEffect(() => {
+    mainRef.current?.focus()
+  }, [appMode, sessionStarted, sessionComplete, testStarted, testComplete])
+
   // Load wrong answers from localStorage on mount
   useEffect(() => {
     const saved = localStorage.getItem('flashcards-wrong')
@@ -128,6 +144,7 @@ export default function Home() {
     setSessionComplete(false)
     setSessionStats({ right: 0, wrong: 0 })
     setSessionStarted(true)
+    announce(`Flashcard session started. ${cards.length} cards to review.`)
   }
 
   const handleAnswer = (correct: boolean) => {
@@ -143,9 +160,11 @@ export default function Home() {
 
     if (currentIndex + 1 >= shuffledCards.length) {
       setSessionComplete(true)
+      announce('Session complete!')
     } else {
       setCurrentIndex(prev => prev + 1)
       setShowAnswer(false)
+      announce(`Card ${currentIndex + 2} of ${shuffledCards.length}`)
     }
   }
 
@@ -161,15 +180,18 @@ export default function Home() {
   const switchDeck = (newDeck: Deck) => {
     setDeck(newDeck)
     setMode('all')
+    announce(`Switched to ${newDeck} deck`)
   }
 
   const switchMode = (newMode: 'all' | 'wrong') => {
     setMode(newMode)
+    announce(`Switched to ${newMode === 'all' ? 'all cards' : 'wrong only'} mode`)
   }
 
   const clearWrongAnswers = () => {
     const deckCardIds = deckCards.map(c => c.id)
     setWrongIds(prev => prev.filter(id => !deckCardIds.includes(id)))
+    announce('Wrong answers cleared')
   }
 
   // Fetch test categories on mount
@@ -201,11 +223,19 @@ export default function Home() {
     )
   }
 
-  const selectAllCategories = () => setSelectedCategories(categories.map(c => c.name))
-  const clearAllCategories = () => setSelectedCategories([])
+  const selectAllCategories = () => {
+    setSelectedCategories(categories.map(c => c.name))
+    announce('All categories selected')
+  }
+
+  const clearAllCategories = () => {
+    setSelectedCategories([])
+    announce('All categories cleared')
+  }
 
   const startTest = async () => {
     setTestLoading(true)
+    announce('Loading test questions...')
     try {
       const params = new URLSearchParams({
         categories: selectedCategories.join(','),
@@ -221,6 +251,7 @@ export default function Home() {
       setTestAnswers([])
       setTestComplete(false)
       setTestStarted(true)
+      announce(`Test started. ${data.questions.length} questions.`)
     } finally {
       setTestLoading(false)
     }
@@ -244,16 +275,19 @@ export default function Home() {
     setCorrectAnswer(data.correctAnswer)
     setTestAnswers(prev => [...prev, { question: currentQuestion, selected: selectedAnswer, correct: data.correct }])
     setAnswerRevealed(true)
+    announce(data.correct ? 'Correct!' : `Incorrect. The correct answer is ${data.correctAnswer}.`)
   }
 
   const nextQuestion = () => {
     if (testIndex + 1 >= testQuestions.length) {
       setTestComplete(true)
+      announce('Test complete!')
     } else {
       setTestIndex(prev => prev + 1)
       setSelectedAnswer(null)
       setCorrectAnswer(null)
       setAnswerRevealed(false)
+      announce(`Question ${testIndex + 2} of ${testQuestions.length}`)
     }
   }
 
@@ -285,22 +319,62 @@ export default function Home() {
     setTestStarted(false)
   }
 
+  // Handle keyboard for flashcard flip
+  const handleCardKeyDown = (e: React.KeyboardEvent) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault()
+      setShowAnswer(!showAnswer)
+    }
+  }
+
+  // Skip link for keyboard users
+  const SkipLink = () => (
+    <a href="#main-content" className="skip-link">
+      Skip to main content
+    </a>
+  )
+
+  // Screen reader announcer (visually hidden)
+  const Announcer = () => (
+    <div
+      ref={announcerRef}
+      role="status"
+      aria-live="polite"
+      aria-atomic="true"
+      className="sr-only"
+    />
+  )
+
   // App mode selection screen
   if (appMode === 'select') {
     return (
-      <div className="container">
-        <h1>Study Mode</h1>
-        <div className="mode-select">
-          <button className="mode-card" onClick={() => setAppMode('flashcards')}>
-            <div className="mode-title">Flash Cards</div>
-            <div className="mode-desc">Study with Q&A flashcards</div>
-          </button>
-          <button className="mode-card" onClick={() => setAppMode('test')}>
-            <div className="mode-title">Practice Tests</div>
-            <div className="mode-desc">Multiple choice quizzes</div>
-          </button>
-        </div>
-      </div>
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Study Mode</h1>
+          <nav aria-label="Study mode selection">
+            <div className="mode-select" role="group" aria-label="Choose study mode">
+              <button
+                className="mode-card"
+                onClick={() => setAppMode('flashcards')}
+                aria-describedby="flashcard-desc"
+              >
+                <span className="mode-title">Flash Cards</span>
+                <span id="flashcard-desc" className="mode-desc">Study with Q&A flashcards</span>
+              </button>
+              <button
+                className="mode-card"
+                onClick={() => setAppMode('test')}
+                aria-describedby="test-desc"
+              >
+                <span className="mode-title">Practice Tests</span>
+                <span id="test-desc" className="mode-desc">Multiple choice quizzes</span>
+              </button>
+            </div>
+          </nav>
+        </main>
+      </>
     )
   }
 
@@ -312,34 +386,41 @@ export default function Home() {
     const percentage = Math.round((totalCorrect / totalQuestions) * 100)
 
     return (
-      <div className="container">
-        <h1>Practice Test</h1>
-        <div className="complete">
-          <h2>Test Complete!</h2>
-          <div className="test-score">
-            <span className="score-number">{percentage}%</span>
-            <span className="score-detail">{totalCorrect} of {totalQuestions} correct</span>
-          </div>
-          <div className="category-results">
-            <h3>Results by Category</h3>
-            {categoryResults.map(cat => {
-              const pct = Math.round((cat.correct / cat.total) * 100)
-              const strength = pct >= 80 ? 'strong' : pct >= 60 ? 'medium' : 'weak'
-              return (
-                <div key={cat.name} className={`category-row ${strength}`}>
-                  <span className="category-name">{cat.name}</span>
-                  <span className="category-score">{cat.correct}/{cat.total} ({pct}%)</span>
-                </div>
-              )
-            })}
-          </div>
-          <div className="complete-buttons">
-            <button onClick={restartTest}>Take Again</button>
-            <button onClick={endTest} className="secondary">Change Settings</button>
-            <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
-          </div>
-        </div>
-      </div>
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Practice Test</h1>
+          <section className="complete" aria-labelledby="results-heading">
+            <h2 id="results-heading">Test Complete!</h2>
+            <div className="test-score" role="status" aria-label={`Your score: ${percentage} percent, ${totalCorrect} of ${totalQuestions} correct`}>
+              <span className="score-number" aria-hidden="true">{percentage}%</span>
+              <span className="score-detail">{totalCorrect} of {totalQuestions} correct</span>
+            </div>
+            <div className="category-results" aria-labelledby="category-heading">
+              <h3 id="category-heading">Results by Category</h3>
+              <ul role="list" className="category-list-results">
+                {categoryResults.map(cat => {
+                  const pct = Math.round((cat.correct / cat.total) * 100)
+                  const strength = pct >= 80 ? 'strong' : pct >= 60 ? 'medium' : 'weak'
+                  const strengthLabel = pct >= 80 ? 'Strong' : pct >= 60 ? 'Medium' : 'Needs improvement'
+                  return (
+                    <li key={cat.name} className={`category-row ${strength}`} aria-label={`${cat.name}: ${cat.correct} of ${cat.total} correct, ${pct} percent. ${strengthLabel}`}>
+                      <span className="category-name">{cat.name}</span>
+                      <span className="category-score">{cat.correct}/{cat.total} ({pct}%)</span>
+                    </li>
+                  )
+                })}
+              </ul>
+            </div>
+            <div className="complete-buttons" role="group" aria-label="Test options">
+              <button onClick={restartTest}>Take Again</button>
+              <button onClick={endTest} className="secondary">Change Settings</button>
+              <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
+            </div>
+          </section>
+        </main>
+      </>
     )
   }
 
@@ -350,302 +431,360 @@ export default function Home() {
     const wasCorrect = answerRevealed && lastAnswer?.correct
 
     return (
-      <div className="container">
-        <h1>Practice Test</h1>
-        <div className="test-card">
-          <div className="card-label">Question {testIndex + 1} of {testQuestions.length}</div>
-          <div className="test-question">{currentQuestion.question}</div>
-          <div className="test-options">
-            {currentQuestion.options.map(opt => {
-              let optionClass = 'test-option'
-              if (answerRevealed) {
-                if (opt.key === correctAnswer) {
-                  optionClass += ' correct'
-                } else if (opt.key === selectedAnswer) {
-                  optionClass += ' incorrect'
-                }
-              } else if (selectedAnswer === opt.key) {
-                optionClass += ' selected'
-              }
-              return (
-                <button
-                  key={opt.key}
-                  className={optionClass}
-                  onClick={() => !answerRevealed && setSelectedAnswer(opt.key)}
-                  disabled={answerRevealed}
-                >
-                  <span className="option-key">{opt.key}</span>
-                  <span className="option-text">{opt.text}</span>
-                </button>
-              )
-            })}
-          </div>
-          {answerRevealed && (
-            <div className={`answer-feedback ${wasCorrect ? 'correct' : 'incorrect'}`}>
-              {wasCorrect ? 'Correct!' : `Incorrect. The correct answer is ${correctAnswer}.`}
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Practice Test</h1>
+          <section className="test-card" aria-labelledby="question-label">
+            <div id="question-label" className="card-label">
+              Question {testIndex + 1} of {testQuestions.length}
             </div>
-          )}
-        </div>
-        <button
-          className="start-button"
-          onClick={answerRevealed ? nextQuestion : submitAnswer}
-          disabled={!selectedAnswer}
-          style={{ opacity: selectedAnswer ? 1 : 0.5 }}
-        >
-          {answerRevealed
-            ? (testIndex + 1 >= testQuestions.length ? 'See Results' : 'Next Question')
-            : 'Submit Answer'}
-        </button>
-        <div className="stats">
+            <p className="test-question" id="current-question">{currentQuestion.question}</p>
+            <fieldset className="test-options" aria-describedby="current-question">
+              <legend className="sr-only">Select your answer</legend>
+              {currentQuestion.options.map(opt => {
+                let optionClass = 'test-option'
+                let ariaLabel = `Option ${opt.key}: ${opt.text}`
+                if (answerRevealed) {
+                  if (opt.key === correctAnswer) {
+                    optionClass += ' correct'
+                    ariaLabel += ' (Correct answer)'
+                  } else if (opt.key === selectedAnswer) {
+                    optionClass += ' incorrect'
+                    ariaLabel += ' (Your answer - Incorrect)'
+                  }
+                } else if (selectedAnswer === opt.key) {
+                  optionClass += ' selected'
+                  ariaLabel += ' (Selected)'
+                }
+                return (
+                  <button
+                    key={opt.key}
+                    className={optionClass}
+                    onClick={() => !answerRevealed && setSelectedAnswer(opt.key)}
+                    disabled={answerRevealed}
+                    aria-label={ariaLabel}
+                    aria-pressed={selectedAnswer === opt.key}
+                  >
+                    <span className="option-key" aria-hidden="true">{opt.key}</span>
+                    <span className="option-text">{opt.text}</span>
+                  </button>
+                )
+              })}
+            </fieldset>
+            {answerRevealed && (
+              <div
+                className={`answer-feedback ${wasCorrect ? 'correct' : 'incorrect'}`}
+                role="alert"
+                aria-live="assertive"
+              >
+                {wasCorrect ? 'Correct!' : `Incorrect. The correct answer is ${correctAnswer}.`}
+              </div>
+            )}
+          </section>
           <button
-            onClick={endTest}
-            style={{
-              background: 'transparent',
-              border: '1px solid #4a4a6a',
-              padding: '0.5rem 1rem',
-              borderRadius: '4px',
-              color: '#888',
-              cursor: 'pointer',
-              fontSize: '0.75rem'
-            }}
+            className="start-button"
+            onClick={answerRevealed ? nextQuestion : submitAnswer}
+            disabled={!selectedAnswer}
+            aria-disabled={!selectedAnswer}
+            style={{ opacity: selectedAnswer ? 1 : 0.5 }}
           >
-            End Test
+            {answerRevealed
+              ? (testIndex + 1 >= testQuestions.length ? 'See Results' : 'Next Question')
+              : 'Submit Answer'}
           </button>
-        </div>
-      </div>
+          <nav className="stats" aria-label="Test navigation">
+            <button
+              onClick={endTest}
+              className="link-button"
+              aria-label="End test and return to settings"
+            >
+              End Test
+            </button>
+          </nav>
+        </main>
+      </>
     )
   }
 
   // Test setup screen
   if (appMode === 'test') {
     return (
-      <div className="container">
-        <h1>Practice Test</h1>
-        <div className="category-select">
-          <div className="category-header">
-            <span>Select Categories</span>
-            <div className="category-actions">
-              <button onClick={selectAllCategories}>All</button>
-              <button onClick={clearAllCategories}>None</button>
-            </div>
-          </div>
-          <div className="category-list">
-            {categories.map(cat => (
-              <label key={cat.name} className="category-item">
-                <input
-                  type="checkbox"
-                  checked={selectedCategories.includes(cat.name)}
-                  onChange={() => toggleCategory(cat.name)}
-                />
-                <span>{cat.name} ({cat.count})</span>
-              </label>
-            ))}
-          </div>
-        </div>
-
-        {maxTestQuestions === 0 ? (
-          <div className="empty">
-            <p>Select at least one category to begin.</p>
-          </div>
-        ) : (
-          <>
-            <div className="slider-container">
-              <label>Number of questions: {testQuestionCount}</label>
-              <input
-                type="range"
-                min="1"
-                max={maxTestQuestions}
-                value={testQuestionCount}
-                onChange={(e) => setTestQuestionCount(Number(e.target.value))}
-              />
-              <div className="slider-labels">
-                <span>1</span>
-                <span>{maxTestQuestions}</span>
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Practice Test</h1>
+          <section className="category-select" aria-labelledby="category-select-heading">
+            <div className="category-header">
+              <span id="category-select-heading">Select Categories</span>
+              <div className="category-actions" role="group" aria-label="Category selection actions">
+                <button onClick={selectAllCategories} aria-label="Select all categories">All</button>
+                <button onClick={clearAllCategories} aria-label="Clear all categories">None</button>
               </div>
             </div>
+            <fieldset className="category-list">
+              <legend className="sr-only">Available categories</legend>
+              {categories.map(cat => (
+                <label key={cat.name} className="category-item">
+                  <input
+                    type="checkbox"
+                    checked={selectedCategories.includes(cat.name)}
+                    onChange={() => toggleCategory(cat.name)}
+                    aria-label={`${cat.name}, ${cat.count} questions`}
+                  />
+                  <span>{cat.name} ({cat.count})</span>
+                </label>
+              ))}
+            </fieldset>
+          </section>
 
-            <button className="start-button" onClick={startTest} disabled={testLoading}>
-              {testLoading ? 'Loading...' : 'Start Test'}
+          {maxTestQuestions === 0 ? (
+            <div className="empty" role="alert">
+              <p>Select at least one category to begin.</p>
+            </div>
+          ) : (
+            <>
+              <div className="slider-container">
+                <label htmlFor="question-count-slider">
+                  Number of questions: <strong>{testQuestionCount}</strong>
+                </label>
+                <input
+                  id="question-count-slider"
+                  type="range"
+                  min={1}
+                  max={maxTestQuestions}
+                  value={testQuestionCount}
+                  onChange={(e) => setTestQuestionCount(Number(e.target.value))}
+                  aria-valuemin={1}
+                  aria-valuemax={maxTestQuestions}
+                  aria-valuenow={testQuestionCount}
+                  aria-valuetext={`${testQuestionCount} questions`}
+                />
+                <div className="slider-labels" aria-hidden="true">
+                  <span>1</span>
+                  <span>{maxTestQuestions}</span>
+                </div>
+              </div>
+
+              <button
+                className="start-button"
+                onClick={startTest}
+                disabled={testLoading}
+                aria-busy={testLoading}
+              >
+                {testLoading ? 'Loading...' : 'Start Test'}
+              </button>
+            </>
+          )}
+
+          <nav className="stats" aria-label="Navigation">
+            <button
+              onClick={goBackToSelect}
+              className="link-button"
+              aria-label="Return to study mode selection"
+            >
+              Back to Menu
             </button>
-          </>
-        )}
-
-        <div className="stats">
-          <button
-            onClick={goBackToSelect}
-            style={{
-              background: 'transparent',
-              border: '1px solid #4a4a6a',
-              padding: '0.5rem 1rem',
-              borderRadius: '4px',
-              color: '#888',
-              cursor: 'pointer',
-              fontSize: '0.75rem'
-            }}
-          >
-            Back to Menu
-          </button>
-        </div>
-      </div>
+          </nav>
+        </main>
+      </>
     )
   }
 
   // Session complete screen
   if (sessionComplete) {
     return (
-      <div className="container">
-        <h1>Flashcards</h1>
-        <div className="complete">
-          <h2>Session Complete!</h2>
-          <div className="stats">
-            <span>Correct: {sessionStats.right}</span>
-            <span>Wrong: {sessionStats.wrong}</span>
-          </div>
-          <div className="complete-buttons">
-            <button onClick={restartSession}>Start Again</button>
-            <button onClick={endSession} className="secondary">Change Settings</button>
-            <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
-          </div>
-        </div>
-      </div>
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Flashcards</h1>
+          <section className="complete" aria-labelledby="session-complete-heading">
+            <h2 id="session-complete-heading">Session Complete!</h2>
+            <div className="stats" role="status" aria-label={`Results: ${sessionStats.right} correct, ${sessionStats.wrong} wrong`}>
+              <span>Correct: {sessionStats.right}</span>
+              <span>Wrong: {sessionStats.wrong}</span>
+            </div>
+            <div className="complete-buttons" role="group" aria-label="Session options">
+              <button onClick={restartSession}>Start Again</button>
+              <button onClick={endSession} className="secondary">Change Settings</button>
+              <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
+            </div>
+          </section>
+        </main>
+      </>
     )
   }
 
   // Active session - show flashcards
   if (sessionStarted) {
     return (
-      <div className="container">
-        <h1>Flashcards</h1>
+      <>
+        <SkipLink />
+        <Announcer />
+        <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+          <h1>Flashcards</h1>
 
-        <div className="card" onClick={() => setShowAnswer(!showAnswer)}>
-          <div className="card-label">{showAnswer ? 'Answer' : 'Question'}</div>
-          <div className="card-content">
-            {showAnswer ? currentCard.answer : currentCard.question}
-          </div>
-          {!showAnswer && <div className="card-hint">Click to reveal answer</div>}
-        </div>
-
-        {showAnswer && (
-          <div className="buttons">
-            <button className="btn-wrong" onClick={() => handleAnswer(false)}>
-              Wrong
-            </button>
-            <button className="btn-right" onClick={() => handleAnswer(true)}>
-              Right
-            </button>
-          </div>
-        )}
-
-        <div className="progress">
-          Card {currentIndex + 1} of {shuffledCards.length}
-        </div>
-
-        <div className="stats">
-          <button
-            onClick={endSession}
-            style={{
-              background: 'transparent',
-              border: '1px solid #4a4a6a',
-              padding: '0.5rem 1rem',
-              borderRadius: '4px',
-              color: '#888',
-              cursor: 'pointer',
-              fontSize: '0.75rem'
-            }}
+          <div
+            className="card"
+            onClick={() => setShowAnswer(!showAnswer)}
+            onKeyDown={handleCardKeyDown}
+            tabIndex={0}
+            role="button"
+            aria-pressed={showAnswer}
+            aria-label={showAnswer ? `Answer: ${currentCard.answer}. Press Enter or Space to hide answer.` : `Question: ${currentCard.question}. Press Enter or Space to reveal answer.`}
           >
-            End Session
-          </button>
-        </div>
-      </div>
+            <div className="card-label" aria-hidden="true">{showAnswer ? 'Answer' : 'Question'}</div>
+            <div className="card-content">
+              {showAnswer ? currentCard.answer : currentCard.question}
+            </div>
+            {!showAnswer && <div className="card-hint" aria-hidden="true">Click or press Enter to reveal answer</div>}
+          </div>
+
+          {showAnswer && (
+            <div className="buttons" role="group" aria-label="Rate your answer">
+              <button
+                className="btn-wrong"
+                onClick={() => handleAnswer(false)}
+                aria-label="Mark as wrong"
+              >
+                Wrong
+              </button>
+              <button
+                className="btn-right"
+                onClick={() => handleAnswer(true)}
+                aria-label="Mark as correct"
+              >
+                Right
+              </button>
+            </div>
+          )}
+
+          <div className="progress" role="status" aria-live="polite">
+            Card {currentIndex + 1} of {shuffledCards.length}
+          </div>
+
+          <nav className="stats" aria-label="Session navigation">
+            <button
+              onClick={endSession}
+              className="link-button"
+              aria-label="End session and return to settings"
+            >
+              End Session
+            </button>
+          </nav>
+        </main>
+      </>
     )
   }
 
   // Setup screen - select deck, mode, card count
   return (
-    <div className="container">
-      <h1>Flashcards</h1>
+    <>
+      <SkipLink />
+      <Announcer />
+      <main ref={mainRef} id="main-content" className="container" tabIndex={-1}>
+        <h1>Flashcards</h1>
 
-      <div className="deck-select">
-        <button className={deck === 'core' ? 'active' : ''} onClick={() => switchDeck('core')}>
-          Core ({coreCards.length})
-        </button>
-        <button className={deck === 'acronyms' ? 'active' : ''} onClick={() => switchDeck('acronyms')}>
-          Acronyms ({acronymCards.length})
-        </button>
-        <button className={deck === 'both' ? 'active' : ''} onClick={() => switchDeck('both')}>
-          Both ({coreCards.length + acronymCards.length})
-        </button>
-      </div>
-
-      <div className="mode-toggle">
-        <button className={mode === 'all' ? 'active' : ''} onClick={() => switchMode('all')}>
-          All Cards ({deckCards.length})
-        </button>
-        <button className={mode === 'wrong' ? 'active' : ''} onClick={() => switchMode('wrong')}>
-          Wrong Only ({deckWrongCount})
-        </button>
-      </div>
-
-      {maxCards === 0 ? (
-        <div className="empty">
-          <p>No cards to review!</p>
-          <p>You've mastered all the cards in this deck.</p>
-        </div>
-      ) : (
-        <>
-          <div className="slider-container">
-            <label>Number of cards: {cardCount}</label>
-            <input
-              type="range"
-              min="1"
-              max={maxCards}
-              value={cardCount}
-              onChange={(e) => setCardCount(Number(e.target.value))}
-            />
-            <div className="slider-labels">
-              <span>1</span>
-              <span>{maxCards}</span>
-            </div>
-          </div>
-
-          <button className="start-button" onClick={startSession}>
-            Start
-          </button>
-        </>
-      )}
-
-      <div className="stats">
-        {deckWrongCount > 0 && (
+        <fieldset className="deck-select" role="group" aria-label="Select deck">
+          <legend className="sr-only">Choose a deck</legend>
           <button
-            onClick={clearWrongAnswers}
-            style={{
-              background: 'transparent',
-              border: '1px solid #4a4a6a',
-              padding: '0.5rem 1rem',
-              borderRadius: '4px',
-              color: '#888',
-              cursor: 'pointer',
-              fontSize: '0.75rem'
-            }}
+            className={deck === 'core' ? 'active' : ''}
+            onClick={() => switchDeck('core')}
+            aria-pressed={deck === 'core'}
           >
-            Clear Wrong List
+            Core ({coreCards.length})
           </button>
+          <button
+            className={deck === 'acronyms' ? 'active' : ''}
+            onClick={() => switchDeck('acronyms')}
+            aria-pressed={deck === 'acronyms'}
+          >
+            Acronyms ({acronymCards.length})
+          </button>
+          <button
+            className={deck === 'both' ? 'active' : ''}
+            onClick={() => switchDeck('both')}
+            aria-pressed={deck === 'both'}
+          >
+            Both ({coreCards.length + acronymCards.length})
+          </button>
+        </fieldset>
+
+        <fieldset className="mode-toggle" role="group" aria-label="Select card filter">
+          <legend className="sr-only">Filter cards</legend>
+          <button
+            className={mode === 'all' ? 'active' : ''}
+            onClick={() => switchMode('all')}
+            aria-pressed={mode === 'all'}
+          >
+            All Cards ({deckCards.length})
+          </button>
+          <button
+            className={mode === 'wrong' ? 'active' : ''}
+            onClick={() => switchMode('wrong')}
+            aria-pressed={mode === 'wrong'}
+          >
+            Wrong Only ({deckWrongCount})
+          </button>
+        </fieldset>
+
+        {maxCards === 0 ? (
+          <div className="empty" role="status">
+            <p>No cards to review!</p>
+            <p>You've mastered all the cards in this deck.</p>
+          </div>
+        ) : (
+          <>
+            <div className="slider-container">
+              <label htmlFor="card-count-slider">
+                Number of cards: <strong>{cardCount}</strong>
+              </label>
+              <input
+                id="card-count-slider"
+                type="range"
+                min={1}
+                max={maxCards}
+                value={cardCount}
+                onChange={(e) => setCardCount(Number(e.target.value))}
+                aria-valuemin={1}
+                aria-valuemax={maxCards}
+                aria-valuenow={cardCount}
+                aria-valuetext={`${cardCount} cards`}
+              />
+              <div className="slider-labels" aria-hidden="true">
+                <span>1</span>
+                <span>{maxCards}</span>
+              </div>
+            </div>
+
+            <button className="start-button" onClick={startSession}>
+              Start
+            </button>
+          </>
         )}
-        <button
-          onClick={goBackToSelect}
-          style={{
-            background: 'transparent',
-            border: '1px solid #4a4a6a',
-            padding: '0.5rem 1rem',
-            borderRadius: '4px',
-            color: '#888',
-            cursor: 'pointer',
-            fontSize: '0.75rem'
-          }}
-        >
-          Back to Menu
-        </button>
-      </div>
-    </div>
+
+        <nav className="stats" aria-label="Additional options">
+          {deckWrongCount > 0 && (
+            <button
+              onClick={clearWrongAnswers}
+              className="link-button"
+              aria-label={`Clear ${deckWrongCount} wrong answers from this deck`}
+            >
+              Clear Wrong List
+            </button>
+          )}
+          <button
+            onClick={goBackToSelect}
+            className="link-button"
+            aria-label="Return to study mode selection"
+          >
+            Back to Menu
+          </button>
+        </nav>
+      </main>
+    </>
   )
 }
