@@ -1,0 +1,7091 @@
+{
+  "version": "1.0",
+  "categories": [
+    {
+      "category": "Brokerage Test",
+      "sourceFile": "Brokerage Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Joe the neighborhood real estate agent is directing buyers of a different racial persuasion than himself to a particular section of his neighborhood. This is an example of:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Panic-Peddling"
+            },
+            {
+              "key": "B",
+              "text": "Redlining"
+            },
+            {
+              "key": "C",
+              "text": "Blockbusting"
+            },
+            {
+              "key": "D",
+              "text": "Steering"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 2,
+          "question": "The 1988 Amendment to the Federal Fair Housing Act increased coverage to include:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Gender"
+            },
+            {
+              "key": "B",
+              "text": "Age"
+            },
+            {
+              "key": "C",
+              "text": "Familial Status"
+            },
+            {
+              "key": "D",
+              "text": "Race"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 3,
+          "question": "If a lender refuses to provide a loan to a Hispanic family buying in a predominantly white area, the lender might be guilty of:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Steering"
+            },
+            {
+              "key": "B",
+              "text": "Blockbusting"
+            },
+            {
+              "key": "C",
+              "text": "Redlining"
+            },
+            {
+              "key": "D",
+              "text": "Subrogation"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 4,
+          "question": "A couple asks an agent to find them a home in a racially mixed area. The agent should:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Locate a racially mixed area."
+            },
+            {
+              "key": "B",
+              "text": "Tell the buyers the statistics within the area."
+            },
+            {
+              "key": "C",
+              "text": "Tell the buyers that they should choose their own neighborhood."
+            },
+            {
+              "key": "D",
+              "text": "Tell the buyers about all the properties for sale."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 5,
+          "question": "The Fair Housing Act of 1968 is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title V"
+            },
+            {
+              "key": "B",
+              "text": "Title X"
+            },
+            {
+              "key": "C",
+              "text": "Title VIII"
+            },
+            {
+              "key": "D",
+              "text": "Title VI"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 6,
+          "question": "An agent is found guilty of a second Fair Housing Violation. The fine is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "$10,000"
+            },
+            {
+              "key": "B",
+              "text": "$50,000"
+            },
+            {
+              "key": "C",
+              "text": "$15,000"
+            },
+            {
+              "key": "D",
+              "text": "$25,000"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 7,
+          "question": "Which of the following is not exempt from Fair Housing Laws:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Familial Status"
+            },
+            {
+              "key": "B",
+              "text": "Owner occupied apartment buildings."
+            },
+            {
+              "key": "C",
+              "text": "Property owned by Religious Groups."
+            },
+            {
+              "key": "D",
+              "text": "Private Clubs"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 8,
+          "question": "A person who lives in a four-unit property has become disabled. Some modifications must be made to the apartment. Who is required to pay for the modifications?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Property owner"
+            },
+            {
+              "key": "B",
+              "text": "Local Housing Department"
+            },
+            {
+              "key": "C",
+              "text": "Local Building Department"
+            },
+            {
+              "key": "D",
+              "text": "Tenant"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 9,
+          "question": "If an agent is soliciting listing based on the racial change in a neighborhood it would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Redlining"
+            },
+            {
+              "key": "B",
+              "text": "Steering"
+            },
+            {
+              "key": "C",
+              "text": "Blockbusting"
+            },
+            {
+              "key": "D",
+              "text": "Net Listings"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 10,
+          "question": "The owner of an apartment complex exempt from familial status denied a 50 year-old retiree an apartment. In this situation the owner:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Is guilty of discrimination."
+            },
+            {
+              "key": "B",
+              "text": "Violated Fair Housing Laws."
+            },
+            {
+              "key": "C",
+              "text": "Did nothing wrong."
+            },
+            {
+              "key": "D",
+              "text": "Could be sued by the tenant."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 11,
+          "question": "The Act that made it illegal to discriminate on the basis of race is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title X"
+            },
+            {
+              "key": "B",
+              "text": "Acts of 1988"
+            },
+            {
+              "key": "C",
+              "text": "Civil Rights Act of 1968"
+            },
+            {
+              "key": "D",
+              "text": "Civil Rights Act of 1866"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 12,
+          "question": "Each Real Estate office is required to post a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "RESPA Poster"
+            },
+            {
+              "key": "B",
+              "text": "MCAD Poster"
+            },
+            {
+              "key": "C",
+              "text": "Blockbusting Poster"
+            },
+            {
+              "key": "D",
+              "text": "Fair Housing Poster"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 13,
+          "question": "Massachusetts Fair Housing Laws are:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chapter 183A"
+            },
+            {
+              "key": "B",
+              "text": "Chapter 87AAA"
+            },
+            {
+              "key": "C",
+              "text": "Chapter 40B"
+            },
+            {
+              "key": "D",
+              "text": "Chapter 151B"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 14,
+          "question": "A complaint about Fair Housing should be filed with:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Massachusetts Communities Against Discrimination"
+            },
+            {
+              "key": "B",
+              "text": "Massachusetts Chapter Against Discrimination"
+            },
+            {
+              "key": "C",
+              "text": "The Real Estate Board"
+            },
+            {
+              "key": "D",
+              "text": "Massachusetts Commission Against Discrimination"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 15,
+          "question": "Which of the following is not a member of a protected class?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A 25 year old who is divorced."
+            },
+            {
+              "key": "B",
+              "text": "A person on public assistance."
+            },
+            {
+              "key": "C",
+              "text": "A 62 year-old retiree."
+            },
+            {
+              "key": "D",
+              "text": "A person with a disability."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 16,
+          "question": "An agent places a newspaper advertisement for an apartment located in an owner-occupied two-unit property. The ad indicates that the apartment is ideal for retirees. In this situation the agent:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Did nothing wrong because it is an owner-occupied property."
+            },
+            {
+              "key": "B",
+              "text": "Violated Chapter 40B."
+            },
+            {
+              "key": "C",
+              "text": "Utilized discriminatory advertising."
+            },
+            {
+              "key": "D",
+              "text": "Blockbusting."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 17,
+          "question": "An act that prohibits price-fixing amongst real estate agents would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The Land Disclosure Act"
+            },
+            {
+              "key": "B",
+              "text": "The Starker Trust Reform"
+            },
+            {
+              "key": "C",
+              "text": "The Sherman Anti-Trust Act"
+            },
+            {
+              "key": "D",
+              "text": "The Facilitation Trust Act"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 18,
+          "question": "In Massachusetts an agent can only offer compensation to a sub-agent with sellers consent and the sellers acknowledgement that they may be held liable for the actions of the subagent via:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cooperating Brokerage"
+            },
+            {
+              "key": "B",
+              "text": "Disclosed Dual Agency"
+            },
+            {
+              "key": "C",
+              "text": "Vicarious Liability"
+            },
+            {
+              "key": "D",
+              "text": "Anti-Trust Laws"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 19,
+          "question": "When an agent represents two parties in a transaction without permission of the two parties, it is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Undisclosed Dual Agency"
+            },
+            {
+              "key": "B",
+              "text": "Dual Agency"
+            },
+            {
+              "key": "C",
+              "text": "Facilitation"
+            },
+            {
+              "key": "D",
+              "text": "Bi-Agency"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 20,
+          "question": "When describing the term realtor we refer to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A member of a real estate office."
+            },
+            {
+              "key": "B",
+              "text": "A person who has passed the licensing exam."
+            },
+            {
+              "key": "C",
+              "text": "A member of the National Association of Realtors."
+            },
+            {
+              "key": "D",
+              "text": "A member of the Division of Professional Licensure."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 21,
+          "question": "A listing agreement that will pay any agent who produces a buyer is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buyer-Agent Agreement"
+            },
+            {
+              "key": "B",
+              "text": "Exclusive Agency"
+            },
+            {
+              "key": "C",
+              "text": "Net Listing"
+            },
+            {
+              "key": "D",
+              "text": "Open Listing"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 22,
+          "question": "A listing contract that allows the listing agent to keep as their commission any money received in excess of a stated price is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Multiple Listing Contract"
+            },
+            {
+              "key": "B",
+              "text": "Triple Net Listing"
+            },
+            {
+              "key": "C",
+              "text": "A Net Listing"
+            },
+            {
+              "key": "D",
+              "text": "A Commission Agreement"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 23,
+          "question": "A contract that allows the seller to sell their property and enlists one real estate company as well would be an:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Exclusive Listing"
+            },
+            {
+              "key": "B",
+              "text": "Open Listing"
+            },
+            {
+              "key": "C",
+              "text": "Multiple Listing"
+            },
+            {
+              "key": "D",
+              "text": "Exclusive Agency"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 24,
+          "question": "When a salesperson prepares a listing contract they are creating a relationship between:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The agent and the seller."
+            },
+            {
+              "key": "B",
+              "text": "The agent and the office."
+            },
+            {
+              "key": "C",
+              "text": "The agent's broker and the seller."
+            },
+            {
+              "key": "D",
+              "text": "The agent's broker and the office."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "A listing agreement that creates the greatest amount of protection for the broker is an:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Exclusive Agency"
+            },
+            {
+              "key": "B",
+              "text": "Exclusive Agreement"
+            },
+            {
+              "key": "C",
+              "text": "Exclusive Brokerage"
+            },
+            {
+              "key": "D",
+              "text": "Exclusive Right to Sell"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 26,
+          "question": "A contract can be terminated by all of the following except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Destruction"
+            },
+            {
+              "key": "B",
+              "text": "Death of the Agent"
+            },
+            {
+              "key": "C",
+              "text": "Performance"
+            },
+            {
+              "key": "D",
+              "text": "Expiration"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 27,
+          "question": "A couple with a three-year old child has been denied access to look at an apartment. The agent who denied them access is guilty of discrimination via:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lead Paint Law"
+            },
+            {
+              "key": "B",
+              "text": "Apartment Rental Law"
+            },
+            {
+              "key": "C",
+              "text": "Familial Status"
+            },
+            {
+              "key": "D",
+              "text": "Steering"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 28,
+          "question": "A tenant who resides in a 25-unit apartment building had a stroke and needs some modifications made to the apartment to assist them with the quality of their living status. Who must pay for the modifications?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tenant"
+            },
+            {
+              "key": "B",
+              "text": "Split 50/50"
+            },
+            {
+              "key": "C",
+              "text": "The property owner."
+            },
+            {
+              "key": "D",
+              "text": "The property manager."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 29,
+          "question": "Which of the following is not a duty of agency?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Loyalty"
+            },
+            {
+              "key": "B",
+              "text": "Confidentiality"
+            },
+            {
+              "key": "C",
+              "text": "Accounting"
+            },
+            {
+              "key": "D",
+              "text": "Facilitation"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 30,
+          "question": "Caveat Emptor means:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Empty Premise"
+            },
+            {
+              "key": "B",
+              "text": "Let the Buyer Beware"
+            },
+            {
+              "key": "C",
+              "text": "Respondent Superior"
+            },
+            {
+              "key": "D",
+              "text": "Accounting Disclosure"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 31,
+          "question": "A Real Estate Agent acting on behalf of a client is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Special Agent"
+            },
+            {
+              "key": "B",
+              "text": "Secret Agent"
+            },
+            {
+              "key": "C",
+              "text": "General Agent"
+            },
+            {
+              "key": "D",
+              "text": "Universal Agent"
+            }
+          ],
+          "correctOptionKey": "A"
+        }
+      ]
+    },
+    {
+      "category": "Contracts Test",
+      "sourceFile": "Contracts Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In the case of a sale/leaseback, who becomes the tenant?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mortgagee"
+            },
+            {
+              "key": "B",
+              "text": "Optionor"
+            },
+            {
+              "key": "C",
+              "text": "Seller"
+            },
+            {
+              "key": "D",
+              "text": "Lienor"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 2,
+          "question": "Which agreement includes a termination date?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tenancy at Will"
+            },
+            {
+              "key": "B",
+              "text": "Tenancy by the Entirety"
+            },
+            {
+              "key": "C",
+              "text": "An Estate for Years"
+            },
+            {
+              "key": "D",
+              "text": "A Terminal Estate"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 3,
+          "question": "The lessor of a property passed away. In this situation, the lease is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Terminated"
+            },
+            {
+              "key": "B",
+              "text": "Extended"
+            },
+            {
+              "key": "C",
+              "text": "Extinguished"
+            },
+            {
+              "key": "D",
+              "text": "In Effect"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 4,
+          "question": "A rental agreement that can be terminated by either the property owner or the tenant by providing notice is a(n):",
+          "options": [
+            {
+              "key": "A",
+              "text": "Estate for Years"
+            },
+            {
+              "key": "B",
+              "text": "Graduated Lease"
+            },
+            {
+              "key": "C",
+              "text": "Constant Lease"
+            },
+            {
+              "key": "D",
+              "text": "TAW Agreement"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 5,
+          "question": "A rental contract that calls for the tenant to pay a fixed monthly rent and for the property owner to pay the expenses associated with the building is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Net Lease"
+            },
+            {
+              "key": "B",
+              "text": "Graduated Lease"
+            },
+            {
+              "key": "C",
+              "text": "Fixed Lease"
+            },
+            {
+              "key": "D",
+              "text": "Gross Lease"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 6,
+          "question": "A tenant that has a Net Lease would pay for all of the following except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Utilities"
+            },
+            {
+              "key": "B",
+              "text": "Taxes"
+            },
+            {
+              "key": "C",
+              "text": "Debt Service"
+            },
+            {
+              "key": "D",
+              "text": "Insurance"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "The legal action taken to vacate a tenant is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Vacate Option"
+            },
+            {
+              "key": "B",
+              "text": "Constructive Eviction"
+            },
+            {
+              "key": "C",
+              "text": "Alienation"
+            },
+            {
+              "key": "D",
+              "text": "Eviction"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 8,
+          "question": "When an owner of a property leases an apartment, they hold:",
+          "options": [
+            {
+              "key": "A",
+              "text": "An Estate for Years"
+            },
+            {
+              "key": "B",
+              "text": "Reversionary Interest"
+            },
+            {
+              "key": "C",
+              "text": "Fee Simple Rental"
+            },
+            {
+              "key": "D",
+              "text": "Remainder Status"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 9,
+          "question": "A lease that calls for predetermined increases in rent is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Periodic Lease"
+            },
+            {
+              "key": "B",
+              "text": "Graduated Lease"
+            },
+            {
+              "key": "C",
+              "text": "TAW"
+            },
+            {
+              "key": "D",
+              "text": "Estimated Lease"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 10,
+          "question": "A contract that has been signed by a minor is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Valid Contract"
+            },
+            {
+              "key": "B",
+              "text": "A Void Contract"
+            },
+            {
+              "key": "C",
+              "text": "An Installment Contract"
+            },
+            {
+              "key": "D",
+              "text": "An Illegal Agreement"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 11,
+          "question": "A lease that is based on revenues generated by a business is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Business Lease"
+            },
+            {
+              "key": "B",
+              "text": "A Graduated Lease"
+            },
+            {
+              "key": "C",
+              "text": "A Net Lease"
+            },
+            {
+              "key": "D",
+              "text": "A Percentage Lease"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 12,
+          "question": "In Massachusetts an offer to purchase agreement that is signed by the buyer and seller is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "An instrument that is void"
+            },
+            {
+              "key": "B",
+              "text": "A legal binding contract"
+            },
+            {
+              "key": "C",
+              "text": "Not binding, because the purchase and sale binds the parties"
+            },
+            {
+              "key": "D",
+              "text": "Not a legal instrument"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 13,
+          "question": "The law that calls for Real Estate Contracts to be in writing is the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Statute of Laws"
+            },
+            {
+              "key": "B",
+              "text": "Statute of Contracts"
+            },
+            {
+              "key": "C",
+              "text": "Statute of Frauds"
+            },
+            {
+              "key": "D",
+              "text": "Statute of Real Estate Laws"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 14,
+          "question": "A valid contract contains essentials. Which of the following is not an essential in a contract?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Legal Capacity"
+            },
+            {
+              "key": "B",
+              "text": "Consideration"
+            },
+            {
+              "key": "C",
+              "text": "Offer and Acceptance"
+            },
+            {
+              "key": "D",
+              "text": "Documentation"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 15,
+          "question": "If a seller backed out of a sales contract the day before the closing, the remedy for the buyer would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rescission"
+            },
+            {
+              "key": "B",
+              "text": "Specific Performance"
+            },
+            {
+              "key": "C",
+              "text": "Damages"
+            },
+            {
+              "key": "D",
+              "text": "Find another house"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 16,
+          "question": "A contract signed by two parties is known as a(n):",
+          "options": [
+            {
+              "key": "A",
+              "text": "Executive Agreement"
+            },
+            {
+              "key": "B",
+              "text": "Bi-lateral Contract"
+            },
+            {
+              "key": "C",
+              "text": "Expressed Agreement"
+            },
+            {
+              "key": "D",
+              "text": "Lateral Agreement"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 17,
+          "question": "Another term for a Purchase and Sale Contract would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unilateral Agreement"
+            },
+            {
+              "key": "B",
+              "text": "Option Contract"
+            },
+            {
+              "key": "C",
+              "text": "Executory Contract"
+            },
+            {
+              "key": "D",
+              "text": "Executed Contract"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 18,
+          "question": "Another term for a land lease would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sale/Lease"
+            },
+            {
+              "key": "B",
+              "text": "Ground Lease"
+            },
+            {
+              "key": "C",
+              "text": "Land-Land Lease"
+            },
+            {
+              "key": "D",
+              "text": "Sandwich Lease"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 19,
+          "question": "A lease that calls for a fixed monthly rental payment only is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Index Lease"
+            },
+            {
+              "key": "B",
+              "text": "Sublet"
+            },
+            {
+              "key": "C",
+              "text": "An Assigned Lease"
+            },
+            {
+              "key": "D",
+              "text": "A Gross Lease"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 20,
+          "question": "If a rental property is not fit for habitation, the tenant may vacate by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eviction"
+            },
+            {
+              "key": "B",
+              "text": "Constructive Notice"
+            },
+            {
+              "key": "C",
+              "text": "Constructive Eviction"
+            },
+            {
+              "key": "D",
+              "text": "Abandonment"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 21,
+          "question": "A property owner signed a one-year lease with a tenant on June 1st. The property owner then sold the house on August 1st. The new owner can raise the tenant's rent:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Immediately because they are the new owners"
+            },
+            {
+              "key": "B",
+              "text": "They must wait 30 days before raising the rent"
+            },
+            {
+              "key": "C",
+              "text": "They must give the tenants 60 days notice"
+            },
+            {
+              "key": "D",
+              "text": "They must wait until the rental agreement expires"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 22,
+          "question": "A tenant who remains in possession of an apartment after the expiration of the lease without permission from the owner becomes:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Tenant at Will"
+            },
+            {
+              "key": "B",
+              "text": "A Tenant in Common"
+            },
+            {
+              "key": "C",
+              "text": "A Holdover Tenant"
+            },
+            {
+              "key": "D",
+              "text": "A Common Law Tenant"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 23,
+          "question": "If a tenant with a lease abandoned an apartment when are they no longer responsible for paying rent?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The day they move out"
+            },
+            {
+              "key": "B",
+              "text": "30 days after giving notice to vacate"
+            },
+            {
+              "key": "C",
+              "text": "When the lease expires"
+            },
+            {
+              "key": "D",
+              "text": "Immediately upon giving notice"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 24,
+          "question": "The right of a tenant to enjoy their apartment without interference from the landlord is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Covenant of Seisen"
+            },
+            {
+              "key": "B",
+              "text": "Covenant of Tenancy"
+            },
+            {
+              "key": "C",
+              "text": "Covenant of Quiet Enjoyment"
+            },
+            {
+              "key": "D",
+              "text": "Covenant of Conviction"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "A rental agreement based on cost of living adjustments would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Step Up Lease"
+            },
+            {
+              "key": "B",
+              "text": "Graduated Lease"
+            },
+            {
+              "key": "C",
+              "text": "Percentage Lease"
+            },
+            {
+              "key": "D",
+              "text": "Index Lease"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 26,
+          "question": "John Smith signed a rental contract without reading it. In this case the agreement is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Void, because John did not read it"
+            },
+            {
+              "key": "B",
+              "text": "Valid, until such time as John reads it"
+            },
+            {
+              "key": "C",
+              "text": "Valid, John should have read it before signing it"
+            },
+            {
+              "key": "D",
+              "text": "Unenforceable, because John did not read it"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 27,
+          "question": "When thinking of a Unilateral Contract, we think of a(n):",
+          "options": [
+            {
+              "key": "A",
+              "text": "Option Contract"
+            },
+            {
+              "key": "B",
+              "text": "Purchase Contract"
+            },
+            {
+              "key": "C",
+              "text": "Novation"
+            },
+            {
+              "key": "D",
+              "text": "Assignment"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 28,
+          "question": "In order for a contract to be valid, it must contain which of the following?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Legal Documentation"
+            },
+            {
+              "key": "B",
+              "text": "Acknowledgment"
+            },
+            {
+              "key": "C",
+              "text": "Consideration"
+            },
+            {
+              "key": "D",
+              "text": "Willingness"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 29,
+          "question": "Another term for offer and acceptance is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Contractual Agreement"
+            },
+            {
+              "key": "B",
+              "text": "Time is of the Essence"
+            },
+            {
+              "key": "C",
+              "text": "Meeting of the Minds"
+            },
+            {
+              "key": "D",
+              "text": "Consideration"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 30,
+          "question": "Which of the following terms are not associated with contract essentials?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Consideration"
+            },
+            {
+              "key": "B",
+              "text": "Consent"
+            },
+            {
+              "key": "C",
+              "text": "Acknowledgment"
+            },
+            {
+              "key": "D",
+              "text": "Legal Capacity"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 31,
+          "question": "A clause in an agreement that calls for the parties to a contract to meet certain deadlines would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Duly Executed"
+            },
+            {
+              "key": "B",
+              "text": "Duly Sworn"
+            },
+            {
+              "key": "C",
+              "text": "Time is of the Essence"
+            },
+            {
+              "key": "D",
+              "text": "Time is duly noted"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 32,
+          "question": "When does a contract become executed:",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the signing of the Purchase and Sale"
+            },
+            {
+              "key": "B",
+              "text": "At the recording of the deed"
+            },
+            {
+              "key": "C",
+              "text": "When the deed has been signed"
+            },
+            {
+              "key": "D",
+              "text": "When the deed is delivered"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 33,
+          "question": "When a buyer and seller sign a purchase contract the buyer has received:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Legal Title"
+            },
+            {
+              "key": "B",
+              "text": "Installment Title"
+            },
+            {
+              "key": "C",
+              "text": "Equitable Title"
+            },
+            {
+              "key": "D",
+              "text": "Due Delivery"
+            }
+          ],
+          "correctOptionKey": "C"
+        }
+      ]
+    },
+    {
+      "category": "Deeds Test",
+      "sourceFile": "Deeds Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The party that conveys property to another is called the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Settlement Agent"
+            },
+            {
+              "key": "B",
+              "text": "Conveyor"
+            },
+            {
+              "key": "C",
+              "text": "Grantee"
+            },
+            {
+              "key": "D",
+              "text": "Grantor"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 2,
+          "question": "A deed that presents the least risk to the seller is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Warranty Deed"
+            },
+            {
+              "key": "B",
+              "text": "Confirmatory Deed"
+            },
+            {
+              "key": "C",
+              "text": "Express Deed"
+            },
+            {
+              "key": "D",
+              "text": "Quit-Claim Deed"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 3,
+          "question": "Deeds, Title Transfers, Liens and Encumbrances are recorded at the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Secretary of States Office"
+            },
+            {
+              "key": "B",
+              "text": "Clerk of Courts Office"
+            },
+            {
+              "key": "C",
+              "text": "Registry of Deeds"
+            },
+            {
+              "key": "D",
+              "text": "Registry of Records"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 4,
+          "question": "A legal description outlining boundaries by directions and distances is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Plot Plan"
+            },
+            {
+              "key": "B",
+              "text": "Plat Plan"
+            },
+            {
+              "key": "C",
+              "text": "Government Rectangular Survey"
+            },
+            {
+              "key": "D",
+              "text": "Metes and Bounds"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 5,
+          "question": "A subdivision divided into blocks, streets, and house lots is known as the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Government Rectangular Survey"
+            },
+            {
+              "key": "B",
+              "text": "Lot and Block System"
+            },
+            {
+              "key": "C",
+              "text": "Metes and Bounds Description"
+            },
+            {
+              "key": "D",
+              "text": "Point of Beginning System"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 6,
+          "question": "A notice filed placing constructive notice of pending litigation is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cloud of the Title"
+            },
+            {
+              "key": "B",
+              "text": "Lis Pendens"
+            },
+            {
+              "key": "C",
+              "text": "Satisfaction Piece"
+            },
+            {
+              "key": "D",
+              "text": "Color of Title"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 7,
+          "question": "Which document would a grantor want filed after conveying interest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Certificate of Title"
+            },
+            {
+              "key": "B",
+              "text": "Lis Pendens"
+            },
+            {
+              "key": "C",
+              "text": "Satisfaction Piece"
+            },
+            {
+              "key": "D",
+              "text": "Lien"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 8,
+          "question": "The Habendum Clause refers to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Et el"
+            },
+            {
+              "key": "B",
+              "text": "Et ux"
+            },
+            {
+              "key": "C",
+              "text": "Love and Affection"
+            },
+            {
+              "key": "D",
+              "text": "To have and to hold"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 9,
+          "question": "The only party required to sign a deed of conveyance is the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Grantee"
+            },
+            {
+              "key": "B",
+              "text": "Grantor"
+            },
+            {
+              "key": "C",
+              "text": "Mortgagee"
+            },
+            {
+              "key": "D",
+              "text": "Lienee"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 10,
+          "question": "Another term for Good Consideration is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "To have and to hold"
+            },
+            {
+              "key": "B",
+              "text": "Love and Affection"
+            },
+            {
+              "key": "C",
+              "text": "Valuable Retainer"
+            },
+            {
+              "key": "D",
+              "text": "Granting Clause"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 11,
+          "question": "A deed that presents the greatest risk to the grantor is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Confirmatory Deed"
+            },
+            {
+              "key": "B",
+              "text": "Quit-Claim Deed"
+            },
+            {
+              "key": "C",
+              "text": "Warranty Deed"
+            },
+            {
+              "key": "D",
+              "text": "Special Warranty Deed"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 12,
+          "question": "Base lines on a Government Rectangular Survey run:",
+          "options": [
+            {
+              "key": "A",
+              "text": "North/South"
+            },
+            {
+              "key": "B",
+              "text": "East/West"
+            },
+            {
+              "key": "C",
+              "text": "North/West"
+            },
+            {
+              "key": "D",
+              "text": "South/West"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 13,
+          "question": "One task completed by a closing attorney is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Color of Title"
+            },
+            {
+              "key": "B",
+              "text": "Title Search"
+            },
+            {
+              "key": "C",
+              "text": "Clear Record"
+            },
+            {
+              "key": "D",
+              "text": "Plan Recording"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 14,
+          "question": "The legal action to determine true ownership of property is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Court Determination"
+            },
+            {
+              "key": "B",
+              "text": "Constructive Action"
+            },
+            {
+              "key": "C",
+              "text": "Action to Determine Title"
+            },
+            {
+              "key": "D",
+              "text": "Action to Quiet Title"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 15,
+          "question": "A deed requiring defense only during the grantor’s ownership is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Warranty Deed"
+            },
+            {
+              "key": "B",
+              "text": "Confirmatory Deed"
+            },
+            {
+              "key": "C",
+              "text": "Special Warranty Deed"
+            },
+            {
+              "key": "D",
+              "text": "Quit Claim Deed"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 16,
+          "question": "A plan showing existing buildings on a property is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Survey"
+            },
+            {
+              "key": "B",
+              "text": "Plat Plan"
+            },
+            {
+              "key": "C",
+              "text": "Plot Plan"
+            },
+            {
+              "key": "D",
+              "text": "Monument"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 17,
+          "question": "Another term for adverse possession is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unlawful Detainer"
+            },
+            {
+              "key": "B",
+              "text": "Herediments"
+            },
+            {
+              "key": "C",
+              "text": "Condemnation"
+            },
+            {
+              "key": "D",
+              "text": "Squatters Rights"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 18,
+          "question": "Property of someone who dies without a will or heirs is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Foreclosed Upon"
+            },
+            {
+              "key": "B",
+              "text": "Taken by Eminent Domain"
+            },
+            {
+              "key": "C",
+              "text": "Seized"
+            },
+            {
+              "key": "D",
+              "text": "Escheated to the State"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 19,
+          "question": "A deed requires:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Recording"
+            },
+            {
+              "key": "B",
+              "text": "Constructive Notice"
+            },
+            {
+              "key": "C",
+              "text": "Signature of Grantee"
+            },
+            {
+              "key": "D",
+              "text": "Signature of Grantor"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 20,
+          "question": "Registry of Deeds title references are recorded by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Deed/Note"
+            },
+            {
+              "key": "B",
+              "text": "Note/Book"
+            },
+            {
+              "key": "C",
+              "text": "Metes/Bounds"
+            },
+            {
+              "key": "D",
+              "text": "Book/Page"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 21,
+          "question": "A survey concludes at the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Street Level"
+            },
+            {
+              "key": "B",
+              "text": "Front Door"
+            },
+            {
+              "key": "C",
+              "text": "Point of Beginning"
+            },
+            {
+              "key": "D",
+              "text": "Point of Entry"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 22,
+          "question": "A will written in the testator’s handwriting is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Codicil"
+            },
+            {
+              "key": "B",
+              "text": "Holographic"
+            },
+            {
+              "key": "C",
+              "text": "Devised"
+            },
+            {
+              "key": "D",
+              "text": "Intestate"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 23,
+          "question": "The Torrens system in Massachusetts is used to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Conduct Title Searches"
+            },
+            {
+              "key": "B",
+              "text": "Register Land"
+            },
+            {
+              "key": "C",
+              "text": "Record Deeds"
+            },
+            {
+              "key": "D",
+              "text": "Record Metes and Bounds"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 24,
+          "question": "A marker used to display land boundaries is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Herediment"
+            },
+            {
+              "key": "B",
+              "text": "Benchmark"
+            },
+            {
+              "key": "C",
+              "text": "Monument"
+            },
+            {
+              "key": "D",
+              "text": "Plot Plan"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "The legal action to determine the true owner of property is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Abstract of Title"
+            },
+            {
+              "key": "B",
+              "text": "Action to Quiet Title"
+            },
+            {
+              "key": "C",
+              "text": "Title Search"
+            },
+            {
+              "key": "D",
+              "text": "Title Inquiry"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 26,
+          "question": "Insurance protecting against undiscovered title defects is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Private Mortgage Insurance"
+            },
+            {
+              "key": "B",
+              "text": "Action to Quiet Title"
+            },
+            {
+              "key": "C",
+              "text": "Compulsory Insurance"
+            },
+            {
+              "key": "D",
+              "text": "Title Insurance"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 27,
+          "question": "An amendment to a will is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Extension"
+            },
+            {
+              "key": "B",
+              "text": "Deferral"
+            },
+            {
+              "key": "C",
+              "text": "Codicil"
+            },
+            {
+              "key": "D",
+              "text": "Bequest"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 28,
+          "question": "A person who dies without a will dies:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Holographic"
+            },
+            {
+              "key": "B",
+              "text": "Testate"
+            },
+            {
+              "key": "C",
+              "text": "Decent"
+            },
+            {
+              "key": "D",
+              "text": "Intestate"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 29,
+          "question": "An instrument protecting equity in an owner-occupied property is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dedication"
+            },
+            {
+              "key": "B",
+              "text": "Declaration of Homestead"
+            },
+            {
+              "key": "C",
+              "text": "Declaration of Trust"
+            },
+            {
+              "key": "D",
+              "text": "Deed"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 30,
+          "question": "Which is NOT a reason for involuntary alienation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Escheat"
+            },
+            {
+              "key": "B",
+              "text": "Loan Default"
+            },
+            {
+              "key": "C",
+              "text": "Court Judgment"
+            },
+            {
+              "key": "D",
+              "text": "Failure to pay Property Taxes"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 31,
+          "question": "The process of taking private property for public use is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Involuntary Alienation"
+            },
+            {
+              "key": "B",
+              "text": "Eminent Domain"
+            },
+            {
+              "key": "C",
+              "text": "Condemnation"
+            },
+            {
+              "key": "D",
+              "text": "Escheat"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 32,
+          "question": "The law allowing government to take private property for public good is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Involuntary Rescission"
+            },
+            {
+              "key": "B",
+              "text": "Condemnation"
+            },
+            {
+              "key": "C",
+              "text": "Dedication"
+            },
+            {
+              "key": "D",
+              "text": "Eminent Domain"
+            }
+          ],
+          "correctOptionKey": "D"
+        }
+      ]
+    },
+    {
+      "category": "Encumbrances Test",
+      "sourceFile": "Ecumbrance Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Another term for an encumbrance would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Enhancements"
+            },
+            {
+              "key": "B",
+              "text": "Burden"
+            },
+            {
+              "key": "C",
+              "text": "Assessments"
+            },
+            {
+              "key": "D",
+              "text": "Contracts"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 2,
+          "question": "When a seller and buyer enter into a sales contract, the buyer holds:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Reversionary Interest"
+            },
+            {
+              "key": "B",
+              "text": "A Futuristic Interest"
+            },
+            {
+              "key": "C",
+              "text": "Equitable Title"
+            },
+            {
+              "key": "D",
+              "text": "A Deed of Trust"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 3,
+          "question": "Another term used to describe a mortgage could be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Loan"
+            },
+            {
+              "key": "B",
+              "text": "A Deed of Trust"
+            },
+            {
+              "key": "C",
+              "text": "A Homestead"
+            },
+            {
+              "key": "D",
+              "text": "An Installment Program"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 4,
+          "question": "All of the following describe an installment sales contract except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Land Contract"
+            },
+            {
+              "key": "B",
+              "text": "Contract for Deed"
+            },
+            {
+              "key": "C",
+              "text": "Contract for Purchase"
+            },
+            {
+              "key": "D",
+              "text": "Conditional Sales Contract"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 5,
+          "question": "Which might be an assessment issued by a town to a property owner:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Electrical work inside property"
+            },
+            {
+              "key": "B",
+              "text": "A Mechanic's Lien"
+            },
+            {
+              "key": "C",
+              "text": "A water and sewer hook-up"
+            },
+            {
+              "key": "D",
+              "text": "An increase in property taxes"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 6,
+          "question": "When do property taxes become a lien against a property?",
+          "options": [
+            {
+              "key": "A",
+              "text": "January 1st"
+            },
+            {
+              "key": "B",
+              "text": "December 31st"
+            },
+            {
+              "key": "C",
+              "text": "May 1st"
+            },
+            {
+              "key": "D",
+              "text": "July 1st"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 7,
+          "question": "Of lien priority, which lien is paid last?",
+          "options": [
+            {
+              "key": "A",
+              "text": "General Lien"
+            },
+            {
+              "key": "B",
+              "text": "An IRS Lien"
+            },
+            {
+              "key": "C",
+              "text": "A Mortgage"
+            },
+            {
+              "key": "D",
+              "text": "A Mechanic's Lien"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 8,
+          "question": "Difference between property value and total liens is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Equity"
+            },
+            {
+              "key": "B",
+              "text": "Usury"
+            },
+            {
+              "key": "C",
+              "text": "Stock"
+            },
+            {
+              "key": "D",
+              "text": "Market Value"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 9,
+          "question": "A contractor must file a mechanic’s lien within:",
+          "options": [
+            {
+              "key": "A",
+              "text": "60 days"
+            },
+            {
+              "key": "B",
+              "text": "2 days"
+            },
+            {
+              "key": "C",
+              "text": "1 year"
+            },
+            {
+              "key": "D",
+              "text": "30 days"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 10,
+          "question": "Which lien is paid first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mortgage Loan"
+            },
+            {
+              "key": "B",
+              "text": "Mortgage Note"
+            },
+            {
+              "key": "C",
+              "text": "Property Taxes"
+            },
+            {
+              "key": "D",
+              "text": "Condominium Fee"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 11,
+          "question": "Mill rate refers to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Per $1,000"
+            },
+            {
+              "key": "B",
+              "text": "Per Million"
+            },
+            {
+              "key": "C",
+              "text": "Per $1.00"
+            },
+            {
+              "key": "D",
+              "text": "Per $500"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 12,
+          "question": "Public restrictions on real estate are:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Police Power"
+            },
+            {
+              "key": "B",
+              "text": "Zoning Ordinances"
+            },
+            {
+              "key": "C",
+              "text": "Conditions"
+            },
+            {
+              "key": "D",
+              "text": "Covenants"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 13,
+          "question": "Seeking use inconsistent with zoning requires:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Conditional Use"
+            },
+            {
+              "key": "B",
+              "text": "Non-conforming Use"
+            },
+            {
+              "key": "C",
+              "text": "Setback"
+            },
+            {
+              "key": "D",
+              "text": "Variance"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 14,
+          "question": "Laws regulating land use are:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Variances"
+            },
+            {
+              "key": "B",
+              "text": "Zoning Ordinances"
+            },
+            {
+              "key": "C",
+              "text": "Building Codes"
+            },
+            {
+              "key": "D",
+              "text": "Conditional Use"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 15,
+          "question": "Real property is assessed by a town:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bi-annually"
+            },
+            {
+              "key": "B",
+              "text": "Bi-annually"
+            },
+            {
+              "key": "C",
+              "text": "Annually"
+            },
+            {
+              "key": "D",
+              "text": "Semi-annually"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 16,
+          "question": "Buyer in installment sales contract is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buyer"
+            },
+            {
+              "key": "B",
+              "text": "Purchaser"
+            },
+            {
+              "key": "C",
+              "text": "Mortgagee"
+            },
+            {
+              "key": "D",
+              "text": "Vendee"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 17,
+          "question": "Quarterly taxes are due:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jan/Apr/Jul/Oct 1st"
+            },
+            {
+              "key": "B",
+              "text": "Jan/Apr/Jul/Oct 15th"
+            },
+            {
+              "key": "C",
+              "text": "Aug/Nov/Feb/May 1st"
+            },
+            {
+              "key": "D",
+              "text": "May/June/Nov/Feb 1st"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 18,
+          "question": "A mechanic’s lien is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "General Lien"
+            },
+            {
+              "key": "B",
+              "text": "Contractor Lien"
+            },
+            {
+              "key": "C",
+              "text": "Specific Lien"
+            },
+            {
+              "key": "D",
+              "text": "Betterment Lien"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 19,
+          "question": "Town budget divided by taxable value gives:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Property Taxes"
+            },
+            {
+              "key": "B",
+              "text": "Tax Rate"
+            },
+            {
+              "key": "C",
+              "text": "Assessed Valorem"
+            },
+            {
+              "key": "D",
+              "text": "Tax Quota"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 20,
+          "question": "Value given to property by town is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Municipal Law Certificate"
+            },
+            {
+              "key": "B",
+              "text": "Ad Valorem"
+            },
+            {
+              "key": "C",
+              "text": "Tax Rate"
+            },
+            {
+              "key": "D",
+              "text": "Mill Rate"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 21,
+          "question": "Lot with right to cross another is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dominant Tenement"
+            },
+            {
+              "key": "B",
+              "text": "Appurtenance"
+            },
+            {
+              "key": "C",
+              "text": "Encumbrance"
+            },
+            {
+              "key": "D",
+              "text": "Servient Tenement"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 22,
+          "question": "Notice of lawsuit recorded is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Easement by Prescription"
+            },
+            {
+              "key": "B",
+              "text": "Lis Pendens"
+            },
+            {
+              "key": "C",
+              "text": "Court Decree"
+            },
+            {
+              "key": "D",
+              "text": "Judgment"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 23,
+          "question": "Legal seizure via court action is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Court Judgment"
+            },
+            {
+              "key": "B",
+              "text": "An Attachment"
+            },
+            {
+              "key": "C",
+              "text": "Foreclosure"
+            },
+            {
+              "key": "D",
+              "text": "Lis Pendens"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 24,
+          "question": "Right to use another’s land is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Appurtenance"
+            },
+            {
+              "key": "B",
+              "text": "Easement"
+            },
+            {
+              "key": "C",
+              "text": "Lien"
+            },
+            {
+              "key": "D",
+              "text": "License"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 25,
+          "question": "Building over property line is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Appurtenance"
+            },
+            {
+              "key": "B",
+              "text": "Easement"
+            },
+            {
+              "key": "C",
+              "text": "Encroachment"
+            },
+            {
+              "key": "D",
+              "text": "Lis Pendens"
+            }
+          ],
+          "correctOptionKey": "C"
+        }
+      ]
+    },
+    {
+      "category": "Financing Test",
+      "sourceFile": "Financing Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Another term for a credit score could be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Credit Rating Score"
+            },
+            {
+              "key": "B",
+              "text": "Fico Score"
+            },
+            {
+              "key": "C",
+              "text": "AAA Rating"
+            },
+            {
+              "key": "D",
+              "text": "Loan to Value Score"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 2,
+          "question": "Another term to best describe points could be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Prepaid Interest"
+            },
+            {
+              "key": "B",
+              "text": "Closing Costs"
+            },
+            {
+              "key": "C",
+              "text": "Rebate Costs"
+            },
+            {
+              "key": "D",
+              "text": "Prepaid Settlement Change"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 3,
+          "question": "A point charged to the borrower from a lender is based on:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The Purchase Price"
+            },
+            {
+              "key": "B",
+              "text": "The Down Payment"
+            },
+            {
+              "key": "C",
+              "text": "The Prepaid Interest"
+            },
+            {
+              "key": "D",
+              "text": "The Loan Amount"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 4,
+          "question": "Another term to describe seller financing could be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Seller Concession"
+            },
+            {
+              "key": "B",
+              "text": "Purchase Money Loan"
+            },
+            {
+              "key": "C",
+              "text": "Purchase Money Mortgage"
+            },
+            {
+              "key": "D",
+              "text": "Seller Money Mortgage"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 5,
+          "question": "A loan program that insures the lender if the buyer defaults is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "VA Loan"
+            },
+            {
+              "key": "B",
+              "text": "Conventional Loan"
+            },
+            {
+              "key": "C",
+              "text": "FHA Loan"
+            },
+            {
+              "key": "D",
+              "text": "RMI Loan"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 6,
+          "question": "The Consumer Protection Act of 1968 is also known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title VIII"
+            },
+            {
+              "key": "B",
+              "text": "93A"
+            },
+            {
+              "key": "C",
+              "text": "Truth-in-Lending"
+            },
+            {
+              "key": "D",
+              "text": "Truth-in-Disclosure"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "The purpose of charging discount points is to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Make payment lower"
+            },
+            {
+              "key": "B",
+              "text": "Increase yield to lender"
+            },
+            {
+              "key": "C",
+              "text": "Reduce PMI"
+            },
+            {
+              "key": "D",
+              "text": "Eliminate Title Insurance"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 8,
+          "question": "If right of rescission applies, buyer has how many days?",
+          "options": [
+            {
+              "key": "A",
+              "text": "7 days"
+            },
+            {
+              "key": "B",
+              "text": "10 days"
+            },
+            {
+              "key": "C",
+              "text": "30 days"
+            },
+            {
+              "key": "D",
+              "text": "3 days"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 9,
+          "question": "A word in an ad identifying monthly payment is a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Loan Identification"
+            },
+            {
+              "key": "B",
+              "text": "Regulation Z"
+            },
+            {
+              "key": "C",
+              "text": "Truth-in-Lending"
+            },
+            {
+              "key": "D",
+              "text": "Trigger Term"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 10,
+          "question": "Which agency oversees Regulation Z?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fannie Mae"
+            },
+            {
+              "key": "B",
+              "text": "Freddie Mae"
+            },
+            {
+              "key": "C",
+              "text": "Federal Trade Commission"
+            },
+            {
+              "key": "D",
+              "text": "Federal Reserve"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 11,
+          "question": "Document disclosing all transaction costs is the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Uniform Standards Settlement Form"
+            },
+            {
+              "key": "B",
+              "text": "Uniform Procedure Settlement"
+            },
+            {
+              "key": "C",
+              "text": "Uniform Settlement Statement"
+            },
+            {
+              "key": "D",
+              "text": "Truth-in-Lending Statement"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 12,
+          "question": "Loan estimate must be provided within:",
+          "options": [
+            {
+              "key": "A",
+              "text": "7 days"
+            },
+            {
+              "key": "B",
+              "text": "3 days"
+            },
+            {
+              "key": "C",
+              "text": "30 days"
+            },
+            {
+              "key": "D",
+              "text": "1 day"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 13,
+          "question": "ARM at 4% rising to max would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "4%"
+            },
+            {
+              "key": "B",
+              "text": "5%"
+            },
+            {
+              "key": "C",
+              "text": "10%"
+            },
+            {
+              "key": "D",
+              "text": "6%"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 14,
+          "question": "Loan that guarantees lender if buyer defaults is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "FHA Loan"
+            },
+            {
+              "key": "B",
+              "text": "VM Loan"
+            },
+            {
+              "key": "C",
+              "text": "VA Loan"
+            },
+            {
+              "key": "D",
+              "text": "Guaranteed Loan"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 15,
+          "question": "Which does NOT participate in secondary market?",
+          "options": [
+            {
+              "key": "A",
+              "text": "FNMA"
+            },
+            {
+              "key": "B",
+              "text": "GMIC"
+            },
+            {
+              "key": "C",
+              "text": "GNMA"
+            },
+            {
+              "key": "D",
+              "text": "FHLMC"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 16,
+          "question": "Charging interest above legal rate is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Illegal"
+            },
+            {
+              "key": "B",
+              "text": "93A Violation"
+            },
+            {
+              "key": "C",
+              "text": "Usury"
+            },
+            {
+              "key": "D",
+              "text": "Accelerated"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 17,
+          "question": "Fee charged for early payoff is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Due on Sale Clause"
+            },
+            {
+              "key": "B",
+              "text": "Alienation Clause"
+            },
+            {
+              "key": "C",
+              "text": "Conveyancing Penalty"
+            },
+            {
+              "key": "D",
+              "text": "Prepayment Penalty"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 18,
+          "question": "Clause most important to lender is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Defeasance Clause"
+            },
+            {
+              "key": "B",
+              "text": "Acceleration Clause"
+            },
+            {
+              "key": "C",
+              "text": "Novation Clause"
+            },
+            {
+              "key": "D",
+              "text": "Lien Clause"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 19,
+          "question": "Loan with no principal until final payment:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Balloon Loan"
+            },
+            {
+              "key": "B",
+              "text": "Reverse Annuity Loan"
+            },
+            {
+              "key": "C",
+              "text": "Straight Loan"
+            },
+            {
+              "key": "D",
+              "text": "Construction Loan"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 20,
+          "question": "Security interest retained while borrower keeps possession is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hypothecate"
+            },
+            {
+              "key": "B",
+              "text": "Mortgage"
+            },
+            {
+              "key": "C",
+              "text": "Contract for Deed"
+            },
+            {
+              "key": "D",
+              "text": "Holographic"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 21,
+          "question": "Link between Fed policy and economy is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "APR"
+            },
+            {
+              "key": "B",
+              "text": "Reserves"
+            },
+            {
+              "key": "C",
+              "text": "TIL"
+            },
+            {
+              "key": "D",
+              "text": "Regulation Z"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 22,
+          "question": "Loan where lender assumes all risk:",
+          "options": [
+            {
+              "key": "A",
+              "text": "VA Loan"
+            },
+            {
+              "key": "B",
+              "text": "FHA Loan"
+            },
+            {
+              "key": "C",
+              "text": "PMI Loan"
+            },
+            {
+              "key": "D",
+              "text": "Conventional Loan"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 23,
+          "question": "Rate set by FOMC is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Prime Rate"
+            },
+            {
+              "key": "B",
+              "text": "APR"
+            },
+            {
+              "key": "C",
+              "text": "Federal Discount Rate"
+            },
+            {
+              "key": "D",
+              "text": "Consumer Rate"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 24,
+          "question": "FHA loan interest is determined by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "FHA"
+            },
+            {
+              "key": "B",
+              "text": "Market Conditions"
+            },
+            {
+              "key": "C",
+              "text": "Federal Reserve Board"
+            },
+            {
+              "key": "D",
+              "text": "Consumer Interest Board"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 25,
+          "question": "Not included in APR:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Interest Rate"
+            },
+            {
+              "key": "B",
+              "text": "Points"
+            },
+            {
+              "key": "C",
+              "text": "Appraisal"
+            },
+            {
+              "key": "D",
+              "text": "Finder's Fee"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 26,
+          "question": "Division of HUD:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ginnie Mae"
+            },
+            {
+              "key": "B",
+              "text": "Sallie Mae"
+            },
+            {
+              "key": "C",
+              "text": "Fannie Mae"
+            },
+            {
+              "key": "D",
+              "text": "Freddie Mae"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 27,
+          "question": "Covered under Truth-in-Lending:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Construction Loan"
+            },
+            {
+              "key": "B",
+              "text": "Investment Property"
+            },
+            {
+              "key": "C",
+              "text": "Purchase Money Mortgage"
+            },
+            {
+              "key": "D",
+              "text": "Owner Occupied Loan"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 28,
+          "question": "Purchases conventional loans:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fannie Mae"
+            },
+            {
+              "key": "B",
+              "text": "Ginnie Mae"
+            },
+            {
+              "key": "C",
+              "text": "Sallie Mae"
+            },
+            {
+              "key": "D",
+              "text": "Freddie Mae"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 29,
+          "question": "Falls under RESPA:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Owner occupied purchase"
+            },
+            {
+              "key": "B",
+              "text": "Lot purchase"
+            },
+            {
+              "key": "C",
+              "text": "Investment refinance"
+            },
+            {
+              "key": "D",
+              "text": "Owner refinance"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 30,
+          "question": "Another term for amortized loan:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reduced Loan"
+            },
+            {
+              "key": "B",
+              "text": "Straight Loan"
+            },
+            {
+              "key": "C",
+              "text": "Balloon Loan"
+            },
+            {
+              "key": "D",
+              "text": "Direct Reduction Loan"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 31,
+          "question": "Loan secured by real & personal property:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Blanket Mortgage"
+            },
+            {
+              "key": "B",
+              "text": "Chattel Mortgage"
+            },
+            {
+              "key": "C",
+              "text": "Combination Mortgage"
+            },
+            {
+              "key": "D",
+              "text": "Package Mortgage"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 32,
+          "question": "Doc showing loan balance at date:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Equity of Redemption"
+            },
+            {
+              "key": "B",
+              "text": "Certificate of No Defense"
+            },
+            {
+              "key": "C",
+              "text": "Regulation Z"
+            },
+            {
+              "key": "D",
+              "text": "Mortgage Reduction"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 33,
+          "question": "Lender may charge if yield too low:",
+          "options": [
+            {
+              "key": "A",
+              "text": "APR"
+            },
+            {
+              "key": "B",
+              "text": "PMI"
+            },
+            {
+              "key": "C",
+              "text": "Discount Points"
+            },
+            {
+              "key": "D",
+              "text": "Origination Fees"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 34,
+          "question": "Clause preventing takeover financing:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Acceleration Clause"
+            },
+            {
+              "key": "B",
+              "text": "Power of Sale Clause"
+            },
+            {
+              "key": "C",
+              "text": "Alienation Clause"
+            },
+            {
+              "key": "D",
+              "text": "Due on Sale Clause"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 35,
+          "question": "Buyer purchases subject-to mortgage, seller obligation:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eliminated"
+            },
+            {
+              "key": "B",
+              "text": "Assumed"
+            },
+            {
+              "key": "C",
+              "text": "Unchanged"
+            },
+            {
+              "key": "D",
+              "text": "Released"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 36,
+          "question": "Clause most important to borrower:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Power of Sale"
+            },
+            {
+              "key": "B",
+              "text": "Defeasance Clause"
+            },
+            {
+              "key": "C",
+              "text": "Subordination Clause"
+            },
+            {
+              "key": "D",
+              "text": "Acceleration Clause"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 37,
+          "question": "Law barring credit discrimination:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Regulation Z"
+            },
+            {
+              "key": "B",
+              "text": "Equal Credit Opportunity Act"
+            },
+            {
+              "key": "C",
+              "text": "Truth-in-Lending"
+            },
+            {
+              "key": "D",
+              "text": "RESPA"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 38,
+          "question": "VA loan denial reason:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Missed payments"
+            },
+            {
+              "key": "B",
+              "text": "Still obligated on prior loan"
+            },
+            {
+              "key": "C",
+              "text": "Only one VA loan"
+            },
+            {
+              "key": "D",
+              "text": "No VA loans after 1989"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 39,
+          "question": "Mortgage note provided by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bank"
+            },
+            {
+              "key": "B",
+              "text": "Mortgagee"
+            },
+            {
+              "key": "C",
+              "text": "Buyer"
+            },
+            {
+              "key": "D",
+              "text": "Seller"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 40,
+          "question": "Another term for land contract:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Alienation Contract"
+            },
+            {
+              "key": "B",
+              "text": "Contract for Deed"
+            },
+            {
+              "key": "C",
+              "text": "Ground Lease"
+            },
+            {
+              "key": "D",
+              "text": "Deed of Trust"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 41,
+          "question": "Primary instrument in mortgage transaction:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Loan"
+            },
+            {
+              "key": "B",
+              "text": "Mortgage"
+            },
+            {
+              "key": "C",
+              "text": "Note"
+            },
+            {
+              "key": "D",
+              "text": "Equity"
+            }
+          ],
+          "correctOptionKey": "C"
+        }
+      ]
+    },
+    {
+      "category": "Ownership Test",
+      "sourceFile": "Ownership Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Jane Smith passed away and left her property to her daughter via a will, what type of estate did Jane's daughter receive?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reversionary"
+            },
+            {
+              "key": "B",
+              "text": "Temporary"
+            },
+            {
+              "key": "C",
+              "text": "Fee Simple"
+            },
+            {
+              "key": "D",
+              "text": "Family Estate"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 2,
+          "question": "When someone abuts a waterway and has a right to use the water for swimming, boating or fishing they possess what type of rights?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Riparian Rights"
+            },
+            {
+              "key": "B",
+              "text": "Aquatic Rights"
+            },
+            {
+              "key": "C",
+              "text": "Mineral Rights"
+            },
+            {
+              "key": "D",
+              "text": "Littoral Rights"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 3,
+          "question": "A beauty salon has installed sinks and countertops. These items would be called:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Real Property"
+            },
+            {
+              "key": "B",
+              "text": "Appliances"
+            },
+            {
+              "key": "C",
+              "text": "Personalty"
+            },
+            {
+              "key": "D",
+              "text": "Encumbrances"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 4,
+          "question": "John installed an air conditioner in an opening cut into the living room wall. When John sells the house, the air conditioner is referred to as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Personal Property"
+            },
+            {
+              "key": "B",
+              "text": "Ownership"
+            },
+            {
+              "key": "C",
+              "text": "A Fixture"
+            },
+            {
+              "key": "D",
+              "text": "Trade Fixture"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 5,
+          "question": "John, Sarah and Ken purchased property as Tenants in Common. If Ken passed away his ownership interest would:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Pass on to John and Sarah"
+            },
+            {
+              "key": "B",
+              "text": "Escheat"
+            },
+            {
+              "key": "C",
+              "text": "Demise"
+            },
+            {
+              "key": "D",
+              "text": "Pass to his estate"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 6,
+          "question": "A person who receives an estate in the future is known as the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Optioner"
+            },
+            {
+              "key": "B",
+              "text": "Freehold"
+            },
+            {
+              "key": "C",
+              "text": "Remainder Man"
+            },
+            {
+              "key": "D",
+              "text": "Pur Autre Vie"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "When referring to real property we refer to all of the following except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Riparian Rights"
+            },
+            {
+              "key": "B",
+              "text": "Mineral Rights"
+            },
+            {
+              "key": "C",
+              "text": "Emblements"
+            },
+            {
+              "key": "D",
+              "text": "Air Rights"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 8,
+          "question": "When a court is aiming to determine if an item is a fixture they would look for which important factor?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Purchase Price"
+            },
+            {
+              "key": "B",
+              "text": "Intention"
+            },
+            {
+              "key": "C",
+              "text": "Appraised Value"
+            },
+            {
+              "key": "D",
+              "text": "Assessed Value"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 9,
+          "question": "When a married couple takes ownership via an instrument intended for married people only, they possess:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Power Rights"
+            },
+            {
+              "key": "B",
+              "text": "Courtesy Rights"
+            },
+            {
+              "key": "C",
+              "text": "Joint Tenancy"
+            },
+            {
+              "key": "D",
+              "text": "Tenancy by the Entirety"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 10,
+          "question": "When transferring personal property the most appropriate instrument to convey ownership would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Will"
+            },
+            {
+              "key": "B",
+              "text": "Attachment"
+            },
+            {
+              "key": "C",
+              "text": "Bill of Sale"
+            },
+            {
+              "key": "D",
+              "text": "Index"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 11,
+          "question": "John is selling his three-bedroom ranch. He has an above ground pool in the rear yard. The pool is considered:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Real Property"
+            },
+            {
+              "key": "B",
+              "text": "Personal Property"
+            },
+            {
+              "key": "C",
+              "text": "A Fixture"
+            },
+            {
+              "key": "D",
+              "text": "An Annexed Item"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 12,
+          "question": "When someone sells shares or participation certificates they need to hold what type of license?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Certificate License"
+            },
+            {
+              "key": "B",
+              "text": "A Stockholders License"
+            },
+            {
+              "key": "C",
+              "text": "A Securities License"
+            },
+            {
+              "key": "D",
+              "text": "A Registered License"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 13,
+          "question": "Jane, Jim, and Jenny own property together. If one of them passed away the other two would take equal control. The original type of ownership was:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tenants in Common"
+            },
+            {
+              "key": "B",
+              "text": "Joint Tenants"
+            },
+            {
+              "key": "C",
+              "text": "Shared Tenancy"
+            },
+            {
+              "key": "D",
+              "text": "Tenancy by the Entirety"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 14,
+          "question": "When a property is owned by one person or entity, the ownership is considered in:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Common"
+            },
+            {
+              "key": "B",
+              "text": "Severalty"
+            },
+            {
+              "key": "C",
+              "text": "Entirety"
+            },
+            {
+              "key": "D",
+              "text": "Sufferage"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 15,
+          "question": "When Joint Tenancy occurs there are four unities that must take place. They are:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title, Time, Money, Date"
+            },
+            {
+              "key": "B",
+              "text": "Title, Time, Equal Interest, Possession"
+            },
+            {
+              "key": "C",
+              "text": "Unequal Interest, Title, Date, Deed"
+            },
+            {
+              "key": "D",
+              "text": "Time, Title, Interest, Inheritable"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 16,
+          "question": "The highest form of ownership one can possess is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fee Determination"
+            },
+            {
+              "key": "B",
+              "text": "Fee Simple"
+            },
+            {
+              "key": "C",
+              "text": "Fee Acquisition"
+            },
+            {
+              "key": "D",
+              "text": "Fee Reversionary"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 17,
+          "question": "The rights a property owner possesses in relation to the soil associated with their property are:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Water Rights"
+            },
+            {
+              "key": "B",
+              "text": "Gravel Rights"
+            },
+            {
+              "key": "C",
+              "text": "Mineral Rights"
+            },
+            {
+              "key": "D",
+              "text": "Corporal Rights"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 18,
+          "question": "When ownership of a property passes to the original grantor upon the death of the grantee, the grantor retained a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Full Ownership"
+            },
+            {
+              "key": "B",
+              "text": "A Leasehold Interest"
+            },
+            {
+              "key": "C",
+              "text": "A Reversionary Interest"
+            },
+            {
+              "key": "D",
+              "text": "A Sustainable Interest"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 19,
+          "question": "When one party grants an estate to another based on the life of a third party it is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Future Interest"
+            },
+            {
+              "key": "B",
+              "text": "Reversionary Estate"
+            },
+            {
+              "key": "C",
+              "text": "Pur Autre Vie"
+            },
+            {
+              "key": "D",
+              "text": "Estate for Years"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 20,
+          "question": "When three people enter into an agreement that calls for each person to pay their own taxes based on income derived, they have a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Syndication"
+            },
+            {
+              "key": "B",
+              "text": "Partnership"
+            },
+            {
+              "key": "C",
+              "text": "Cooperative"
+            },
+            {
+              "key": "D",
+              "text": "A Joint Agreement"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 21,
+          "question": "An existing building converted to a condominium development is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Amended Building"
+            },
+            {
+              "key": "B",
+              "text": "Non-conforming Use"
+            },
+            {
+              "key": "C",
+              "text": "Conversion"
+            },
+            {
+              "key": "D",
+              "text": "Pur Autre Vie"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 22,
+          "question": "An individual who purchased a particular week in fee simple form has purchased:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Oval Ownership"
+            },
+            {
+              "key": "B",
+              "text": "Severalty"
+            },
+            {
+              "key": "C",
+              "text": "Share Ownership"
+            },
+            {
+              "key": "D",
+              "text": "Interval Ownership"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 23,
+          "question": "A disabled tenant in a condo conversion building must:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Be given purchase opportunity"
+            },
+            {
+              "key": "B",
+              "text": "Be given ample time to move"
+            },
+            {
+              "key": "C",
+              "text": "Be paid up to $1000"
+            },
+            {
+              "key": "D",
+              "text": "All of the above"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 24,
+          "question": "The enabling declaration for a condominium is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unit Deed"
+            },
+            {
+              "key": "B",
+              "text": "Conversion Deed"
+            },
+            {
+              "key": "C",
+              "text": "Master Deed"
+            },
+            {
+              "key": "D",
+              "text": "Quitclaim Deed"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "Tenancy by the Entirety converts to what upon divorce?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Still Entirety"
+            },
+            {
+              "key": "B",
+              "text": "Severalty"
+            },
+            {
+              "key": "C",
+              "text": "Joint Tenants"
+            },
+            {
+              "key": "D",
+              "text": "Tenant in Common"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 26,
+          "question": "Document showing condo fees paid up to date is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "93A Certificate"
+            },
+            {
+              "key": "B",
+              "text": "21E Certificate"
+            },
+            {
+              "key": "C",
+              "text": "Title V Certificate"
+            },
+            {
+              "key": "D",
+              "text": "6D Certificate"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 27,
+          "question": "Document showing proof of condominium ownership is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Master Deed"
+            },
+            {
+              "key": "B",
+              "text": "Warranty Deed"
+            },
+            {
+              "key": "C",
+              "text": "Transfer Deed"
+            },
+            {
+              "key": "D",
+              "text": "Unit Deed"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 28,
+          "question": "Monthly money collected from condo owners is called:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Assessment"
+            },
+            {
+              "key": "B",
+              "text": "Condominium Fee"
+            },
+            {
+              "key": "C",
+              "text": "Unit Fees"
+            },
+            {
+              "key": "D",
+              "text": "Condo Budget"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 29,
+          "question": "Condo owner would NOT have:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stock Certificates"
+            },
+            {
+              "key": "B",
+              "text": "Master Deed"
+            },
+            {
+              "key": "C",
+              "text": "By-Laws"
+            },
+            {
+              "key": "D",
+              "text": "Master Insurance"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 30,
+          "question": "Massachusetts Condominium law is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "MGL 6D"
+            },
+            {
+              "key": "B",
+              "text": "MGL 183A"
+            },
+            {
+              "key": "C",
+              "text": "MGL 93A"
+            },
+            {
+              "key": "D",
+              "text": "MGL V"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 31,
+          "question": "Law allowing condo association to lien unit owner is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Super Lien Foreclosure Act"
+            },
+            {
+              "key": "B",
+              "text": "Condo Super Lien Action"
+            },
+            {
+              "key": "C",
+              "text": "Super Fund Act"
+            },
+            {
+              "key": "D",
+              "text": "Condo Super Lien Bill"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 32,
+          "question": "Buying stock entitling occupancy is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stock Option"
+            },
+            {
+              "key": "B",
+              "text": "Cooperative"
+            },
+            {
+              "key": "C",
+              "text": "Interval Ownership"
+            },
+            {
+              "key": "D",
+              "text": "Quarter Ownership"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 33,
+          "question": "If cooperative owner fails to pay, other members:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Change locks"
+            },
+            {
+              "key": "B",
+              "text": "Must pay the fee"
+            },
+            {
+              "key": "C",
+              "text": "Place lien"
+            },
+            {
+              "key": "D",
+              "text": "Evict in 7 days"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 34,
+          "question": "A cooperative member receives:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Master Deed"
+            },
+            {
+              "key": "B",
+              "text": "Unit Deed"
+            },
+            {
+              "key": "C",
+              "text": "Proprietary Lease"
+            },
+            {
+              "key": "D",
+              "text": "Transfer Deed"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 35,
+          "question": "Cooperative board may:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Review education"
+            },
+            {
+              "key": "B",
+              "text": "Deny celebrity"
+            },
+            {
+              "key": "C",
+              "text": "Charge based on race"
+            },
+            {
+              "key": "D",
+              "text": "Give preference to nobody"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 36,
+          "question": "Under condo ownership, items go together:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stock/Lease"
+            },
+            {
+              "key": "B",
+              "text": "Unit Deed/Common Element"
+            },
+            {
+              "key": "C",
+              "text": "Corporation/Partnership"
+            },
+            {
+              "key": "D",
+              "text": "Fee Simple/Leasehold"
+            }
+          ],
+          "correctOptionKey": "B"
+        }
+      ]
+    },
+    {
+      "category": "Property Valuation Test",
+      "sourceFile": "Property Valuation Test.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "When conducting an appraisal John depreciated all of the following except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Age of the house"
+            },
+            {
+              "key": "B",
+              "text": "Condition of the bath"
+            },
+            {
+              "key": "C",
+              "text": "Age of the land"
+            },
+            {
+              "key": "D",
+              "text": "Age of the kitchen"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 2,
+          "question": "The economic life of a property is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Age of the property"
+            },
+            {
+              "key": "B",
+              "text": "The number of years remaining on the loan"
+            },
+            {
+              "key": "C",
+              "text": "The estimate of time for required renovations"
+            },
+            {
+              "key": "D",
+              "text": "The time period remaining for the profitable use of the property"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 3,
+          "question": "A building that possesses an old fashioned heating system would have:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Functional Obsolescence"
+            },
+            {
+              "key": "B",
+              "text": "Economic Obsolescence"
+            },
+            {
+              "key": "C",
+              "text": "Deterioration"
+            },
+            {
+              "key": "D",
+              "text": "Depreciation"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 4,
+          "question": "When appraising an office complex, which method of appraising would be the best approach?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cost Approach"
+            },
+            {
+              "key": "B",
+              "text": "Income Approach"
+            },
+            {
+              "key": "C",
+              "text": "Comparison Approach"
+            },
+            {
+              "key": "D",
+              "text": "Mixed Commercial Approach"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 5,
+          "question": "Which of the following is not an element of value?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Demand"
+            },
+            {
+              "key": "B",
+              "text": "Desire"
+            },
+            {
+              "key": "C",
+              "text": "Utility"
+            },
+            {
+              "key": "D",
+              "text": "Scarcity"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 6,
+          "question": "When a contractor creates a reproduction of a property it is known as a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Replacement"
+            },
+            {
+              "key": "B",
+              "text": "Reproduction"
+            },
+            {
+              "key": "C",
+              "text": "Replica"
+            },
+            {
+              "key": "D",
+              "text": "Utility"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "A replacement of a property creates a property that boasts:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Same Utility"
+            },
+            {
+              "key": "B",
+              "text": "Cost Value"
+            },
+            {
+              "key": "C",
+              "text": "Transferability"
+            },
+            {
+              "key": "D",
+              "text": "Security"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 8,
+          "question": "A rate of return expected when investing in a property is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Equity"
+            },
+            {
+              "key": "B",
+              "text": "Plottage Value"
+            },
+            {
+              "key": "C",
+              "text": "Capitalization Rate"
+            },
+            {
+              "key": "D",
+              "text": "Gross Rent Multiplier"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 9,
+          "question": "When conducting an appraisal the appraiser places a value to the following pair:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kitchen/Bath"
+            },
+            {
+              "key": "B",
+              "text": "Bedroom/Living Room"
+            },
+            {
+              "key": "C",
+              "text": "Building/Land"
+            },
+            {
+              "key": "D",
+              "text": "Yard/Bedrooms"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 10,
+          "question": "A homeowner improves their property by enlarging the kitchen. Which principle variable best describes their intention?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Change"
+            },
+            {
+              "key": "B",
+              "text": "Contribution"
+            },
+            {
+              "key": "C",
+              "text": "Anticipation"
+            },
+            {
+              "key": "D",
+              "text": "Supply and Demand"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 11,
+          "question": "Two similar homes priced differently—greater attention to the lower priced property illustrates:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Highest and Best Use"
+            },
+            {
+              "key": "B",
+              "text": "Conformity"
+            },
+            {
+              "key": "C",
+              "text": "Change"
+            },
+            {
+              "key": "D",
+              "text": "Substitution"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 12,
+          "question": "A rent control bill impacts property value through which force?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Social"
+            },
+            {
+              "key": "B",
+              "text": "Economic"
+            },
+            {
+              "key": "C",
+              "text": "Governmental"
+            },
+            {
+              "key": "D",
+              "text": "Physical"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 13,
+          "question": "The actual price paid for a house is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Market Value"
+            },
+            {
+              "key": "B",
+              "text": "Market Price"
+            },
+            {
+              "key": "C",
+              "text": "Assessed Value"
+            },
+            {
+              "key": "D",
+              "text": "Ad Valorem"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 14,
+          "question": "For a VA loan appraisal, the appraiser prepares:",
+          "options": [
+            {
+              "key": "A",
+              "text": "CMA"
+            },
+            {
+              "key": "B",
+              "text": "Certificate of Appraising"
+            },
+            {
+              "key": "C",
+              "text": "Certificate of Reasonable Value"
+            },
+            {
+              "key": "D",
+              "text": "Competitive Market Analysis"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 15,
+          "question": "When CRV is lower than price, buyer has all options except:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ask seller to reduce price"
+            },
+            {
+              "key": "B",
+              "text": "Decide not to purchase"
+            },
+            {
+              "key": "C",
+              "text": "Pay difference in cash"
+            },
+            {
+              "key": "D",
+              "text": "Force seller to pay difference"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 16,
+          "question": "Highest price a willing buyer will pay and seller accept is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Market Price"
+            },
+            {
+              "key": "B",
+              "text": "Market Value"
+            },
+            {
+              "key": "C",
+              "text": "Assessed Value"
+            },
+            {
+              "key": "D",
+              "text": "Utility"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 17,
+          "question": "When appraising a library, which approach is used?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sales Comparison"
+            },
+            {
+              "key": "B",
+              "text": "Market Approach"
+            },
+            {
+              "key": "C",
+              "text": "Commercial Approach"
+            },
+            {
+              "key": "D",
+              "text": "Cost Approach"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 18,
+          "question": "In absence of appraisal, a real estate agent prepares:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Survey"
+            },
+            {
+              "key": "B",
+              "text": "Listing Review"
+            },
+            {
+              "key": "C",
+              "text": "Competitive Market Analysis"
+            },
+            {
+              "key": "D",
+              "text": "Appraisal"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 19,
+          "question": "Best approach for valuing land:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cost Approach"
+            },
+            {
+              "key": "B",
+              "text": "Market Approach"
+            },
+            {
+              "key": "C",
+              "text": "Income Approach"
+            },
+            {
+              "key": "D",
+              "text": "Land-Value Approach"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 20,
+          "question": "Most widely used residential appraisal method:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Market Comparison Approach"
+            },
+            {
+              "key": "B",
+              "text": "Cost Approach"
+            },
+            {
+              "key": "C",
+              "text": "Income Approach"
+            },
+            {
+              "key": "D",
+              "text": "Net Income Approach"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 21,
+          "question": "Which is not an appraisal approach?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cost Approach"
+            },
+            {
+              "key": "B",
+              "text": "Replacement Approach"
+            },
+            {
+              "key": "C",
+              "text": "Income Approach"
+            },
+            {
+              "key": "D",
+              "text": "Market Approach"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 22,
+          "question": "Which is not a replacement cost method?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Comparative Unit"
+            },
+            {
+              "key": "B",
+              "text": "Quantity Survey"
+            },
+            {
+              "key": "C",
+              "text": "Competitive Unit"
+            },
+            {
+              "key": "D",
+              "text": "Unit in Place"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 23,
+          "question": "Which is not a type of depreciation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Physical"
+            },
+            {
+              "key": "B",
+              "text": "Functional Obsolescence"
+            },
+            {
+              "key": "C",
+              "text": "Economic Obsolescence"
+            },
+            {
+              "key": "D",
+              "text": "Economic Recovery"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 24,
+          "question": "Value loss from neighboring disrepair is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Physical Depreciation"
+            },
+            {
+              "key": "B",
+              "text": "Functional Obsolescence"
+            },
+            {
+              "key": "C",
+              "text": "Economic Obsolescence"
+            },
+            {
+              "key": "D",
+              "text": "External Deterioration"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "Combining lots into larger parcel is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Plottage"
+            },
+            {
+              "key": "B",
+              "text": "Assemblage"
+            },
+            {
+              "key": "C",
+              "text": "Highest and Best Use"
+            },
+            {
+              "key": "D",
+              "text": "Change"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 26,
+          "question": "Appraiser measures property by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Square Footage"
+            },
+            {
+              "key": "B",
+              "text": "Gross Living Area"
+            },
+            {
+              "key": "C",
+              "text": "URAR"
+            },
+            {
+              "key": "D",
+              "text": "Certificate of Reasonable Value"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 27,
+          "question": "Appraisal concludes at the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Point of Completion"
+            },
+            {
+              "key": "B",
+              "text": "Point of Beginning"
+            },
+            {
+              "key": "C",
+              "text": "Point of Value"
+            },
+            {
+              "key": "D",
+              "text": "Benchmark"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 28,
+          "question": "Little turnover & strong prices show which element of value?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Transferability"
+            },
+            {
+              "key": "B",
+              "text": "Demand"
+            },
+            {
+              "key": "C",
+              "text": "Scarcity"
+            },
+            {
+              "key": "D",
+              "text": "Utility"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 29,
+          "question": "Most common residential appraisal format:",
+          "options": [
+            {
+              "key": "A",
+              "text": "USPAP"
+            },
+            {
+              "key": "B",
+              "text": "BPO"
+            },
+            {
+              "key": "C",
+              "text": "CMA"
+            },
+            {
+              "key": "D",
+              "text": "URAR"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 30,
+          "question": "Improvement yielding more than its cost is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Principle of Change"
+            },
+            {
+              "key": "B",
+              "text": "Principle of Contribution"
+            },
+            {
+              "key": "C",
+              "text": "Increasing Return"
+            },
+            {
+              "key": "D",
+              "text": "Assemblage"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 31,
+          "question": "Many properties for sale causing deflation illustrates:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Decreasing Return"
+            },
+            {
+              "key": "B",
+              "text": "Substitution"
+            },
+            {
+              "key": "C",
+              "text": "Supply and Demand"
+            },
+            {
+              "key": "D",
+              "text": "Anticipation"
+            }
+          ],
+          "correctOptionKey": "C"
+        }
+      ]
+    },
+    {
+      "category": "Main Exam",
+      "sourceFile": "Main Exam 2.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A lease that calls for increases in rent at specific periods of time is known as a:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Percentage Lease."
+            },
+            {
+              "key": "B",
+              "text": "Estate for years."
+            },
+            {
+              "key": "C",
+              "text": "Graduated Lease."
+            },
+            {
+              "key": "D",
+              "text": "Adjustable Lease."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 2,
+          "question": "John, a property manager, will work in the best interest of:",
+          "options": [
+            {
+              "key": "A",
+              "text": "His company."
+            },
+            {
+              "key": "B",
+              "text": "The tenant."
+            },
+            {
+              "key": "C",
+              "text": "The property owner."
+            },
+            {
+              "key": "D",
+              "text": "His own best interests."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 3,
+          "question": "If a parcel of property is abandoned, the state could take ownership of the property via:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eminent Domain."
+            },
+            {
+              "key": "B",
+              "text": "Condemnation."
+            },
+            {
+              "key": "C",
+              "text": "Escheat"
+            },
+            {
+              "key": "D",
+              "text": "Taxation."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 4,
+          "question": "If John signed a contract to sell his property to Sandra and changed his mind two days before the closing, Sandra would have the following option:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sue for Adverse Possession"
+            },
+            {
+              "key": "B",
+              "text": "Sue for Unlawful Detainer"
+            },
+            {
+              "key": "C",
+              "text": "Sue for Acceleration of Sale"
+            },
+            {
+              "key": "D",
+              "text": "Sue for Specific Performance"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 5,
+          "question": "If a mortgage broker charged John an interest rate that was higher than the law allowed, it would be referred to as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mortgage Gouging."
+            },
+            {
+              "key": "B",
+              "text": "Usury."
+            },
+            {
+              "key": "C",
+              "text": "Stepped Up Mortgage."
+            },
+            {
+              "key": "D",
+              "text": "Acceleration Mortgage."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 6,
+          "question": "The listing price of a property is determined by the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employing Broker."
+            },
+            {
+              "key": "B",
+              "text": "Salesperson."
+            },
+            {
+              "key": "C",
+              "text": "Owner."
+            },
+            {
+              "key": "D",
+              "text": "Real Estate Board."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "Ifwe utilize legal descriptions to outline a property by a series of directions and distances from a specific point of beginning, we are referring to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Government Rectangular Survey."
+            },
+            {
+              "key": "B",
+              "text": "Metes and Bounds."
+            },
+            {
+              "key": "C",
+              "text": "Lot and Block System."
+            },
+            {
+              "key": "D",
+              "text": "Base Lines and Meridians."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 8,
+          "question": "A holdover tenant does the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Renews a lease"
+            },
+            {
+              "key": "B",
+              "text": "Becomes a TAW"
+            },
+            {
+              "key": "C",
+              "text": "Remains in possession of a rental unit without permission"
+            },
+            {
+              "key": "D",
+              "text": "Creates an estate for years"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 9,
+          "question": "If an appraiser is utilizing the income approach to determine value, the appraiser is looking at which type of property?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A cooperative apartment unit"
+            },
+            {
+              "key": "B",
+              "text": "A townhouse"
+            },
+            {
+              "key": "C",
+              "text": "An office building"
+            },
+            {
+              "key": "D",
+              "text": "A vacant parcel of land"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 10,
+          "question": "John has a title insurance policy that protects against losses that:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Are caused by unrecorded easements that the policy does not recognize."
+            },
+            {
+              "key": "B",
+              "text": "Are caused by recorded easements that the policy does not recognize."
+            },
+            {
+              "key": "C",
+              "text": "Are caused by changes in local zoning ordinances."
+            },
+            {
+              "key": "D",
+              "text": "Are caused by an encumbrance to which the policy was not aware of."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 11,
+          "question": "When we refer to \"time is of the essence\", we are indicating:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Within one business day"
+            },
+            {
+              "key": "B",
+              "text": "ASAP"
+            },
+            {
+              "key": "C",
+              "text": "Within one calendar day"
+            },
+            {
+              "key": "D",
+              "text": "Within seven business days"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 12,
+          "question": "Susan is a lessee who is relieved from her obligation to furnish rental payments under which circumstance?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She abandoned her lease"
+            },
+            {
+              "key": "B",
+              "text": "She filed for personal bankruptcy"
+            },
+            {
+              "key": "C",
+              "text": "She constructively evicts"
+            },
+            {
+              "key": "D",
+              "text": "She files for unlawful detainer"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 13,
+          "question": "A land owner leased his property to a tenant that utilized the property for a wt farm. The owner sold the property in the month of August. In this case, at the time of the closing, the crops belongs to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The original owner since it is his land."
+            },
+            {
+              "key": "B",
+              "text": "The tenant because they are emblements."
+            },
+            {
+              "key": "C",
+              "text": "The new owner because he purchased the land."
+            },
+            {
+              "key": "D",
+              "text": "The bank since they put up money for the purchase."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 14,
+          "question": "John has a loan that allows the interest rate to fluctuate. He has what type of loan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A reverse annuity mortgage"
+            },
+            {
+              "key": "B",
+              "text": "An adjustable rate mortgage"
+            },
+            {
+              "key": "C",
+              "text": "A participation mortgage"
+            },
+            {
+              "key": "D",
+              "text": "A compound interest mortgage"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 15,
+          "question": "If an appraiser is using the cost approach to determine the value of a single family home, the appraiser would do the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Establish the net operating income"
+            },
+            {
+              "key": "B",
+              "text": "Establish the replacement cost and subtract depreciation"
+            },
+            {
+              "key": "C",
+              "text": "Establish a list of comparable sales"
+            },
+            {
+              "key": "D",
+              "text": "Determine the income generated minus depreciation"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 16,
+          "question": "If we are referring to the sale of securities, we are referring to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stocks and cooperative."
+            },
+            {
+              "key": "B",
+              "text": "A pool of rental properties."
+            },
+            {
+              "key": "C",
+              "text": "Vacation properties."
+            },
+            {
+              "key": "D",
+              "text": "High rise buildings."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 17,
+          "question": "The owner of a single family house will itemize their deductioris when preparing their income taxes. The following can be deducted:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Repairs incurred to the property"
+            },
+            {
+              "key": "B",
+              "text": "Depreciation of the property"
+            },
+            {
+              "key": "C",
+              "text": "Principal paid on the loan"
+            },
+            {
+              "key": "D",
+              "text": "Interest paid on the loan ....."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 18,
+          "question": "A property manager will determine the net operating income of a property by taking the effective gross income and subtracting ....",
+          "options": [
+            {
+              "key": "A",
+              "text": "Annual gross income."
+            },
+            {
+              "key": "B",
+              "text": "Operating costs."
+            },
+            {
+              "key": "C",
+              "text": "Debt service"
+            },
+            {
+              "key": "D",
+              "text": "Effective gross costs."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 19,
+          "question": "The Federal Fair Housing Act of 1988 would allow for the following individual to obtain familial status exemption:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A 18 year old single person"
+            },
+            {
+              "key": "B",
+              "text": "A 63 year old retired police officer"
+            },
+            {
+              "key": "C",
+              "text": "A 52 year old retired government office worker"
+            },
+            {
+              "key": "D",
+              "text": "A 39 year old stockbroker"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 20,
+          "question": "A verbal agreement regarding the sale of real property is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Valid under oral contracts."
+            },
+            {
+              "key": "B",
+              "text": "Standard at the offer stage."
+            },
+            {
+              "key": "C",
+              "text": "Not enforceable in a court of law."
+            },
+            {
+              "key": "D",
+              "text": "Binding after arbitration."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 21,
+          "question": "If John donates a parcel of land to his town to be used as a park, it would be called:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Eminent Domain."
+            },
+            {
+              "key": "B",
+              "text": "Adverse Possession ."
+            },
+            {
+              "key": "C",
+              "text": "Dedication"
+            },
+            {
+              "key": "D",
+              "text": "Escheat."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 22,
+          "question": "A real estate broker could be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Secret Agent"
+            },
+            {
+              "key": "B",
+              "text": "Binding Agent"
+            },
+            {
+              "key": "C",
+              "text": "Special Agent"
+            },
+            {
+              "key": "D",
+              "text": "Office Agent"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 23,
+          "question": "Under Regulation Z, a lender is required to provide the borrower with the following document:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Contract for Deed"
+            },
+            {
+              "key": "B",
+              "text": "Statement of Interest"
+            },
+            {
+              "key": "C",
+              "text": "Mortgage Schedule"
+            },
+            {
+              "key": "D",
+              "text": "Disclosure Statement"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 24,
+          "question": "If an appraiser is utilizing the sales comparison approach, which records may be used to assist in determining value of a subject property?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Current listings"
+            },
+            {
+              "key": "B",
+              "text": "Distress Sales"
+            },
+            {
+              "key": "C",
+              "text": "Multiple listing records"
+            },
+            {
+              "key": "D",
+              "text": "Foreclosure and estate sales"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "The process utilized to retain a property being lost through the foreclosure process is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Equity of Inaction."
+            },
+            {
+              "key": "B",
+              "text": "Equity of Redemption."
+            },
+            {
+              "key": "C",
+              "text": "Equity of Acceleration."
+            },
+            {
+              "key": "D",
+              "text": "Equity of Restriction."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 26,
+          "question": "If a town allows a property to be utilized in a manner inconsistent with current zoning regulations because the use existed prior to zoning charges, it would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Variance."
+            },
+            {
+              "key": "B",
+              "text": "Existing Use."
+            },
+            {
+              "key": "C",
+              "text": "Nonconforming Use."
+            },
+            {
+              "key": "D",
+              "text": "Special Use."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 27,
+          "question": "A condominium development has a tennis and bocce court. These enhancements would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Special assessed enhancements."
+            },
+            {
+              "key": "B",
+              "text": "Defeasible interests."
+            },
+            {
+              "key": "C",
+              "text": "Common elements."
+            },
+            {
+              "key": "D",
+              "text": "Special limited common elements."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 28,
+          "question": "If the value of a property is decreasing due to the presence of a neighboring waste disposal site, it is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Straight line depreciation."
+            },
+            {
+              "key": "B",
+              "text": "Economic obsolescence."
+            },
+            {
+              "key": "C",
+              "text": "Actual deteriation"
+            },
+            {
+              "key": "D",
+              "text": "Functional obsolescence."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 29,
+          "question": "If a new buyer assumed an existing loan from the previous owner, the lender may accelerate the loan due to the following mortgage clause:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Due On Sale Clause"
+            },
+            {
+              "key": "B",
+              "text": "Defeasance Clause"
+            },
+            {
+              "key": "C",
+              "text": "Prepayment Penalty Clause I,.)"
+            },
+            {
+              "key": "D",
+              "text": "Equity of Redemption l.a...,I Clause 'v.) 'le.I' .I"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 30,
+          "question": "When a salesperson arranges to sell a property, they are establishing a listing contract between:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Broker and seller."
+            },
+            {
+              "key": "B",
+              "text": "Seller and buyer."
+            },
+            {
+              "key": "C",
+              "text": "Salesperson and seller."
+            },
+            {
+              "key": "D",
+              "text": "Salesperson and buyer."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 31,
+          "question": "An owner of a cooperative apartment and an owner of a condominium would:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Receive a unit deed"
+            },
+            {
+              "key": "B",
+              "text": "Receive an annual property tax bill"
+            },
+            {
+              "key": "C",
+              "text": "Receive an assessment notice"
+            },
+            {
+              "key": "D",
+              "text": "Receive ownership status of real property"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 32,
+          "question": "Which property would be appraised by using the sales comparison approach?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A commercial strip center"
+            },
+            {
+              "key": "B",
+              "text": "A recently closed house of worship"
+            },
+            {
+              "key": "C",
+              "text": "A fifty unit apartment complex"
+            },
+            {
+              "key": "D",
+              "text": "A modem single family home"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 33,
+          "question": "Braintree Luxury Condominiums is a desirable place to purchase. The complex has a gym, tennis courts and a swimming pool. These amenities could be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Limited common elements."
+            },
+            {
+              "key": "B",
+              "text": "Fee simple ownership elements."
+            },
+            {
+              "key": "C",
+              "text": "Leasehold elements."
+            },
+            {
+              "key": "D",
+              "text": "Common elements."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 34,
+          "question": "A retail chain leases property from Jane Jones to build a new store. The retail chain has what type of interest in the property?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Reversionary interest"
+            },
+            {
+              "key": "B",
+              "text": "A sale/lease back interest"
+            },
+            {
+              "key": "C",
+              "text": "A packaged interest"
+            },
+            {
+              "key": "D",
+              "text": "A leasehold interest"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 35,
+          "question": "Joseph, a homeowner, plans to go to Europe for a year. He gave the rental listing for his apartment to ABC Real Estate and asked the agent he hired to only rent to a white person. In this case:",
+          "options": [
+            {
+              "key": "A",
+              "text": "It would be okay to limit the rental because he is returning within a year."
+            },
+            {
+              "key": "B",
+              "text": "It would be okay because the property was owner occupied."
+            },
+            {
+              "key": "C",
+              "text": "It would be a violation of the law because it violates the Federal Fair Housing Act."
+            },
+            {
+              "key": "D",
+              "text": "It would be a violation of the law because he needs to obtain a waiver."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 36,
+          "question": "The lender requires the buyer to purchase title insurance when they close on a property. This title insurance covers:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The borrower if unrecorded liens are discovered."
+            },
+            {
+              "key": "B",
+              "text": "The lender if the borrower fails to make the scheduled payments."
+            },
+            {
+              "key": "C",
+              "text": "The borrower if he/she fails to make the scheduled payments."
+            },
+            {
+              "key": "D",
+              "text": "The lender if existing title defects were not discovered."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 37,
+          "question": "The 1988 Federal Fair Housing Act would recognize the following situations as a handicapped or disabled status:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Addiction to illegal stimulants"
+            },
+            {
+              "key": "B",
+              "text": "Inability to qualify for government backed programs"
+            },
+            {
+              "key": "C",
+              "text": "Possessing an intellectual impairment that hinders major life functions"
+            },
+            {
+              "key": "D",
+              "text": "Possessing a background from poverty"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 38,
+          "question": "If an owner was transferring an uncertain interest in a property, they would want to use the following deed:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Quitclaim Deed"
+            },
+            {
+              "key": "B",
+              "text": "Uncertain Grant Deed"
+            },
+            {
+              "key": "C",
+              "text": "Warranty Deed"
+            },
+            {
+              "key": "D",
+              "text": "Special Warranty Deed"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 39,
+          "question": "The financial figure that accounts for the price that a willing, informed buyer would pay and a willing, informed seller would accept is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The market value."
+            },
+            {
+              "key": "B",
+              "text": "The assessed value."
+            },
+            {
+              "key": "C",
+              "text": "The purchase value."
+            },
+            {
+              "key": "D",
+              "text": "The cost value. ',_/"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 40,
+          "question": "The lessee of an office unit pays a fixed monthly rent plus expenses of insurance, utilities and taxes. They have the following lease:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Commercial lease"
+            },
+            {
+              "key": "B",
+              "text": "Office lease"
+            },
+            {
+              "key": "C",
+              "text": "Gross lease"
+            },
+            {
+              "key": "D",
+              "text": "Net lease"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 41,
+          "question": "John owns an apartment building with 200 units of housing. There are 16 empty units at this time. The vacancy rate for the building is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "84% 'Will"
+            },
+            {
+              "key": "B",
+              "text": "12.5%"
+            },
+            {
+              "key": "C",
+              "text": "8%"
+            },
+            {
+              "key": "D",
+              "text": "68% '.....I,"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 42,
+          "question": "At a closing, the seller would pay the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Outstanding escrow. 'a.I"
+            },
+            {
+              "key": "B",
+              "text": "Mandatory title insurance policy."
+            },
+            {
+              "key": "C",
+              "text": "Title search fee."
+            },
+            {
+              "key": "D",
+              "text": "Real estate commission. val"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 43,
+          "question": "Who decides the amount of earnest money that a buyer provides when purchasing property?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The real estate agent"
+            },
+            {
+              "key": "B",
+              "text": "The anti trust determination"
+            },
+            {
+              "key": "C",
+              "text": "The legislature"
+            },
+            {
+              "key": "D",
+              "text": "The seller and buyer"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 44,
+          "question": "If a buyer took over a seller's existing loan, the following is true:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The seller is no longer responsible for the loan."
+            },
+            {
+              "key": "B",
+              "text": "The seller is still responsible for the loan payments."
+            },
+            {
+              "key": "C",
+              "text": "The buyer is solely responsible for the prior loan agreement."
+            },
+            {
+              "key": "D",
+              "text": "The buyer may mortgage the property as the new owner with the new mortgage gaining priority status. ...I"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 45,
+          "question": "John purchased a property for $375,000. He made a $50,000 downpayment. The lender placed a lien against the property for $325,000. What term best describes the difference between the $375,000 and the $325,000?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The cash value"
+            },
+            {
+              "key": "B",
+              "text": "The LTV ratio"
+            },
+            {
+              "key": "C",
+              "text": "The downpayment"
+            },
+            {
+              "key": "D",
+              "text": "The equity"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 46,
+          "question": "John and Jane purchased a home as tenants in common. If John passed away, which situation would be true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jane becomes the sole owner of the property in fee simple."
+            },
+            {
+              "key": "B",
+              "text": "Jane now owns the property as a tenant by entirety."
+            },
+            {
+              "key": "C",
+              "text": "Jane has a life estate interest in John's share."
+            },
+            {
+              "key": "D",
+              "text": "Jane retains her interest in the property, and John's share is given to his estate."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 47,
+          "question": "Contracts must contain certain elements to be valid and enforceable. Which of the following is a key element?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Contains a land description of the property"
+            },
+            {
+              "key": "B",
+              "text": "Contains a habendum clause"
+            },
+            {
+              "key": "C",
+              "text": "Contain the signature of the buyer"
+            },
+            {
+              "key": "D",
+              "text": "Contains a fee simple recording"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 48,
+          "question": "If we are referring to an encroachment issue, we would be referring to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The R.O.W. that utility companies possess to cross over land"
+            },
+            {
+              "key": "B",
+              "text": "The right that one party has to cross over land that belongs to another"
+            },
+            {
+              "key": "C",
+              "text": "The right to use property that belongs to another for a limited period of time"
+            },
+            {
+              "key": "D",
+              "text": "A garage built by a neighbor that crosses over boundary lines between two properties"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 49,
+          "question": "When referring to the Federal National Mortgage Association, we are referring to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "An organization that guarantees mortgages."
+            },
+            {
+              "key": "B",
+              "text": "An organization that insures mortgages."
+            },
+            {
+              "key": "C",
+              "text": "An organization that purchases mortgages."
+            },
+            {
+              "key": "D",
+              "text": "An organization that set mortgage rates."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 50,
+          "question": "If Sue pledged her 60\" high definition television and hose stereo system, along with her condominium, as security for a loan, what type of mortgage would she provide:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Partial Release Mortgage"
+            },
+            {
+              "key": "B",
+              "text": "Package Mortgage"
+            },
+            {
+              "key": "C",
+              "text": "Chattel Mortgage"
+            },
+            {
+              "key": "D",
+              "text": "Blanket Mortgage"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 51,
+          "question": "Broker Jane and agent Jim are real estate professionals in Boston. Broker Jane is the listing agent of a property, and agent Jim is the selling agent for that property. Agent Jim has not met the seller of the property, and broker Jane has not met the buyer of the property. There are not any written agreements between agent Jim and the buyer. What is the relationship status?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Broker Jane is a sub agent of agent Jim."
+            },
+            {
+              "key": "B",
+              "text": "Broker Jane and agent Jim represent the seller."
+            },
+            {
+              "key": "C",
+              "text": "Broker Jane and agent Jim represent the buyer and seller."
+            },
+            {
+              "key": "D",
+              "text": "Agent Jim represents the buyer."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 52,
+          "question": "John is the owner occupant of a two family house. He hires a real estate agent to find him tenants. He asks the agent to locate tenants of a Catholic background. In this case, the agent should (reminder John owner occupies the home);",
+          "options": [
+            {
+              "key": "A",
+              "text": "Take the listing and show the property to Catholics only."
+            },
+            {
+              "key": "B",
+              "text": "Take the listing but do not show the property until the owner is more flexible."
+            },
+            {
+              "key": "C",
+              "text": "Take the listing and follow the owner's direction because it is an owner occupied two family."
+            },
+            {
+              "key": "D",
+              "text": "Do not take the listing because it would be illegal. / ....,;"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 53,
+          "question": "Susan and her two sons own property equally. Susan passed away and left one third of her interest in the property to one daughter and two thirds to the other daughter. What type of ownership existed: \\isl",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tenancy in Severalty"
+            },
+            {
+              "key": "B",
+              "text": "Tenants by the Entirety ......"
+            },
+            {
+              "key": "C",
+              "text": "Joint Tenants"
+            },
+            {
+              "key": "D",
+              "text": "Tenants in Common"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 54,
+          "question": "When referring to the income approach, which situation would be correct?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It provides the greatest estimate of value."
+            },
+            {
+              "key": "B",
+              "text": "It is used when determining the value of single family properties."
+            },
+            {
+              "key": "C",
+              "text": "It determines the value based on the return of income earned."
+            },
+            {
+              "key": "D",
+              "text": "It is the most widely method used."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 55,
+          "question": "Joe purchased a property that allowed him to take over the seller's existing loan. In this situation, which would be true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The seller is relieved from their obligation to repay the original loan because a new person took over the loan."
+            },
+            {
+              "key": "B",
+              "text": "The buyer is now responsible for all loan payments, if they are foreclosed on."
+            },
+            {
+              "key": "C",
+              "text": "The seller is still obligated to pay the loan if the buyer defaulted on the loan."
+            },
+            {
+              "key": "D",
+              "text": "The buyer must pay a prepayment penalty on behalf of the seller."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 56,
+          "question": "A person with a visual impairment filed an application for a two bedroom apartment. The apartment building has a no pet policy. The person has a seeing eye dog. In this situation:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thetenantcannotrentthe apartment due to the no pet policy."
+            },
+            {
+              "key": "B",
+              "text": "The tenant must pay an increased amount for a security deposit."
+            },
+            {
+              "key": "C",
+              "text": "The tenant would have to pay for any damages incurred by the dog."
+            },
+            {
+              "key": "D",
+              "text": "The tenant must keep the dog in the backyard."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 57,
+          "question": "Which item of personal property would become part of the real estate via attachment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Personalty"
+            },
+            {
+              "key": "B",
+              "text": "Appliances"
+            },
+            {
+              "key": "C",
+              "text": "Emblements"
+            },
+            {
+              "key": "D",
+              "text": "Fixtures"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 58,
+          "question": "John, a Vietnam veteran, is entitled to which of the following if he repaid his VA loan agreement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Release of his Certificate of Reasonable Value"
+            },
+            {
+              "key": "B",
+              "text": "A Restoration of his CRV"
+            },
+            {
+              "key": "C",
+              "text": "A Restoration of loan benefits"
+            },
+            {
+              "key": "D",
+              "text": "A Release of his Equity of Redemption from the VA"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 59,
+          "question": "Jane listed a property for sale. She is working hard to sell the property, but the seller is placing unreasonable demands on her. In this situation, Jane would:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not be able to do anything because the seller has a contract with her."
+            },
+            {
+              "key": "B",
+              "text": "Be able to give 30 days notice to the seller to find a new agent."
+            },
+            {
+              "key": "C",
+              "text": "Be able to rescind the listing agreement without consent of the owners."
+            },
+            {
+              "key": "D",
+              "text": "Be able to sue the seller to get released from the agreement."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 60,
+          "question": "Joe is purchasing a three bedroom condominium. In addition to the condominium, he is purchasing a portable generator from the seller. Which document will assist with the purchase?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A wrapped together loan"
+            },
+            {
+              "key": "B",
+              "text": "An option loan"
+            },
+            {
+              "key": "C",
+              "text": "A Bill of Sale"
+            },
+            {
+              "key": "D",
+              "text": "An Adjusted Rate Mortgage"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 61,
+          "question": "At the real estate closing, the buyer would pay for the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Deed preparation '."
+            },
+            {
+              "key": "B",
+              "text": "Recording Stamps ._i"
+            },
+            {
+              "key": "C",
+              "text": "Redemption Stamps I"
+            },
+            {
+              "key": "D",
+              "text": "Mortgage recording I_. ._"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 62,
+          "question": "Who decides the final commission charged by the real estate broker? l._i",
+          "options": [
+            {
+              "key": "A",
+              "text": "The State Real Estate Board .. 1"
+            },
+            {
+              "key": "B",
+              "text": "The Massachusetts Association of Realtor"
+            },
+            {
+              "key": "C",
+              "text": "The broker and principal"
+            },
+            {
+              "key": "D",
+              "text": "The Multiple Listing Board '._I I , ,I 1 , al 'w:I _. I , I"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 63,
+          "question": "John hired agent Jane to sell his property. One week after taking the listing, John told agent Jane that the basement has leaked twice during the past year, but she should not tell prospective buyers because he thinks he fixed the problem when he regraded the contour of the land around the house. In this case, agent Jane should:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Not tell prospective buyers because the problem is fixed."
+            },
+            {
+              "key": "B",
+              "text": "Only tell prospective buyers who ask questions about the basement about the leak."
+            },
+            {
+              "key": "C",
+              "text": "Tell the buyers to have a meeting with the seller about issues pertaining to the house."
+            },
+            {
+              "key": "D",
+              "text": "Inform John that she must disclose the information regarding the leak."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 64,
+          "question": "The seller would be responsible for paying the following expenses at a closing:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title Insurance"
+            },
+            {
+              "key": "B",
+              "text": "Excise Tax Stamps"
+            },
+            {
+              "key": "C",
+              "text": "Title Search"
+            },
+            {
+              "key": "D",
+              "text": "Closing Attorney's fee"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 65,
+          "question": "Sam owns a single family house. Which expense can be claimed when his taxes are filed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A roof replacement"
+            },
+            {
+              "key": "B",
+              "text": "Debt service"
+            },
+            {
+              "key": "C",
+              "text": "Principal payments"
+            },
+            {
+              "key": "D",
+              "text": "Interest payments"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 66,
+          "question": "Jane took a listing for a property. She obtained a copy of the deed and noticed a few limitations regarding the use of the property. These limitations would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Herediments"
+            },
+            {
+              "key": "B",
+              "text": "Holographic Amendments"
+            },
+            {
+              "key": "C",
+              "text": "Restrictive covenants"
+            },
+            {
+              "key": "D",
+              "text": "Condemnation"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 67,
+          "question": "Jane is building a shopping mall. She wants the rent due from the future tenants to reflect the income generated from the tenants operation. Which type of lease agreement will Jane be looking for?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Net Lease"
+            },
+            {
+              "key": "B",
+              "text": "Net Netlease"
+            },
+            {
+              "key": "C",
+              "text": "Percentage Lease"
+            },
+            {
+              "key": "D",
+              "text": "Package Lease"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 68,
+          "question": "When we refer to the Law of Agency, which of the following best describes the situation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It establishes a written contract for people to be bound by."
+            },
+            {
+              "key": "B",
+              "text": "It does not establish guidelines."
+            },
+            {
+              "key": "C",
+              "text": "It would establish a fiduciary relationship between the broker and seller."
+            },
+            {
+              "key": "D",
+              "text": "It would refer laws established by the Commonwealth of Massachusetts."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 69,
+          "question": "A requirement under the Truth in the Lending Act would be for a lender to provide a loan applicant with a copy of:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The deposit check"
+            },
+            {
+              "key": "B",
+              "text": "The deed to the house"
+            },
+            {
+              "key": "C",
+              "text": "The Disclosure Statement"
+            },
+            {
+              "key": "D",
+              "text": "A financial analysis"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 70,
+          "question": "If an existing mortgage can be placed below a mortgage to be recorded in the future, the following clause must be present in the existing mortgage:",
+          "options": [
+            {
+              "key": "A",
+              "text": "An Assignment Clause"
+            },
+            {
+              "key": "B",
+              "text": "An Exchange Clause"
+            },
+            {
+              "key": "C",
+              "text": "A Subordination Clause"
+            },
+            {
+              "key": "D",
+              "text": "A Priority Clause"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 71,
+          "question": "An agent is showing a property that has a 20 foot easement in front of the property line. The town zoning calls for a building to have a 30 foot setback from the property line. In this situation:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A building can be erected 10 feet from the property line because the easement is a natural buffer."
+            },
+            {
+              "key": "B",
+              "text": "A building can be erected 30 feet from the property line because the easement has no bearing to building placement."
+            },
+            {
+              "key": "C",
+              "text": "A building cannot be built without permission from the easement owners."
+            },
+            {
+              "key": "D",
+              "text": "A building cannot be erected at all."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 72,
+          "question": "The Settlement Statement (HUD 1) is a document prepared by the closing attorney or settlement agent. This docfilnent cohtalml;tllmsfo1l<Suingnent information:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The costs associated with the seller."
+            },
+            {
+              "key": "B",
+              "text": "The costs associated with the buyer."
+            },
+            {
+              "key": "C",
+              "text": "The costs associated with the seller and buyer."
+            },
+            {
+              "key": "D",
+              "text": "The costs associated with a HUD loan."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 73,
+          "question": "John purchased a home for $500,000.00 and obtained a loan for 100% financing. Which type of loan might he have?",
+          "options": [
+            {
+              "key": "A",
+              "text": "FHA Loan"
+            },
+            {
+              "key": "B",
+              "text": "First time homebuyer"
+            },
+            {
+              "key": "C",
+              "text": "Triple AAA Credit Loan"
+            },
+            {
+              "key": "D",
+              "text": "VA Loan"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 74,
+          "question": "Which item would not need additional disclosure information when preparing a newspaper advertisement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$25,000 downpayment"
+            },
+            {
+              "key": "B",
+              "text": "$1,500 monthly payments"
+            },
+            {
+              "key": "C",
+              "text": "20 years to complete the loan"
+            },
+            {
+              "key": "D",
+              "text": "6.875 annual percentage rate"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 75,
+          "question": "John defaulted on his lease and abandoned the property. In this case, the property manager will:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bill John for triple damages for the defaulted rent."
+            },
+            {
+              "key": "B",
+              "text": "Sue John for Constructive Eviction."
+            },
+            {
+              "key": "C",
+              "text": "Inform John that he is responsible for the payments."
+            },
+            {
+              "key": "D",
+              "text": "Keep John's security deposit and find a new tenant."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 76,
+          "question": "Suzie makes an offer on a property and provides a check for $1,000 as an earnest deposit. The lender she applied for the loan through approved her financing. Despite this approval, Suzie decides not to purchase the property and writes to the seller informing them of her decision. In this situation, which would be true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Suzie is entitled to her $1,000 back because she notified the bank about the situation."
+            },
+            {
+              "key": "B",
+              "text": "Suzie owes the real estate office a commission because she backed out of the deal."
+            },
+            {
+              "key": "C",
+              "text": "The seller can sue Suzie for contract breach and keep the earnest money."
+            },
+            {
+              "key": "D",
+              "text": "Suzie can sue the real estate office to get out of the deal."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 77,
+          "question": "Joe and Jean are married and took ownership as Tenants in Common. This type of ownership allows for:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Unequal ownership interests"
+            },
+            {
+              "key": "B",
+              "text": "Ownership in severalty"
+            },
+            {
+              "key": "C",
+              "text": "Ownership for married persons"
+            },
+            {
+              "key": "D",
+              "text": "Survivorship interest"
+            }
+          ],
+          "correctOptionKey": "A"
+        }
+      ]
+    }
+  ]
+}

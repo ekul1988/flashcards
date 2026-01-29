@@ -3,11 +3,26 @@
 import { useState, useEffect } from 'react'
 import coreData from '../data/flashcards_core.json'
 import acronymsData from '../data/flashcards_acronyms.json'
+import testData from '../data/Real_Estate_Tests_Merged.json'
 
 type Flashcard = {
   id: string
   question: string
   answer: string
+}
+
+type TestQuestion = {
+  id: number
+  question: string
+  options: { key: string; text: string }[]
+  correctOptionKey: string
+  category: string
+}
+
+type CategoryResult = {
+  name: string
+  correct: number
+  total: number
 }
 
 // Add prefix to IDs to make them unique across decks
@@ -20,6 +35,12 @@ const acronymCards: Flashcard[] = acronymsData.map(card => ({
   ...card,
   id: `acronym-${card.id}`
 }))
+
+// Process test data
+const testCategories = testData.categories.map(cat => cat.category)
+const allTestQuestions: TestQuestion[] = testData.categories.flatMap(cat =>
+  cat.questions.map(q => ({ ...q, category: cat.category }))
+)
 
 type Deck = 'core' | 'acronyms' | 'both'
 
@@ -42,6 +63,10 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 export default function Home() {
+  // App mode: flashcards or test
+  const [appMode, setAppMode] = useState<'select' | 'flashcards' | 'test'>('select')
+
+  // Flashcard state
   const [deck, setDeck] = useState<Deck>('core')
   const [mode, setMode] = useState<'all' | 'wrong'>('all')
   const [wrongIds, setWrongIds] = useState<string[]>([])
@@ -52,6 +77,17 @@ export default function Home() {
   const [showAnswer, setShowAnswer] = useState(false)
   const [sessionComplete, setSessionComplete] = useState(false)
   const [sessionStats, setSessionStats] = useState({ right: 0, wrong: 0 })
+
+  // Test state
+  const [selectedCategories, setSelectedCategories] = useState<string[]>(testCategories)
+  const [testQuestionCount, setTestQuestionCount] = useState(20)
+  const [testStarted, setTestStarted] = useState(false)
+  const [testQuestions, setTestQuestions] = useState<TestQuestion[]>([])
+  const [testIndex, setTestIndex] = useState(0)
+  const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
+  const [answerRevealed, setAnswerRevealed] = useState(false)
+  const [testAnswers, setTestAnswers] = useState<{ question: TestQuestion; selected: string; correct: boolean }[]>([])
+  const [testComplete, setTestComplete] = useState(false)
 
   // Load wrong answers from localStorage on mount
   useEffect(() => {
@@ -136,6 +172,292 @@ export default function Home() {
     setWrongIds(prev => prev.filter(id => !deckCardIds.includes(id)))
   }
 
+  // Test functions
+  const availableTestQuestions = allTestQuestions.filter(q => selectedCategories.includes(q.category))
+  const maxTestQuestions = availableTestQuestions.length
+
+  useEffect(() => {
+    if (testQuestionCount > maxTestQuestions) {
+      setTestQuestionCount(Math.max(1, maxTestQuestions))
+    }
+  }, [maxTestQuestions, testQuestionCount])
+
+  const toggleCategory = (category: string) => {
+    setSelectedCategories(prev =>
+      prev.includes(category)
+        ? prev.filter(c => c !== category)
+        : [...prev, category]
+    )
+  }
+
+  const selectAllCategories = () => setSelectedCategories(testCategories)
+  const clearAllCategories = () => setSelectedCategories([])
+
+  const startTest = () => {
+    const questions = shuffle(availableTestQuestions).slice(0, testQuestionCount)
+    setTestQuestions(questions)
+    setTestIndex(0)
+    setSelectedAnswer(null)
+    setAnswerRevealed(false)
+    setTestAnswers([])
+    setTestComplete(false)
+    setTestStarted(true)
+  }
+
+  const submitAnswer = () => {
+    if (!selectedAnswer) return
+    const currentQuestion = testQuestions[testIndex]
+    const correct = selectedAnswer === currentQuestion.correctOptionKey
+    setTestAnswers(prev => [...prev, { question: currentQuestion, selected: selectedAnswer, correct }])
+    setAnswerRevealed(true)
+  }
+
+  const nextQuestion = () => {
+    if (testIndex + 1 >= testQuestions.length) {
+      setTestComplete(true)
+    } else {
+      setTestIndex(prev => prev + 1)
+      setSelectedAnswer(null)
+      setAnswerRevealed(false)
+    }
+  }
+
+  const endTest = () => {
+    setTestStarted(false)
+    setTestComplete(false)
+  }
+
+  const restartTest = () => {
+    startTest()
+  }
+
+  const getCategoryResults = (): CategoryResult[] => {
+    const results: Record<string, { correct: number; total: number }> = {}
+    testAnswers.forEach(answer => {
+      const cat = answer.question.category
+      if (!results[cat]) results[cat] = { correct: 0, total: 0 }
+      results[cat].total++
+      if (answer.correct) results[cat].correct++
+    })
+    return Object.entries(results)
+      .map(([name, data]) => ({ name, ...data }))
+      .sort((a, b) => (a.correct / a.total) - (b.correct / b.total))
+  }
+
+  const goBackToSelect = () => {
+    setAppMode('select')
+    setSessionStarted(false)
+    setTestStarted(false)
+  }
+
+  // App mode selection screen
+  if (appMode === 'select') {
+    return (
+      <div className="container">
+        <h1>Study Mode</h1>
+        <div className="mode-select">
+          <button className="mode-card" onClick={() => setAppMode('flashcards')}>
+            <div className="mode-title">Flash Cards</div>
+            <div className="mode-desc">Study with Q&A flashcards</div>
+          </button>
+          <button className="mode-card" onClick={() => setAppMode('test')}>
+            <div className="mode-title">Practice Tests</div>
+            <div className="mode-desc">Multiple choice quizzes</div>
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  // Test complete screen
+  if (testComplete) {
+    const categoryResults = getCategoryResults()
+    const totalCorrect = testAnswers.filter(a => a.correct).length
+    const totalQuestions = testAnswers.length
+    const percentage = Math.round((totalCorrect / totalQuestions) * 100)
+
+    return (
+      <div className="container">
+        <h1>Practice Test</h1>
+        <div className="complete">
+          <h2>Test Complete!</h2>
+          <div className="test-score">
+            <span className="score-number">{percentage}%</span>
+            <span className="score-detail">{totalCorrect} of {totalQuestions} correct</span>
+          </div>
+          <div className="category-results">
+            <h3>Results by Category</h3>
+            {categoryResults.map(cat => {
+              const pct = Math.round((cat.correct / cat.total) * 100)
+              const strength = pct >= 80 ? 'strong' : pct >= 60 ? 'medium' : 'weak'
+              return (
+                <div key={cat.name} className={`category-row ${strength}`}>
+                  <span className="category-name">{cat.name}</span>
+                  <span className="category-score">{cat.correct}/{cat.total} ({pct}%)</span>
+                </div>
+              )
+            })}
+          </div>
+          <div className="complete-buttons">
+            <button onClick={restartTest}>Take Again</button>
+            <button onClick={endTest} className="secondary">Change Settings</button>
+            <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  // Active test - show questions
+  if (testStarted) {
+    const currentQuestion = testQuestions[testIndex]
+    const lastAnswer = testAnswers[testAnswers.length - 1]
+    const wasCorrect = answerRevealed && lastAnswer?.correct
+
+    return (
+      <div className="container">
+        <h1>Practice Test</h1>
+        <div className="test-card">
+          <div className="card-label">Question {testIndex + 1} of {testQuestions.length}</div>
+          <div className="test-question">{currentQuestion.question}</div>
+          <div className="test-options">
+            {currentQuestion.options.map(opt => {
+              let optionClass = 'test-option'
+              if (answerRevealed) {
+                if (opt.key === currentQuestion.correctOptionKey) {
+                  optionClass += ' correct'
+                } else if (opt.key === selectedAnswer) {
+                  optionClass += ' incorrect'
+                }
+              } else if (selectedAnswer === opt.key) {
+                optionClass += ' selected'
+              }
+              return (
+                <button
+                  key={opt.key}
+                  className={optionClass}
+                  onClick={() => !answerRevealed && setSelectedAnswer(opt.key)}
+                  disabled={answerRevealed}
+                >
+                  <span className="option-key">{opt.key}</span>
+                  <span className="option-text">{opt.text}</span>
+                </button>
+              )
+            })}
+          </div>
+          {answerRevealed && (
+            <div className={`answer-feedback ${wasCorrect ? 'correct' : 'incorrect'}`}>
+              {wasCorrect ? 'Correct!' : `Incorrect. The correct answer is ${currentQuestion.correctOptionKey}.`}
+            </div>
+          )}
+        </div>
+        <button
+          className="start-button"
+          onClick={answerRevealed ? nextQuestion : submitAnswer}
+          disabled={!selectedAnswer}
+          style={{ opacity: selectedAnswer ? 1 : 0.5 }}
+        >
+          {answerRevealed
+            ? (testIndex + 1 >= testQuestions.length ? 'See Results' : 'Next Question')
+            : 'Submit Answer'}
+        </button>
+        <div className="stats">
+          <button
+            onClick={endTest}
+            style={{
+              background: 'transparent',
+              border: '1px solid #4a4a6a',
+              padding: '0.5rem 1rem',
+              borderRadius: '4px',
+              color: '#888',
+              cursor: 'pointer',
+              fontSize: '0.75rem'
+            }}
+          >
+            End Test
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  // Test setup screen
+  if (appMode === 'test') {
+    return (
+      <div className="container">
+        <h1>Practice Test</h1>
+        <div className="category-select">
+          <div className="category-header">
+            <span>Select Categories</span>
+            <div className="category-actions">
+              <button onClick={selectAllCategories}>All</button>
+              <button onClick={clearAllCategories}>None</button>
+            </div>
+          </div>
+          <div className="category-list">
+            {testCategories.map(cat => {
+              const count = allTestQuestions.filter(q => q.category === cat).length
+              return (
+                <label key={cat} className="category-item">
+                  <input
+                    type="checkbox"
+                    checked={selectedCategories.includes(cat)}
+                    onChange={() => toggleCategory(cat)}
+                  />
+                  <span>{cat} ({count})</span>
+                </label>
+              )
+            })}
+          </div>
+        </div>
+
+        {maxTestQuestions === 0 ? (
+          <div className="empty">
+            <p>Select at least one category to begin.</p>
+          </div>
+        ) : (
+          <>
+            <div className="slider-container">
+              <label>Number of questions: {testQuestionCount}</label>
+              <input
+                type="range"
+                min="1"
+                max={maxTestQuestions}
+                value={testQuestionCount}
+                onChange={(e) => setTestQuestionCount(Number(e.target.value))}
+              />
+              <div className="slider-labels">
+                <span>1</span>
+                <span>{maxTestQuestions}</span>
+              </div>
+            </div>
+
+            <button className="start-button" onClick={startTest}>
+              Start Test
+            </button>
+          </>
+        )}
+
+        <div className="stats">
+          <button
+            onClick={goBackToSelect}
+            style={{
+              background: 'transparent',
+              border: '1px solid #4a4a6a',
+              padding: '0.5rem 1rem',
+              borderRadius: '4px',
+              color: '#888',
+              cursor: 'pointer',
+              fontSize: '0.75rem'
+            }}
+          >
+            Back to Menu
+          </button>
+        </div>
+      </div>
+    )
+  }
+
   // Session complete screen
   if (sessionComplete) {
     return (
@@ -150,6 +472,7 @@ export default function Home() {
           <div className="complete-buttons">
             <button onClick={restartSession}>Start Again</button>
             <button onClick={endSession} className="secondary">Change Settings</button>
+            <button onClick={goBackToSelect} className="secondary">Back to Menu</button>
           </div>
         </div>
       </div>
@@ -259,8 +582,8 @@ export default function Home() {
         </>
       )}
 
-      {deckWrongCount > 0 && (
-        <div className="stats">
+      <div className="stats">
+        {deckWrongCount > 0 && (
           <button
             onClick={clearWrongAnswers}
             style={{
@@ -275,8 +598,22 @@ export default function Home() {
           >
             Clear Wrong List
           </button>
-        </div>
-      )}
+        )}
+        <button
+          onClick={goBackToSelect}
+          style={{
+            background: 'transparent',
+            border: '1px solid #4a4a6a',
+            padding: '0.5rem 1rem',
+            borderRadius: '4px',
+            color: '#888',
+            cursor: 'pointer',
+            fontSize: '0.75rem'
+          }}
+        >
+          Back to Menu
+        </button>
+      </div>
     </div>
   )
 }
