@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react'
 import coreData from '../data/flashcards_core.json'
 import acronymsData from '../data/flashcards_acronyms.json'
-import testData from '../data/Real_Estate_Tests_Merged.json'
 
 type Flashcard = {
   id: string
@@ -15,8 +14,12 @@ type TestQuestion = {
   id: number
   question: string
   options: { key: string; text: string }[]
-  correctOptionKey: string
   category: string
+}
+
+type CategoryInfo = {
+  name: string
+  count: number
 }
 
 type CategoryResult = {
@@ -35,12 +38,6 @@ const acronymCards: Flashcard[] = acronymsData.map(card => ({
   ...card,
   id: `acronym-${card.id}`
 }))
-
-// Process test data
-const testCategories = testData.categories.map(cat => cat.category)
-const allTestQuestions: TestQuestion[] = testData.categories.flatMap(cat =>
-  cat.questions.map(q => ({ ...q, category: cat.category }))
-)
 
 type Deck = 'core' | 'acronyms' | 'both'
 
@@ -79,15 +76,18 @@ export default function Home() {
   const [sessionStats, setSessionStats] = useState({ right: 0, wrong: 0 })
 
   // Test state
-  const [selectedCategories, setSelectedCategories] = useState<string[]>(testCategories)
+  const [categories, setCategories] = useState<CategoryInfo[]>([])
+  const [selectedCategories, setSelectedCategories] = useState<string[]>([])
   const [testQuestionCount, setTestQuestionCount] = useState(20)
   const [testStarted, setTestStarted] = useState(false)
   const [testQuestions, setTestQuestions] = useState<TestQuestion[]>([])
   const [testIndex, setTestIndex] = useState(0)
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null)
   const [answerRevealed, setAnswerRevealed] = useState(false)
+  const [correctAnswer, setCorrectAnswer] = useState<string | null>(null)
   const [testAnswers, setTestAnswers] = useState<{ question: TestQuestion; selected: string; correct: boolean }[]>([])
   const [testComplete, setTestComplete] = useState(false)
+  const [testLoading, setTestLoading] = useState(false)
 
   // Load wrong answers from localStorage on mount
   useEffect(() => {
@@ -172,12 +172,23 @@ export default function Home() {
     setWrongIds(prev => prev.filter(id => !deckCardIds.includes(id)))
   }
 
+  // Fetch test categories on mount
+  useEffect(() => {
+    fetch('/api/test/categories')
+      .then(res => res.json())
+      .then(data => {
+        setCategories(data.categories)
+        setSelectedCategories(data.categories.map((c: CategoryInfo) => c.name))
+      })
+  }, [])
+
   // Test functions
-  const availableTestQuestions = allTestQuestions.filter(q => selectedCategories.includes(q.category))
-  const maxTestQuestions = availableTestQuestions.length
+  const maxTestQuestions = categories
+    .filter(c => selectedCategories.includes(c.name))
+    .reduce((sum, c) => sum + c.count, 0)
 
   useEffect(() => {
-    if (testQuestionCount > maxTestQuestions) {
+    if (testQuestionCount > maxTestQuestions && maxTestQuestions > 0) {
       setTestQuestionCount(Math.max(1, maxTestQuestions))
     }
   }, [maxTestQuestions, testQuestionCount])
@@ -190,25 +201,48 @@ export default function Home() {
     )
   }
 
-  const selectAllCategories = () => setSelectedCategories(testCategories)
+  const selectAllCategories = () => setSelectedCategories(categories.map(c => c.name))
   const clearAllCategories = () => setSelectedCategories([])
 
-  const startTest = () => {
-    const questions = shuffle(availableTestQuestions).slice(0, testQuestionCount)
-    setTestQuestions(questions)
-    setTestIndex(0)
-    setSelectedAnswer(null)
-    setAnswerRevealed(false)
-    setTestAnswers([])
-    setTestComplete(false)
-    setTestStarted(true)
+  const startTest = async () => {
+    setTestLoading(true)
+    try {
+      const params = new URLSearchParams({
+        categories: selectedCategories.join(','),
+        count: testQuestionCount.toString()
+      })
+      const res = await fetch(`/api/test/questions?${params}`)
+      const data = await res.json()
+      setTestQuestions(data.questions)
+      setTestIndex(0)
+      setSelectedAnswer(null)
+      setCorrectAnswer(null)
+      setAnswerRevealed(false)
+      setTestAnswers([])
+      setTestComplete(false)
+      setTestStarted(true)
+    } finally {
+      setTestLoading(false)
+    }
   }
 
-  const submitAnswer = () => {
+  const submitAnswer = async () => {
     if (!selectedAnswer) return
     const currentQuestion = testQuestions[testIndex]
-    const correct = selectedAnswer === currentQuestion.correctOptionKey
-    setTestAnswers(prev => [...prev, { question: currentQuestion, selected: selectedAnswer, correct }])
+
+    const res = await fetch('/api/test/check', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        category: currentQuestion.category,
+        questionId: currentQuestion.id,
+        selectedAnswer
+      })
+    })
+    const data = await res.json()
+
+    setCorrectAnswer(data.correctAnswer)
+    setTestAnswers(prev => [...prev, { question: currentQuestion, selected: selectedAnswer, correct: data.correct }])
     setAnswerRevealed(true)
   }
 
@@ -218,6 +252,7 @@ export default function Home() {
     } else {
       setTestIndex(prev => prev + 1)
       setSelectedAnswer(null)
+      setCorrectAnswer(null)
       setAnswerRevealed(false)
     }
   }
@@ -324,7 +359,7 @@ export default function Home() {
             {currentQuestion.options.map(opt => {
               let optionClass = 'test-option'
               if (answerRevealed) {
-                if (opt.key === currentQuestion.correctOptionKey) {
+                if (opt.key === correctAnswer) {
                   optionClass += ' correct'
                 } else if (opt.key === selectedAnswer) {
                   optionClass += ' incorrect'
@@ -347,7 +382,7 @@ export default function Home() {
           </div>
           {answerRevealed && (
             <div className={`answer-feedback ${wasCorrect ? 'correct' : 'incorrect'}`}>
-              {wasCorrect ? 'Correct!' : `Incorrect. The correct answer is ${currentQuestion.correctOptionKey}.`}
+              {wasCorrect ? 'Correct!' : `Incorrect. The correct answer is ${correctAnswer}.`}
             </div>
           )}
         </div>
@@ -395,19 +430,16 @@ export default function Home() {
             </div>
           </div>
           <div className="category-list">
-            {testCategories.map(cat => {
-              const count = allTestQuestions.filter(q => q.category === cat).length
-              return (
-                <label key={cat} className="category-item">
-                  <input
-                    type="checkbox"
-                    checked={selectedCategories.includes(cat)}
-                    onChange={() => toggleCategory(cat)}
-                  />
-                  <span>{cat} ({count})</span>
-                </label>
-              )
-            })}
+            {categories.map(cat => (
+              <label key={cat.name} className="category-item">
+                <input
+                  type="checkbox"
+                  checked={selectedCategories.includes(cat.name)}
+                  onChange={() => toggleCategory(cat.name)}
+                />
+                <span>{cat.name} ({cat.count})</span>
+              </label>
+            ))}
           </div>
         </div>
 
@@ -432,8 +464,8 @@ export default function Home() {
               </div>
             </div>
 
-            <button className="start-button" onClick={startTest}>
-              Start Test
+            <button className="start-button" onClick={startTest} disabled={testLoading}>
+              {testLoading ? 'Loading...' : 'Start Test'}
             </button>
           </>
         )}
