@@ -54,7 +54,7 @@ function shuffle<T>(array: T[]): T[] {
   const shuffled = [...array]
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1))
-    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
   }
   return shuffled
 }
@@ -360,7 +360,7 @@ export default function Home() {
                 onClick={() => setAppMode('flashcards')}
                 aria-describedby="flashcard-desc"
               >
-                <span className="mode-title">Flash Cards</span>
+                <span className="mode-title">Flash Cards</span><br />
                 <span id="flashcard-desc" className="mode-desc">Study with Q&A flashcards</span>
               </button>
               <button
@@ -368,7 +368,7 @@ export default function Home() {
                 onClick={() => setAppMode('test')}
                 aria-describedby="test-desc"
               >
-                <span className="mode-title">Practice Tests</span>
+                <span className="mode-title">Practice Tests</span><br />
                 <span id="test-desc" className="mode-desc">Multiple choice quizzes</span>
               </button>
             </div>
@@ -548,7 +548,7 @@ export default function Home() {
             <>
               <div className="slider-container">
                 <label htmlFor="question-count-slider">
-                  Number of questions: <strong>{testQuestionCount}</strong>
+                  Select Number of questions: <strong>{testQuestionCount}</strong>
                 </label>
                 <input
                   id="question-count-slider"
