@@ -5311,7 +5311,7 @@
       ]
     },
     {
-      "category": "Main Exam",
+      "category": "General Practice Exam ",
       "sourceFile": "Main Exam 2.pdf",
       "questions": [
         {
@@ -7084,6 +7084,1875 @@
             }
           ],
           "correctOptionKey": "A"
+        }
+      ]
+    },
+    {
+      "category": "Mass Rules And Regs",
+      "sourceFile": "Mass Rules And Regs 2.pdf",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Broker Joe sold a property and the closing took place today. When does Broker Joe have to remit the escrow deposit?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the closing."
+            },
+            {
+              "key": "B",
+              "text": "The day before the closing."
+            },
+            {
+              "key": "C",
+              "text": "Within 7 days from the closing."
+            },
+            {
+              "key": "D",
+              "text": "Within a reasonable time."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 2,
+          "question": "When is a broker required to disclose his/her relationship with a prospective buyer?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Before taking an offer."
+            },
+            {
+              "key": "B",
+              "text": "At the signing of the purchase and sale contract."
+            },
+            {
+              "key": "C",
+              "text": "At the first personal meeting to discuss properties."
+            },
+            {
+              "key": "D",
+              "text": "At the signing of the offer."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 3,
+          "question": "How long is the Broker required to retain an agency disclosure form signed by a prospective buyer?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 years"
+            },
+            {
+              "key": "B",
+              "text": "1 year"
+            },
+            {
+              "key": "C",
+              "text": "6 months"
+            },
+            {
+              "key": "D",
+              "text": "3 years"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 4,
+          "question": "Documentary tax stamps amount to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "$2.28 per $500 of the"
+            },
+            {
+              "key": "B",
+              "text": "sale."
+            },
+            {
+              "key": "C",
+              "text": "$2.56 per $1,000 of the sale. $4.56 per $500 of the"
+            },
+            {
+              "key": "D",
+              "text": "sale. $15.00 per $1,000 of the sale."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 5,
+          "question": "Which party pays for the Documentary stamp tax?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buyer"
+            },
+            {
+              "key": "B",
+              "text": "Lender"
+            },
+            {
+              "key": "C",
+              "text": "Seller"
+            },
+            {
+              "key": "D",
+              "text": "Seller/Buyer jointly"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 6,
+          "question": "A listing contract that allows the listing office to be paid a commission equal to the difference between the selling price and the desired selling price is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Triple Net Agreement"
+            },
+            {
+              "key": "B",
+              "text": "Balloon Listing"
+            },
+            {
+              "key": "C",
+              "text": "Net Listing"
+            },
+            {
+              "key": "D",
+              "text": "Exclusive Listing"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 7,
+          "question": "John went to work for ABC Realty Group. There are several employees, agents and managers at the firm. Who would be responsible for the office?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Office Manager"
+            },
+            {
+              "key": "B",
+              "text": "Associate Broker"
+            },
+            {
+              "key": "C",
+              "text": "Employing Broker"
+            },
+            {
+              "key": "D",
+              "text": "Office Broker"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 8,
+          "question": "Broker Jane listed a property for sale. The basement was full of debris and Jane had a difficult time viewing the walls. Two weeks later Jane found a buyer who made an offer that was accepted. A week before the closing, Jane noticed that the basement wall had a crack. In this case Jane must:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tell the seller about the"
+            },
+            {
+              "key": "B",
+              "text": "crack once it is noticed."
+            },
+            {
+              "key": "C",
+              "text": "Tell the bank about the crack once it is noticed. Say nothing about the"
+            },
+            {
+              "key": "D",
+              "text": "crack once it is noticed. Tell the buyer about the crack once it is noticed."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 9,
+          "question": "Properties that refer to ghosts, homicides and suicides are known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Supernatural Properties"
+            },
+            {
+              "key": "B",
+              "text": "Paranormal Properties"
+            },
+            {
+              "key": "C",
+              "text": "Psychologically Impacted/Stigmatized Properties"
+            },
+            {
+              "key": "D",
+              "text": "Haunted Properties"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 10,
+          "question": "John had a one year lease on a one bedroom condominium. He gave the owner first/last months rent in addition to a half month security deposit. He left the apartment after one year. John's security deposit should be returned with interest within:",
+          "options": [
+            {
+              "key": "A",
+              "text": "10 days"
+            },
+            {
+              "key": "B",
+              "text": "15 days"
+            },
+            {
+              "key": "C",
+              "text": "30 days"
+            },
+            {
+              "key": "D",
+              "text": "7 days"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 11,
+          "question": "A Real Estate Agent renews their license:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Biannually"
+            },
+            {
+              "key": "B",
+              "text": "Triannually"
+            },
+            {
+              "key": "C",
+              "text": "Annually"
+            },
+            {
+              "key": "D",
+              "text": "Biennially"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 12,
+          "question": "If an agent did the following, they would automatically lose their license: Hired an unlicensed agent.",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": "Stole deposit money. Found guilty of violating Fair Housing Laws by MCAD."
+            },
+            {
+              "key": "D",
+              "text": "Took cash from the buyer."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 13,
+          "question": "A Broker had a complaint issued against him/her. How much time must the board give the agent to respond to the complaint?",
+          "options": [
+            {
+              "key": "A",
+              "text": "30 days"
+            },
+            {
+              "key": "B",
+              "text": "7 days"
+            },
+            {
+              "key": "C",
+              "text": "20 days"
+            },
+            {
+              "key": "D",
+              "text": "10 days"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 14,
+          "question": "The seller is required to pay a fee to record a deed. This fee is called:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Documentary stamps"
+            },
+            {
+              "key": "B",
+              "text": "Excise fee"
+            },
+            {
+              "key": "C",
+              "text": "Conveyancing stamps"
+            },
+            {
+              "key": "D",
+              "text": "All of the above"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 15,
+          "question": "An agent received a notice of suspension by the Division of Professional Licensure. The agent can appeal the decision by:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Asking for a new hearing."
+            },
+            {
+              "key": "B",
+              "text": "Appealing to the Supreme Court."
+            },
+            {
+              "key": "C",
+              "text": "Appealing to Superior Court."
+            },
+            {
+              "key": "D",
+              "text": "Appealing to the Legislature."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 16,
+          "question": "If an agent loses their license they must turn it over to the state within:",
+          "options": [
+            {
+              "key": "A",
+              "text": "10 days"
+            },
+            {
+              "key": "B",
+              "text": "7 days"
+            },
+            {
+              "key": "C",
+              "text": "30 days"
+            },
+            {
+              "key": "D",
+              "text": "3 days"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 17,
+          "question": "Massachusetts Real Estate laws are originated and enacted by:",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": "The Governor The Division of Professional Licensure"
+            },
+            {
+              "key": "C",
+              "text": "The State Legislature"
+            },
+            {
+              "key": "D",
+              "text": "The Massachusetts Association of Realtors"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 18,
+          "question": "Real Estate laws are known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": ""
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 19,
+          "question": "The Real Estate Board consists of how many members?",
+          "options": [
+            {
+              "key": "A",
+              "text": "6 members"
+            },
+            {
+              "key": "B",
+              "text": "3 members"
+            },
+            {
+              "key": "C",
+              "text": "5 members"
+            },
+            {
+              "key": "D",
+              "text": "7 members"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 20,
+          "question": "The Real Estate Board meets a minimum of __ times a year?",
+          "options": [
+            {
+              "key": "A",
+              "text": "4 times"
+            },
+            {
+              "key": "B",
+              "text": "3 times"
+            },
+            {
+              "key": "C",
+              "text": "8 times"
+            },
+            {
+              "key": "D",
+              "text": "6 times"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 21,
+          "question": "The purpose of licensing laws is to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Regulate Brokers"
+            },
+            {
+              "key": "B",
+              "text": "Regulate Deposits"
+            },
+            {
+              "key": "C",
+              "text": "Regulate Real Estate Laws"
+            },
+            {
+              "key": "D",
+              "text": "Protect the Public"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 22,
+          "question": "A real estate broker could be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Secret Agent"
+            },
+            {
+              "key": "B",
+              "text": "Binding Agent"
+            },
+            {
+              "key": "C",
+              "text": "Special Agent"
+            },
+            {
+              "key": "D",
+              "text": "Office Agent"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 23,
+          "question": "Under Regulation Z, a lender is required to provide the borrower with the following document:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Contract for Deed"
+            },
+            {
+              "key": "B",
+              "text": "Statement of Interest"
+            },
+            {
+              "key": "C",
+              "text": "Mortgage Schedule"
+            },
+            {
+              "key": "D",
+              "text": "Disclosure Statement"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 24,
+          "question": "Brenda saw an attractive listing in the newspaper. The ad indicated the property was a three bedroom home with two baths. The ad also indicated that interested parties should call 5 5 5-1212 or send email inquiries to purchasethishouse.com. When Brenda called she learned that the property was being offered for sale by a real estate company. This is an example of:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Advertising Superior"
+            },
+            {
+              "key": "B",
+              "text": "Soliciting Respondents"
+            },
+            {
+              "key": "C",
+              "text": "Blind Advertising"
+            },
+            {
+              "key": "D",
+              "text": "Commingled Advertising"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 25,
+          "question": "The process utilized to retain a property being lost through the foreclosure process is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Equity of Inaction."
+            },
+            {
+              "key": "B",
+              "text": "Equity of Redemption."
+            },
+            {
+              "key": "C",
+              "text": "Equity of Acceleration."
+            },
+            {
+              "key": "D",
+              "text": "Equity of Restriction."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 26,
+          "question": "If a town allows a property to be utilized in a manner inconsistent with current zoning regulations because the use existed prior to zoning charges, it would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Variance."
+            },
+            {
+              "key": "B",
+              "text": "Existing Use."
+            },
+            {
+              "key": "C",
+              "text": "Nonconforming Use."
+            },
+            {
+              "key": "D",
+              "text": "Special Use."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 27,
+          "question": "A condominium development has a tennis and bocce court. These enhancements would be known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Special assessed enhancements."
+            },
+            {
+              "key": "B",
+              "text": "Defeasible interests."
+            },
+            {
+              "key": "C",
+              "text": "Common elements."
+            },
+            {
+              "key": "D",
+              "text": "Special limited common elements."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 28,
+          "question": "If the value of a property is decreasing due to the presence of a neighboring waste disposal site, it is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Straight line depreciation."
+            },
+            {
+              "key": "B",
+              "text": "Economic obsolescence."
+            },
+            {
+              "key": "C",
+              "text": "Actual deteriation"
+            },
+            {
+              "key": "D",
+              "text": "Functional obsolescence."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 29,
+          "question": "Broker Joe was found guilty of unfaithful accounting of funds he was holding on behalf of the buyer. If a claim is filed against Broker Joe's bond, who receives the $5,000?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The seller"
+            },
+            {
+              "key": "B",
+              "text": "The buyer"
+            },
+            {
+              "key": "C",
+              "text": "The Massachusetts Association of Realtors"
+            },
+            {
+              "key": "D",
+              "text": "The Commonwealth of Massachusetts"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 30,
+          "question": "If the seller has a septic system, they must bring the following document to the closing:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Declaration of Septic"
+            },
+            {
+              "key": "B",
+              "text": "V A Notification"
+            },
+            {
+              "key": "C",
+              "text": "Title V Certificate"
+            },
+            {
+              "key": "D",
+              "text": "Buyer Acknowledgement Notice"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 31,
+          "question": "It is the seller's responsibility to bring the following items to the closing:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Deed"
+            },
+            {
+              "key": "B",
+              "text": "Title V Certificate"
+            },
+            {
+              "key": "C",
+              "text": "Smoke Detector Certificate"
+            },
+            {
+              "key": "D",
+              "text": "All of the Above"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 32,
+          "question": "Broker Joe had a complaint issued against him. Which of the following is true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He is entitled to cross examine witnesses."
+            },
+            {
+              "key": "B",
+              "text": "He is entitled to an attorney."
+            },
+            {
+              "key": "C",
+              "text": "He is entitled to expenses incurred if found innocent."
+            },
+            {
+              "key": "D",
+              "text": "He is entitled to the $5,000 to defray costs."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 33,
+          "question": "The Chairperson for the Real Estate Board is selected by the:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Board of Registration members"
+            },
+            {
+              "key": "B",
+              "text": "The Legislature"
+            },
+            {
+              "key": "C",
+              "text": "The Governor"
+            },
+            {
+              "key": "D",
+              "text": "Massachusetts Association of Realtors"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 34,
+          "question": "If a Rental Agent charges a fee to prospective tenants, the agent must:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Provide the seller with a"
+            },
+            {
+              "key": "B",
+              "text": "list of all names of"
+            },
+            {
+              "key": "C",
+              "text": "prospective tenants. Provide the buyer with a fee disclosure form."
+            },
+            {
+              "key": "D",
+              "text": "Provide the seller with a fee disclosure form. Provide the state with copies of all paperwork."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 35,
+          "question": "An individual who is purchasing a commercial property is requesting information about the environmental condition of the property. He/She would be looking for:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title V Certificate"
+            },
+            {
+              "key": "B",
+              "text": "Lead Paint Disclosure Form"
+            },
+            {
+              "key": "C",
+              "text": "21 E Certificate"
+            },
+            {
+              "key": "D",
+              "text": "Seller Disclosure Statement"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 36,
+          "question": "John listed a property for sale. The seller did not fill out a property disclosure statement. Two weeks after John began marketing the property the seller told him that a murder occurred in the house six months ago. In this case, John:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Must disclose the murder to prospective buyers."
+            },
+            {
+              "key": "B",
+              "text": "Must disclose the murder to the real estate agents in his office."
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "Is not allowed to disclose the information to the buyer unless specifically asked about it. Is not allowed to disclose the information at all."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 37,
+          "question": "The seller of a property is required to bring the following to the passing of papers:",
+          "options": [
+            {
+              "key": "A",
+              "text": "A Certification of Title signed by the Registrar of Deeds."
+            },
+            {
+              "key": "B",
+              "text": "A Smoke Detector Certificate signed by the local fire chief."
+            },
+            {
+              "key": "C",
+              "text": "A Mortgage Discharge • signed by the mortgagee."
+            },
+            {
+              "key": "D",
+              "text": "A Bill of Sale for the property."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 38,
+          "question": "A buyer asked a real estate agent if there is ledge under a property. The agent lets the buyer know that several houses in the area were built on ledge. In this case, the buyer may want to have what type of test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mold test"
+            },
+            {
+              "key": "B",
+              "text": "Radon test"
+            },
+            {
+              "key": "C",
+              "text": "Ledge test"
+            },
+            {
+              "key": "D",
+              "text": "Ore test"
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 39,
+          "question": "John has offered property for sale that is not located within the Commonwealth of Massachusetts. Which of the following situations are not true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He must obtain approval from the board before offering the property for sale."
+            },
+            {
+              "key": "B",
+              "text": "He must give prospective buyers a copy of a report published by the board."
+            },
+            {
+              "key": "C",
+              "text": "He must retain a receipt indicating he gave the buyer a report."
+            },
+            {
+              "key": "D",
+              "text": "He must pay an agent located within the state that the property is located a commission for showings."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 40,
+          "question": "Jane is offering property for sale located outside the Commonwealth of Massachusetts. She received a sales contract from a buyer and forwarded to them a copy of the report published by the board. In this situation, Jane:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Conducted the transaction"
+            },
+            {
+              "key": "B",
+              "text": "appropriately because she"
+            },
+            {
+              "key": "C",
+              "text": "gave them a copy of the report. Acted inappropriately because she gave them a copy of the report."
+            },
+            {
+              "key": "D",
+              "text": "Acted inappropriately because she received a contract before giving them a copy of the report. Will lose her license if acted inappropriately."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 41,
+          "question": "A Broker could lose their license for the following reasons:",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": "Receiving a commission from the seller and buyer without the consent and knowledge of both parties. Giving an unlicensed friend a referral fee. Not having an active bond."
+            },
+            {
+              "key": "D",
+              "text": "All of the above."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 42,
+          "question": "If John, a sole proprietor, passed away, which of the following situations would be valid regarding a temporary license?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The licensee must have"
+            },
+            {
+              "key": "B",
+              "text": "real estate experience. The licensee must be a relative of John."
+            },
+            {
+              "key": "C",
+              "text": "The licensee can be anyone designated by the board."
+            },
+            {
+              "key": "D",
+              "text": "The licensee must pass the state test within 6 months."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 43,
+          "question": "James is operating as a salesperson without a license. He obtained his license before the closing took place. In this situation, who is owed a commission for the sale?",
+          "options": [
+            {
+              "key": "A",
+              "text": "James directly."
+            },
+            {
+              "key": "B",
+              "text": "Efficient and procuring cause of the sale."
+            },
+            {
+              "key": "C",
+              "text": "No one is due a commission."
+            },
+            {
+              "key": "D",
+              "text": "The broker."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 44,
+          "question": "In this situation, who does not need a real estate license?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A rental agent."
+            },
+            {
+              "key": "B",
+              "text": "Attorney-in-fact."
+            },
+            {
+              "key": "C",
+              "text": "A listing broker."
+            },
+            {
+              "key": "D",
+              "text": "A sub-agent."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 45,
+          "question": "The Massachusetts Housing Finance Agency (MHF A) (known as Mass Housing) does the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Assists low income"
+            },
+            {
+              "key": "B",
+              "text": "buyers purchase homes."
+            },
+            {
+              "key": "C",
+              "text": "Provides financing to first-time homebuyers."
+            },
+            {
+              "key": "D",
+              "text": "Gives loans to veterans. Sells homes to first-time homebuyers."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 46,
+          "question": "When the Governor signs a law that effects the real estate profession, the change is in effect:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Until the next legislative session."
+            },
+            {
+              "key": "B",
+              "text": "Until vetoed by the legislative."
+            },
+            {
+              "key": "C",
+              "text": "For five years, then it must be renewed."
+            },
+            {
+              "key": "D",
+              "text": "It is a permanent part of the law unless changed by the legislative."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 47,
+          "question": "Real Estate Licensing law prohibits one of the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Charging 21 % for a commission."
+            },
+            {
+              "key": "B",
+              "text": "Using the buyer's downpayment to defray costs."
+            },
+            {
+              "key": "C",
+              "text": "Representing the seller and buyer."
+            },
+            {
+              "key": "D",
+              "text": "Paying referral fees."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 48,
+          "question": "The Real Estate Board meets at the following location four times a year:",
+          "options": [
+            {
+              "key": "A",
+              "text": "239 Causeway Street, Boston."
+            },
+            {
+              "key": "B",
+              "text": "Massachusetts Association of Realtors Headquarters."
+            },
+            {
+              "key": "C",
+              "text": "Wherever they desire."
+            },
+            {
+              "key": "D",
+              "text": "The State House."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 49,
+          "question": "The chairperson of the board is selected:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Biennually."
+            },
+            {
+              "key": "B",
+              "text": "Biannually."
+            },
+            {
+              "key": "C",
+              "text": "Annually."
+            },
+            {
+              "key": "D",
+              "text": "By the Governor."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 50,
+          "question": "Broker Jane is the owner of a real estate office. She hires Broker Judy to work at the office. The Real Estate Board needs to be aware of the following information:",
+          "options": [
+            {
+              "key": "A",
+              "text": "The Errors and Emissions"
+            },
+            {
+              "key": "B",
+              "text": "Company for the two"
+            },
+            {
+              "key": "C",
+              "text": "Brokers. The home addresses of Jane and Judy. The compensation"
+            },
+            {
+              "key": "D",
+              "text": "agreement between Jane and Judy. The business relationship between Jane and Judy."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 51,
+          "question": "Broker Joe could be subject to disciplinary action for failure to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Inform the board about"
+            },
+            {
+              "key": "B",
+              "text": "the real estate agents"
+            },
+            {
+              "key": "C",
+              "text": "working in his office. Place deposit funds in an escrow account. Place a copy of real estate"
+            },
+            {
+              "key": "D",
+              "text": "licenses for the agents working in his office in a conspicuous place. All of the above."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 52,
+          "question": "The reason for a broker to maintain an escrow account would be:",
+          "options": [
+            {
+              "key": "A",
+              "text": "To protect the deposit."
+            },
+            {
+              "key": "B",
+              "text": "To guarantee the agent's commission."
+            },
+            {
+              "key": "C",
+              "text": "To protect the seller and buyer."
+            },
+            {
+              "key": "D",
+              "text": "To follow a state mandated law."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 53,
+          "question": "Joe Smith, the employing broker with ABC Realty, and Jim Smith, a sales agent within the office, come to an agreement with Joe Sales to sell his property. Which situation is correct?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The seller decides the commission."
+            },
+            {
+              "key": "B",
+              "text": "The commission is set by the National Association of Realtors."
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "The agent decides the commission. The commission is agreed upon by all the parties involved."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 54,
+          "question": "If yourself and three of your friends decide to open a Realty Brokerage Corporation, the following must occur:",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": "You must obtain a bond for $10,000. You must designate each person as a member of the Board of Directors. You must get a broker's license in the corporation name."
+            },
+            {
+              "key": "D",
+              "text": "You must inform all potential sellers and buyers about the ownership status."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 55,
+          "question": "If yourself and three of your friends opened a Realty Brokerage Corporation, how many people need to have a broker's license in their own name?",
+          "options": [
+            {
+              "key": "A",
+              "text": "4"
+            },
+            {
+              "key": "B",
+              "text": "3"
+            },
+            {
+              "key": "C",
+              "text": "2"
+            },
+            {
+              "key": "D",
+              "text": "1"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 56,
+          "question": "If an agent is found guilty of violating Fair Housing laws by the Massachusetts Commission Against Discrimination, the Board would:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Conduct a hearing to"
+            },
+            {
+              "key": "B",
+              "text": "determine a course of"
+            },
+            {
+              "key": "C",
+              "text": "action. Begin an investigation to determine license status."
+            },
+            {
+              "key": "D",
+              "text": "Suspend the licensee for 60 days. Suspend the licensee for 90 days."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 57,
+          "question": "Which of the following violations result in an automatic loss of a real estate license?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Commingling of funds."
+            },
+            {
+              "key": "B",
+              "text": "Hiring an unlicensed"
+            },
+            {
+              "key": "C",
+              "text": "agent. Not sharing commissions"
+            },
+            {
+              "key": "D",
+              "text": "equally. A final finding by MCAD."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 58,
+          "question": "If a non-resident desired to practice real estate in Massachusetts, they must meet which of the following obligations?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Practice real estate for 2,000 hours before applying for a license."
+            },
+            {
+              "key": "B",
+              "text": "File a Power of Attorney with the State Board."
+            },
+            {
+              "key": "C",
+              "text": "Obtain a broker's license within 30 days."
+            },
+            {
+              "key": "D",
+              "text": "File for a temporary license."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 59,
+          "question": "Broker Sue would like to offer property for sale that is not located in Massachusetts. Which of the following is not a requirement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The State Board will hold a public hearing to decide whether the offering will be allowed."
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "Broker Sue must apply for permission to market the property. The state will charge Broker Sue for the cost to inspect the property. Broker Sue will pay for the cost of a publication by the Commonwealth of Massachusetts that will approve the offering. 250 la.a> ~ 1-,1 law - \\al - ._ 1w - w -- '-- ~ i.., l._.y"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 60,
+          "question": "James Smith is the sole proprietor of his business. He passed away after 20 years in business. Which situation would be true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Because James died as a"
+            },
+            {
+              "key": "B",
+              "text": "sole proprietor, his"
+            },
+            {
+              "key": "C",
+              "text": "business no longer exists. The state can grant a temporary license to someone to continue to operate up to one year. The state will allow the"
+            },
+            {
+              "key": "D",
+              "text": "business to continue if another broker worked in the office. The state will issue a temporary license to continue to operate for up to two years."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 61,
+          "question": "Which of the following situations would be true about a temporary licensee?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The temporary licensee must have one year experience since they are now managinga real estate company."
+            },
+            {
+              "key": "B",
+              "text": "The temporary licensee must be related to the former owner."
+            },
+            {
+              "key": "C",
+              "text": "The temporary licensee can be anyone as long as approved by the state board."
+            },
+            {
+              "key": "D",
+              "text": "The temporary licensee can renew the license."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 62,
+          "question": "In a Real Estate advertisement, a broker is required to:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Advertise the purchase price."
+            },
+            {
+              "key": "B",
+              "text": "Disclose the APR in the ad."
+            },
+            {
+              "key": "C",
+              "text": "Indicate the number of bedrooms."
+            },
+            {
+              "key": "D",
+              "text": "Indicate the company name in the ad."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 63,
+          "question": "Property taxes that are due semi- annually would be due on:",
+          "options": [
+            {
+              "key": "A",
+              "text": "May 1st/November 1st"
+            },
+            {
+              "key": "B",
+              "text": "November 1st/April 1st"
+            },
+            {
+              "key": "C",
+              "text": "January 1st/July 1st"
+            },
+            {
+              "key": "D",
+              "text": "January 1st/June 1st"
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 64,
+          "question": "Property taxes that are due quarterly are due on:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jan 1st/ April 1st/ June 1st/Sept. 1st"
+            },
+            {
+              "key": "B",
+              "text": "Aug 1st/Nov 1st/ Feb 1st/ Apr 1st"
+            },
+            {
+              "key": "C",
+              "text": "Nov 1st/Feb 1st/ May 1st/ Aug 1st"
+            },
+            {
+              "key": "D",
+              "text": "July 1st/Nov 1st/ Mar 1 st/July 1 st"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 65,
+          "question": "Sandy received her annual tax bill and believes it is too much money. Sandy can do the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Apply for an abatement and then pay the taxes."
+            },
+            {
+              "key": "B",
+              "text": "Pay the taxes and then apply for an abatement."
+            },
+            {
+              "key": "C",
+              "text": "Pay half the taxes up front before an abatement hearing."
+            },
+            {
+              "key": "D",
+              "text": "Pay nothing until the abatement status is posted."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 66,
+          "question": "A person who works in a real estate office as an unlicensed assistant can do the following:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Put advertisements in the newspaper."
+            },
+            {
+              "key": "B",
+              "text": "Take an apartment listing from a property owner."
+            },
+            {
+              "key": "C",
+              "text": "Conduct an open house."
+            },
+            {
+              "key": "D",
+              "text": "Provide information to buyers over the telephone."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 67,
+          "question": "For what purpose does the state mandate a non-resident file a Power of Attorney with the Real Estate Board?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To inform the board"
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "about the owner of a property. In case of an accident at the property. To provide the board with legal notice involving litigation to the property. To provide the board with knowledge regarding the buyers."
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 68,
+          "question": "Broker Jane and Agent Jim are real estate professionals in Boston. Broker Jane is the listing agent of a property, and Agent Jim is the selling agent for that property. Agent Jim has not met the seller of the property, and Broker Jane has not met the buyer of the property. There are not any contractual agreements between Agent Jim and the buyer. What is the relationship status?",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": "c. Broker Jane is a sub- agent of Agent Jim. Broker Jane and Agent Jim represent the seller. Broker Jane and Agent Jim represent the buyer and seller."
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "Agent Jim represents the buyer."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 69,
+          "question": "When is an agent required to provide a potential buyer with an agency disclosure form?",
+          "options": [
+            {
+              "key": "A",
+              "text": "When they first meet"
+            },
+            {
+              "key": "B",
+              "text": "When the buyer makes an offer on a property"
+            },
+            {
+              "key": "C",
+              "text": "When they first meet to discuss specific properties"
+            },
+            {
+              "key": "D",
+              "text": "At the open house 252 iw •· - '- 4... ----- --- ... --_, -- i.- 'w ------ ~ _. ... ~ ~ ~ ~ ~ ~ ~ ~ ~ --"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 70,
+          "question": "An agent who is writing up an offer on a property represented the seller. The buyer requested a list of home inspectors. In this situation, the agent can:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Provide a few names"
+            },
+            {
+              "key": "B",
+              "text": "because the buyer asked."
+            },
+            {
+              "key": "C",
+              "text": "Provide a list of inspectors located in the town. Provide a list of the top"
+            },
+            {
+              "key": "D",
+              "text": "rated inspectors. Provide a list that includes every home inspector in the Commonwealth."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 71,
+          "question": "Is a buyer of a two-family home built prior to 1978 allowed to waive the lead paint inspection?",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": "No, because it was built before 1978, the test is mandatory. Yes, the buyer is not required to test for lead. Yes, as long as the buyer knows it is a requirement to remove the lead."
+            },
+            {
+              "key": "D",
+              "text": "No, because if lead is found the seller is required to remove it."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 72,
+          "question": "The form required to be signed by a seller, agent and buyer regarding lead paint is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Property Transfer"
+            },
+            {
+              "key": "B",
+              "text": "Notification Form."
+            },
+            {
+              "key": "C",
+              "text": "Property Transfer Nullification Fact. Property Transference"
+            },
+            {
+              "key": "D",
+              "text": "Notice. Property Transfer Notification Fact."
+            }
+          ],
+          "correctOptionKey": "A"
+        },
+        {
+          "id": 73,
+          "question": "A Real Estate Agent is required to inform a prospective buyer about the possibility of lead based materials in properties built before:",
+          "options": [
+            {
+              "key": "A",
+              "text": ""
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "1987 1968 1988"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 74,
+          "question": "An agent taking an offer on a property must provide the buyer with the following document before writing up the offer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Deed to the house"
+            },
+            {
+              "key": "B",
+              "text": "Tax bill for the property"
+            },
+            {
+              "key": "C",
+              "text": "Your Rights as a Consumer Bulletin"
+            },
+            {
+              "key": "D",
+              "text": "Your Property Rights Bulletin by HUD"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 75,
+          "question": "How many days must a prospective buyer be given to conduct a lead paint inspection?",
+          "options": [
+            {
+              "key": "A",
+              "text": "7 days"
+            },
+            {
+              "key": "B",
+              "text": "14 days"
+            },
+            {
+              "key": "C",
+              "text": "30 days"
+            },
+            {
+              "key": "D",
+              "text": "IO days"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 76,
+          "question": "Massachusetts Consumer Protection Laws are aimed at preventing deceptive practices and providing full disclosure of information. The penalty for a violation could be triple damages. This law is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Title V"
+            },
+            {
+              "key": "B",
+              "text": "183A"
+            },
+            {
+              "key": "C",
+              "text": "93A"
+            },
+            {
+              "key": "D",
+              "text": "Title 10"
+            }
+          ],
+          "correctOptionKey": "C"
+        },
+        {
+          "id": 77,
+          "question": "How many inspectors may a Buyer Agent refer:",
+          "options": [
+            {
+              "key": "A",
+              "text": "0"
+            },
+            {
+              "key": "B",
+              "text": "3"
+            },
+            {
+              "key": "C",
+              "text": "The entire list of inspectors."
+            },
+            {
+              "key": "D",
+              "text": "There is no requirement"
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 78,
+          "question": "If an agent is earning a commission from both the buyer and seller without their prior knowledge and consent, it is known as:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Disclosed Dual Agency."
+            },
+            {
+              "key": "B",
+              "text": "Commingling."
+            },
+            {
+              "key": "C",
+              "text": "By-Agency."
+            },
+            {
+              "key": "D",
+              "text": "Undisclosed Dual Agency."
+            }
+          ],
+          "correctOptionKey": "D"
+        },
+        {
+          "id": 79,
+          "question": "Agent Joe is selling a property. The buyers backed out of the deal due to defect found during the home inspection. In this situation, Agent Joe must:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Tell the sellers to fix the"
+            },
+            {
+              "key": "B",
+              "text": "defects."
+            },
+            {
+              "key": "C",
+              "text": "Disclose to future buyers the defects found. Do nothing because the"
+            },
+            {
+              "key": "D",
+              "text": "buyer must have their own inspection. Do nothing because they represent the seller."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 80,
+          "question": "Joe is purchasing a two-family property. The unit he intends to rent has lead paint. In this case, which is true?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Joe can tum down prospective tenants with children because he owner occupies the"
+            },
+            {
+              "key": "B",
+              "text": ""
+            },
+            {
+              "key": "C",
+              "text": ""
+            },
+            {
+              "key": "D",
+              "text": "property. Joe cannot tum someone away because they have children. Joe must not rent the apartment until the lead is removed. Joe must sue the seller for not telling him about the lead."
+            }
+          ],
+          "correctOptionKey": "B"
+        },
+        {
+          "id": 81,
+          "question": "If an agent is representing a seller and a buyer with permission, the agent would bea:",
+          "options": [
+            {
+              "key": "A",
+              "text": "Joint Agent."
+            },
+            {
+              "key": "B",
+              "text": "Undisclosed Dual Agent."
+            },
+            {
+              "key": "C",
+              "text": "Dual Agent. Exclusive Agent."
+            },
+            {
+              "key": "D",
+              "text": "254 I.ml .\\al"
+            }
+          ],
+          "correctOptionKey": "C"
         }
       ]
     }
