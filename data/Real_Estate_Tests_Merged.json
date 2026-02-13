@@ -7258,19 +7258,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Tell the seller about the"
+              "text": "Tell the seller about the crack once it is noticed."
             },
             {
               "key": "B",
-              "text": "crack once it is noticed."
+              "text": "Tell the bank about the crack once it is noticed."
             },
             {
               "key": "C",
-              "text": "Tell the bank about the crack once it is noticed. Say nothing about the"
+              "text": "Say nothing about the crack once it is noticed. "
             },
             {
               "key": "D",
-              "text": "crack once it is noticed. Tell the buyer about the crack once it is noticed."
+              "text": "Tell the buyer about the crack once it is noticed."
             }
           ],
           "correctOptionKey": "D"
@@ -7350,15 +7350,15 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "Hired an unlicensed agent."
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Stole deposit money."
             },
             {
               "key": "C",
-              "text": "Stole deposit money. Found guilty of violating Fair Housing Laws by MCAD."
+              "text": "Found guilty of violating Fair Housing Laws by MCAD."
             },
             {
               "key": "D",
@@ -7465,7 +7465,7 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "The Governor"
             },
             {
               "key": "B",
@@ -7488,19 +7488,19 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "Governing ordinances"
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Police Power"
             },
             {
               "key": "C",
-              "text": ""
+              "text": "Promulgated ordinances"
             },
             {
               "key": "D",
-              "text": ""
+              "text": "Police enactments"
             }
           ],
           "correctOptionKey": "B"
@@ -7856,19 +7856,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Provide the seller with a"
+              "text": "Provide the seller with a list of all names of prospective tenants. "
             },
             {
               "key": "B",
-              "text": "list of all names of"
+              "text": "Provide the buyer with a fee disclosure form."
             },
             {
               "key": "C",
-              "text": "prospective tenants. Provide the buyer with a fee disclosure form."
+              "text": "Provide the seller with a fee disclosure form. "
             },
             {
               "key": "D",
-              "text": "Provide the seller with a fee disclosure form. Provide the state with copies of all paperwork."
+              "text": "Provide the state with copies of all paperwork."
             }
           ],
           "correctOptionKey": "B"
@@ -7910,11 +7910,11 @@
             },
             {
               "key": "C",
-              "text": ""
+              "text": "Is not allowed to disclose the information to the buyer unless specifically asked about it."
             },
             {
               "key": "D",
-              "text": "Is not allowed to disclose the information to the buyer unless specifically asked about it. Is not allowed to disclose the information at all."
+              "text": "Is not allowed to disclose the information at all."
             }
           ],
           "correctOptionKey": "C"
@@ -7933,7 +7933,7 @@
             },
             {
               "key": "C",
-              "text": "A Mortgage Discharge • signed by the mortgagee."
+              "text": "A Mortgage Discharge signed by the mortgagee."
             },
             {
               "key": "D",
@@ -7994,19 +7994,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Conducted the transaction"
+              "text": "Conducted the transaction appropriately because she gave them a copy of the report. "
             },
             {
               "key": "B",
-              "text": "appropriately because she"
+              "text": "Acted inappropriately because she gave them a copy of the report. "
             },
             {
               "key": "C",
-              "text": "gave them a copy of the report. Acted inappropriately because she gave them a copy of the report."
+              "text": "Acted inappropriately because she received a contract before giving them a copy of the report. "
             },
             {
               "key": "D",
-              "text": "Acted inappropriately because she received a contract before giving them a copy of the report. Will lose her license if acted inappropriately."
+              "text": "Will lose her license if acted inappropriately."
             }
           ],
           "correctOptionKey": "C"
@@ -8017,15 +8017,15 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "Receiving a commission from the seller and buyer without the consent and knowledge of both parties. "
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Giving an unlicensed friend a referral fee."
             },
             {
               "key": "C",
-              "text": "Receiving a commission from the seller and buyer without the consent and knowledge of both parties. Giving an unlicensed friend a referral fee. Not having an active bond."
+              "text": "Not having an active bond."
             },
             {
               "key": "D",
@@ -8040,11 +8040,11 @@
           "options": [
             {
               "key": "A",
-              "text": "The licensee must have"
+              "text": "The licensee must have real estate experience. "
             },
             {
               "key": "B",
-              "text": "real estate experience. The licensee must be a relative of John."
+              "text": "The licensee must be a relative of John."
             },
             {
               "key": "C",
@@ -8109,19 +8109,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Assists low income"
+              "text": "Assists low income buyers purchase homes."
             },
             {
               "key": "B",
-              "text": "buyers purchase homes."
-            },
-            {
-              "key": "C",
               "text": "Provides financing to first-time homebuyers."
             },
             {
+              "key": "C",
+              "text": "Gives loans to veterans."
+            },
+            {
               "key": "D",
-              "text": "Gives loans to veterans. Sells homes to first-time homebuyers."
+              "text": " Sells homes to first-time homebuyers."
             }
           ],
           "correctOptionKey": "B"
@@ -8224,19 +8224,19 @@
           "options": [
             {
               "key": "A",
-              "text": "The Errors and Emissions"
+              "text": "The Errors and Emissions Company for the two Brokers."
             },
             {
               "key": "B",
-              "text": "Company for the two"
+              "text": " The home addresses of Jane and Judy. "
             },
             {
               "key": "C",
-              "text": "Brokers. The home addresses of Jane and Judy. The compensation"
+              "text": "The compensation agreement between Jane and Judy. "
             },
             {
               "key": "D",
-              "text": "agreement between Jane and Judy. The business relationship between Jane and Judy."
+              "text": "The business relationship between Jane and Judy."
             }
           ],
           "correctOptionKey": "D"
@@ -8247,19 +8247,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Inform the board about"
+              "text": "Inform the board about the real estate agents working in his office."
             },
             {
               "key": "B",
-              "text": "the real estate agents"
+              "text": "Place deposit funds in an escrow account. "
             },
             {
               "key": "C",
-              "text": "working in his office. Place deposit funds in an escrow account. Place a copy of real estate"
+              "text": "Place a copy of real estate licenses for the agents working in his office in a conspicuous place."
             },
             {
               "key": "D",
-              "text": "licenses for the agents working in his office in a conspicuous place. All of the above."
+              "text": " All of the above."
             }
           ],
           "correctOptionKey": "D"
@@ -8301,11 +8301,11 @@
             },
             {
               "key": "C",
-              "text": ""
+              "text": "The agent decides the commission."
             },
             {
               "key": "D",
-              "text": "The agent decides the commission. The commission is agreed upon by all the parties involved."
+              "text": " The commission is agreed upon by all the parties involved."
             }
           ],
           "correctOptionKey": "D"
@@ -8316,15 +8316,15 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "You must obtain a bond for $10,000. "
             },
             {
               "key": "B",
-              "text": ""
+              "text": "You must designate each person as a member of the Board of Directors."
             },
             {
               "key": "C",
-              "text": "You must obtain a bond for $10,000. You must designate each person as a member of the Board of Directors. You must get a broker's license in the corporation name."
+              "text": "You must get a broker's license in the corporation name."
             },
             {
               "key": "D",
@@ -8362,19 +8362,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Conduct a hearing to"
+              "text": "Conduct a hearing to determine a course of action."
             },
             {
               "key": "B",
-              "text": "determine a course of"
+              "text": "Begin an investigation to determine license status."
             },
             {
               "key": "C",
-              "text": "action. Begin an investigation to determine license status."
+              "text": "Suspend the licensee for 60 days."
             },
             {
               "key": "D",
-              "text": "Suspend the licensee for 60 days. Suspend the licensee for 90 days."
+              "text": "Suspend the licensee for 90 days."
             }
           ],
           "correctOptionKey": "C"
@@ -8389,15 +8389,15 @@
             },
             {
               "key": "B",
-              "text": "Hiring an unlicensed"
+              "text": "Hiring an unlicensed agent."
             },
             {
               "key": "C",
-              "text": "agent. Not sharing commissions"
+              "text": "Not sharing commissions equally."
             },
             {
               "key": "D",
-              "text": "equally. A final finding by MCAD."
+              "text": " A final finding by MCAD."
             }
           ],
           "correctOptionKey": "D"
@@ -8435,15 +8435,15 @@
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Broker Sue must apply for permission to market the property."
             },
             {
               "key": "C",
-              "text": ""
+              "text": "The state will charge Broker Sue for the cost to inspect the property."
             },
             {
               "key": "D",
-              "text": "Broker Sue must apply for permission to market the property. The state will charge Broker Sue for the cost to inspect the property. Broker Sue will pay for the cost of a publication by the Commonwealth of Massachusetts that will approve the offering. 250 la.a> ~ 1-,1 law - \\al - ._ 1w - w -- '-- ~ i.., l._.y"
+              "text": "Broker Sue will pay for the cost of a publication by the Commonwealth of Massachusetts that will approve the offering. "
             }
           ],
           "correctOptionKey": "C"
@@ -8454,19 +8454,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Because James died as a"
+              "text": "Because James died as a sole proprietor, his business no longer exists."
             },
             {
               "key": "B",
-              "text": "sole proprietor, his"
+              "text": "The state can grant a temporary license to someone to continue to operate up to one year."
             },
             {
               "key": "C",
-              "text": "business no longer exists. The state can grant a temporary license to someone to continue to operate up to one year. The state will allow the"
+              "text": "The state will allow the business to continue if another broker worked in the office."
             },
             {
               "key": "D",
-              "text": "business to continue if another broker worked in the office. The state will issue a temporary license to continue to operate for up to two years."
+              "text": "The state will issue a temporary license to continue to operate for up to two years."
             }
           ],
           "correctOptionKey": "B"
@@ -8615,19 +8615,19 @@
           "options": [
             {
               "key": "A",
-              "text": "To inform the board"
+              "text": "To inform the board about the owner of a property."
             },
             {
               "key": "B",
-              "text": ""
+              "text": "In case of an accident at the property. "
             },
             {
               "key": "C",
-              "text": ""
+              "text": "To provide the board with legal notice involving litigation to the property."
             },
             {
               "key": "D",
-              "text": "about the owner of a property. In case of an accident at the property. To provide the board with legal notice involving litigation to the property. To provide the board with knowledge regarding the buyers."
+              "text": " To provide the board with knowledge regarding the buyers."
             }
           ],
           "correctOptionKey": "C"
@@ -8638,15 +8638,15 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "Broker Jane is a sub- agent of Agent Jim."
             },
             {
               "key": "B",
-              "text": "c. Broker Jane is a sub- agent of Agent Jim. Broker Jane and Agent Jim represent the seller. Broker Jane and Agent Jim represent the buyer and seller."
+              "text": "Broker Jane and Agent Jim represent the seller. "
             },
             {
               "key": "C",
-              "text": ""
+              "text": "Broker Jane and Agent Jim represent the buyer and seller."
             },
             {
               "key": "D",
@@ -8673,7 +8673,7 @@
             },
             {
               "key": "D",
-              "text": "At the open house 252 iw •· - '- 4... ----- --- ... --_, -- i.- 'w ------ ~ _. ... ~ ~ ~ ~ ~ ~ ~ ~ ~ --"
+              "text": "At the open house"
             }
           ],
           "correctOptionKey": "C"
@@ -8684,19 +8684,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Provide a few names"
+              "text": "Provide a few names because the buyer asked."
             },
             {
               "key": "B",
-              "text": "because the buyer asked."
+              "text": "Provide a list of inspectors located in the town."
             },
             {
               "key": "C",
-              "text": "Provide a list of inspectors located in the town. Provide a list of the top"
+              "text": "Provide a list of the top rated inspectors. "
             },
             {
               "key": "D",
-              "text": "rated inspectors. Provide a list that includes every home inspector in the Commonwealth."
+              "text": " Provide a list that includes every home inspector in the Commonwealth."
             }
           ],
           "correctOptionKey": "D"
@@ -8707,15 +8707,15 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "No, because it was built before 1978, the test is mandatory. "
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Yes, the buyer is not required to test for lead."
             },
             {
               "key": "C",
-              "text": "No, because it was built before 1978, the test is mandatory. Yes, the buyer is not required to test for lead. Yes, as long as the buyer knows it is a requirement to remove the lead."
+              "text": " Yes, as long as the buyer knows it is a requirement to remove the lead."
             },
             {
               "key": "D",
@@ -8730,19 +8730,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Property Transfer"
+              "text": "Property Transfer Notification Form."
             },
             {
               "key": "B",
-              "text": "Notification Form."
+              "text": "Property Transfer Nullification Fact."
             },
             {
               "key": "C",
-              "text": "Property Transfer Nullification Fact. Property Transference"
+              "text": "Property Transference Notice."
             },
             {
               "key": "D",
-              "text": "Notice. Property Transfer Notification Fact."
+              "text": "Property Transfer Notification Fact."
             }
           ],
           "correctOptionKey": "A"
@@ -8753,19 +8753,19 @@
           "options": [
             {
               "key": "A",
-              "text": ""
+              "text": "1987"
             },
             {
               "key": "B",
-              "text": ""
+              "text": "1968"
             },
             {
               "key": "C",
-              "text": ""
+              "text": "1988"
             },
             {
               "key": "D",
-              "text": "1987 1968 1988"
+              "text": "1978"
             }
           ],
           "correctOptionKey": "D"
@@ -8891,19 +8891,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Tell the sellers to fix the"
+              "text": "Tell the sellers to fix the defects."
             },
             {
               "key": "B",
-              "text": "defects."
+              "text": "Disclose to future buyers the defects found."
             },
             {
               "key": "C",
-              "text": "Disclose to future buyers the defects found. Do nothing because the"
+              "text": "Do nothing because the buyer must have their own inspection."
             },
             {
               "key": "D",
-              "text": "buyer must have their own inspection. Do nothing because they represent the seller."
+              "text": "Do nothing because they represent the seller."
             }
           ],
           "correctOptionKey": "B"
@@ -8914,19 +8914,19 @@
           "options": [
             {
               "key": "A",
-              "text": "Joe can tum down prospective tenants with children because he owner occupies the"
+              "text": "Joe can turn down prospective tenants with children because he owner occupies the property."
             },
             {
               "key": "B",
-              "text": ""
+              "text": "Joe cannot turn someone away because they have children. "
             },
             {
               "key": "C",
-              "text": ""
+              "text": "Joe must not rent the apartment until the lead is removed. "
             },
             {
               "key": "D",
-              "text": "property. Joe cannot tum someone away because they have children. Joe must not rent the apartment until the lead is removed. Joe must sue the seller for not telling him about the lead."
+              "text": "Joe must sue the seller for not telling him about the lead."
             }
           ],
           "correctOptionKey": "B"
@@ -8945,11 +8945,11 @@
             },
             {
               "key": "C",
-              "text": "Dual Agent. Exclusive Agent."
+              "text": "Dual Agent. "
             },
             {
               "key": "D",
-              "text": "254 I.ml .\\al"
+              "text": "Exclusive Agent."
             }
           ],
           "correctOptionKey": "C"
